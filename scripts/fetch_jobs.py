@@ -480,61 +480,125 @@ def normalize(job, src, metadata, old, today, timestamp=None):
     }
 
 
-def write_openings(data):
-    """Publish a GitHub-style browsable role list, statistics first.
+def parse_employer_posted_at(value):
+    """Return comparable UTC time for a trustworthy ISO employer posting date.
 
-    Public pay values are employer-advertised; personal thresholds are NEVER
-    committed to GitHub. For status, the employer apply link is authoritative.
+    A YYYY-MM-DD string has *day* precision, not an exact publication hour.
+    Missing, vague or invalid values stay unknown; never substitute first_seen.
     """
-    groups_order=[
-        'Biostatistics / Statistical Programming',
-        'Statistics / Statistical Methods',
-        'Epidemiology / RWE / HEOR',
-        'Bioinformatics / Computational Biology',
-        'Data Science / ML',
-        'Analytics / BI',
-        'Data Engineering',
-        'Applied Research / Modeling',
-        'Strategy / Consulting',
-    ]
-    active=[j for j in data.get('jobs',[]) if j.get('status')=='open' and str(j.get('url','')).startswith('https://')]
-    listings={name:[] for name in groups_order}
-    for j in active:
-        family=j.get('primary_focus') or next((x for x in (j.get('focus') or []) if x in listings),'Applied Research / Modeling')
-        listings.setdefault(family,[]).append(j)
-    def safe(v):
-        return str(v or '').replace('\\','').replace('|','\\|').replace('\n',' ').replace('[','\\[').replace(']','\\]')
-    total=len(active)
-    sections=[
-      '# Summer 2027 Internships',
-      '',
-      f'**{total} currently tracked openings** · Last collected: {data.get("updated_at", "Unknown")[:10]} UTC',
-      '',
-      'Role categories prioritize statistics and related scientific analysis. Links go to the original employers or credited discovery sources.',
-      'Matches can be supported by title, department, or job-description evidence. Verify eligibility and availability with employers.',
-      '',
-      '[Project home](README.md) · Open the interactive dashboard using your published GitHub Pages URL',
-      '',
-    ]
-    for cat in groups_order+sorted(set(listings)-set(groups_order)):
-        items=listings.get(cat,[])
-        if not items:continue
-        items.sort(key=lambda j:(-int(j.get('score') or 0),j.get('company','').casefold(),j.get('title','')))
-        sections += [f'## {cat} ({len(items)})','',
-             '| Company | Internship | Location | Advertised pay | Why matched | Summer 2027 |',
-             '|---|---|---|---|---|---|']
-        for j in items:
-            p=j.get('pay') or {}
-            lo=p.get('hourly_min');hi=p.get('hourly_max')
-            pay='Not disclosed' if lo is None else f'${lo:g}'+(f'–${hi:g}' if hi is not None and hi!=lo else '')+'/hr'
-            if p.get('basis')=='annualized_estimate':pay+=' (annualized estimate)'
-            when='Confirmed' if j.get('season')=='summer_confirmed' else 'Verify'
-            sections.append(f'| {safe(j.get("company"))} | [{safe(j.get("title"))}]({j["url"]}) | {safe(j.get("location"))} | {pay} | {safe(j.get("match_source") or "Title")}{" · Review" if j.get("fit_tier")=="review" else ""} | {when} |')
-        sections.append('')
-    if not active:sections+=['No matching listings collected yet. Run the GitHub Actions workflow.','']
-    sections+=['---','','Listings are refreshed on a schedule. An ATS error is not evidence a role has closed. Salary data, eligibility, and dates require employer verification.','']
-    (ROOT/'OPENINGS.md').write_text('\n'.join(sections),encoding='utf-8')
+    if not isinstance(value, str) or not value.strip():
+        return None
+    raw = value.strip()
+    if not re.match(r"^\d{4}-\d{2}-\d{2}(?:T|$)", raw):
+        return None
+    try:
+        parsed = datetime.fromisoformat(raw.replace('Z', '+00:00'))
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        return parsed.astimezone(timezone.utc)
+    except (TypeError, ValueError, OverflowError):
+        return None
 
+
+def posted_display(value):
+    """Show only the publication precision actually provided by the employer."""
+    dt = parse_employer_posted_at(value)
+    if dt is None:
+        return 'Not provided'
+    if len(str(value).strip()) == 10 or dt.tzinfo and not re.search(r'[+-]\d\d:?\d\d|Z$', str(value).strip()):
+        return dt.strftime('%Y-%m-%d')
+    return dt.strftime('%Y-%m-%d %H:%M UTC')
+
+
+def detected_display(job):
+    """An observation time, never an employer publishing time."""
+    raw = job.get('first_seen_at') or ''
+    try:
+        parsed = datetime.fromisoformat(raw.replace('Z', '+00:00'))
+        if parsed.tzinfo is not None:
+            return parsed.astimezone(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+    except (TypeError, ValueError, AttributeError):
+        pass
+    return str(job.get('first_seen') or 'Unknown')
+
+
+def write_openings(data):
+    """Newest actual employer postings FIRST, independent of role category.
+
+    New detection timestamps are separately labeled, and unknown publication
+    dates do not jump to the top after every scanner run.
+    """
+    active = [j for j in data.get('jobs', []) if j.get('status') == 'open'
+              and str(j.get('url', '')).startswith('https://')]
+    def safe(v):
+        return str(v or '').replace('\\', '').replace('|', '\\|').replace('\n', ' ').replace('[', '\\[').replace(']', '\\]')
+    scan_time = parse_employer_posted_at(str(data.get('updated_at') or '')) or datetime.now(timezone.utc)
+    valid = []
+    unknown = []
+    for job in active:
+        date = parse_employer_posted_at(job.get('posted_at'))
+        # Ignore implausibly future-dated records rather than making them look urgent.
+        if date and (date - scan_time).total_seconds() < 86400:
+            valid.append((date, job))
+        else:
+            unknown.append(job)
+    valid.sort(key=lambda entry: (entry[0], int(entry[1].get('score') or 0),
+                                  entry[1].get('company', '').casefold()), reverse=True)
+    unknown.sort(key=lambda j: (j.get('first_seen_at') or j.get('first_seen') or '',
+                                int(j.get('score') or 0)), reverse=True)
+    categories = [
+        ('today', 'Posted today (UTC)'),
+        ('week', 'Posted 1–7 calendar days ago'),
+        ('month', 'Posted 8–30 days ago'),
+        ('older', 'Posted more than 30 days ago'),
+        ('unknown', 'Employer posting date unavailable — newest detected first'),
+    ]
+    buckets = {k: [] for k, _ in categories}
+    for date, job in valid:
+        days = (scan_time.date() - date.date()).days
+        bucket = 'today' if days <= 0 else 'week' if days <= 7 else 'month' if days <= 30 else 'older'
+        buckets[bucket].append(job)
+    buckets['unknown'] = unknown
+    count = len(active)
+    sections = [
+        '# Summer 2027 Internships', '',
+        f'**{count} currently tracked openings** · Last scan: {scan_time.strftime("%Y-%m-%d %H:%M UTC")}', '',
+        '**Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.',
+        'The *First detected* column records when this scanner first found a listing; it is NOT the posting date.',
+        'Postings with unknown release dates are below the dated results, sorted by first detection.', '',
+        '[Project home](README.md) · [Interactive dashboard](index.html)', '',
+        f'**With employer dates: {len(valid)}** · **Date unavailable: {len(unknown)}**', '',
+    ]
+    for key, heading in categories:
+        items = buckets[key]
+        if not items:
+            continue
+        sections += [f'## {heading} ({len(items)})', '',
+            '| Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |',
+            '|---|---|---|---|---|---|---|---|']
+        for j in items:
+            pay = j.get('pay') or {}
+            low = pay.get('hourly_min'); high = pay.get('hourly_max')
+            rate = 'Not disclosed' if low is None else f'${low:g}' + (f'–${high:g}' if high is not None and high != low else '') + '/hr'
+            if pay.get('basis') == 'annualized_estimate':
+                rate += ' (estimated)'
+            match = j.get('match_source') or 'Title'
+            if j.get('fit_tier') == 'review':
+                match += ' · Review'
+            discipline = j.get('primary_focus') or ', '.join(j.get('focus') or []) or 'Related research'
+            sections.append(
+                f'| {safe(posted_display(j.get("posted_at")) if key != "unknown" else "Not provided")} '
+                f'| {safe(j.get("company"))} | [{safe(j.get("title"))}]({j["url"]}) '
+                f'| {safe(discipline)} | {safe(j.get("location"))} | {safe(rate)} '
+                f'| {safe(detected_display(j))} | {safe(match)} |'
+            )
+        sections.append('')
+    if not active:
+        sections += ['No matching openings collected yet. Run the GitHub Actions workflow.', '']
+    sections += ['---', '',
+        'Posting dates are employer-supplied and may be date-only, delayed or missing. First detection is not publication time.',
+        'Links, eligibility, pay and continued availability should be verified directly with the employer.', '']
+    (ROOT / 'OPENINGS.md').write_text('\n'.join(sections), encoding='utf-8')
 
 
 

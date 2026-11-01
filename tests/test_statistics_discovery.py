@@ -61,7 +61,9 @@ class StatisticsDiscoveryTests(unittest.TestCase):
                 b={**job_base,'id':'ds1','company':'DataTech','title':'Data Science Intern','primary_focus':'Data Science / ML'}
                 fetch_jobs.write_openings({'updated_at':'2026-10-31T20:00:00Z','jobs':[a,b]})
                 content=(Path(tmp)/'OPENINGS.md').read_text()
-                self.assertLess(content.index('## Biostatistics'),content.index('## Data Science'))
+                self.assertIn('Sorted by employer posting date, newest first',content)
+                self.assertIn('Biostatistics / Statistical Programming',content)
+                self.assertIn('Data Science / ML',content)
                 self.assertIn('https://jobs.example.org/apply',content)
                 self.assertNotIn('minimum compensation',content.lower())
                 self.assertNotIn('personal salary',content.lower())

@@ -158,16 +158,39 @@
       $('comparison-info').textContent='Enter a reference hourly rate and state to compare estimated purchasing power. Unknown pay and unclear locations remain available for review.';
     }
   }
+  function postedTimestamp(j){
+    const raw=String(j.posted_at||'').trim();
+    if(!/^\d{4}-\d{2}-\d{2}(?:T|$)/.test(raw))return null;
+    const timestampHasTimezone=/(?:Z|[+-]\d{2}:?\d{2})$/.test(raw);
+    const t=Date.parse(timestampHasTimezone ? raw : raw.slice(0,10)+'T00:00:00Z');
+    return Number.isFinite(t) && t<=Date.now()+86400000 ? t : null;
+  }
+  function postedText(j){
+    const timestamp=postedTimestamp(j);
+    if(timestamp===null)return 'Posted: employer date unavailable';
+    const raw=String(j.posted_at).trim();
+    const dayOnly=/^\d{4}-\d{2}-\d{2}$/.test(raw)||!/(Z|[+-]\d\d:?\d\d)$/.test(raw);
+    const label=new Date(timestamp).toLocaleDateString('en-US',{timeZone:'UTC',month:'short',day:'numeric',year:'numeric'});
+    if(dayOnly)return `Posted: ${label} (date only)`;
+    const time=new Date(timestamp).toLocaleTimeString('en-US',{timeZone:'UTC',hour:'2-digit',minute:'2-digit',hour12:false});
+    return `Posted: ${label}, ${time} UTC`;
+  }
+  function newestPosted(a,b){
+    const left=postedTimestamp(a), right=postedTimestamp(b);
+    if(left!==null && right!==null && right!==left)return right-left;
+    if(left===null && right!==null)return 1;
+    if(right===null && left!==null)return -1;
+    return String(b.first_seen_at||b.first_seen||'').localeCompare(String(a.first_seen_at||a.first_seen||''))
+       ||(Number(b.score)||0)-(Number(a.score)||0);
+  }
   function card(j){
     const letters=String(j.company||'?').split(/\s+/).slice(0,2).map(x=>x[0]).join('').toUpperCase();
     const current=tracking[j.id]?.status||'Not started';
     const detectedAt=j.first_seen_at||null;
     const detectedMinutes=detectedAt?Math.round((Date.now()-Date.parse(detectedAt))/60000):null;
     const fresh=detectedMinutes!==null && detectedMinutes>=0 && detectedMinutes<1440;
-    const newBadge=fresh && j.status==='open' ? '<span class="job-badge new">NEW TODAY</span>':'';
-    const postedMs=j.posted_at?Date.parse(j.posted_at):NaN;
-    const postedAge=Number.isFinite(postedMs)?Math.floor((Date.now()-postedMs)/3600000):null;
-    const postedLabel=postedAge!==null && postedAge>=0 ? (postedAge<1?'Posted <1h ago':postedAge<48?`Posted ${postedAge}h ago`:`Posted ${Math.floor(postedAge/24)}d ago`) : 'Employer posting date unknown';
+    const newBadge=fresh && j.status==='open' ? '<span class="job-badge new">NEWLY DETECTED</span>':'';
+    const postedLabel=postedText(j);
     const detectionLabel=detectedMinutes!==null && detectedMinutes>=0 ? (detectedMinutes<60?'Detected '+detectedMinutes+'m ago':detectedMinutes<2880?'Detected '+Math.floor(detectedMinutes/60)+'h ago':'Detected '+Math.floor(detectedMinutes/1440)+'d ago'):'First detected '+niceDate(j.first_seen);
     const isOpen=j.status==='open';
     const fitBadge=j.fit_tier==='strong'?'<span class="job-badge">STRONG ROLE MATCH</span>':j.fit_tier==='related'?'<span class="job-badge">RELATED ROLE</span>':j.fit_tier==='review'?'<span class="job-badge">REVIEW DESCRIPTION</span>':'';
@@ -184,6 +207,21 @@
       if(state!=='all' && j.status!==state)return false;
       const q=$('filter-search').value.trim().toLowerCase();
       if(q && ![j.company,j.title,j.location,j.sector,j.department,j.match_source,...(j.reasons||[]),...(j.focus||[])].join(' ').toLowerCase().includes(q))return false;
+      const postFilter=$('filter-posted').value;
+      if(postFilter!=='all'){
+        const posted=postedTimestamp(j);
+        if(postFilter==='unknown'){
+          if(posted!==null)return false;
+        }else{
+          if(posted===null)return false;
+          const nowUTC=new Date().toISOString().slice(0,10);
+          const todayUTC=Date.parse(nowUTC+'T00:00:00Z');
+          const postedUTC=Date.parse(new Date(posted).toISOString().slice(0,10)+'T00:00:00Z');
+          const dayDiff=Math.round((todayUTC-postedUTC)/86400000);
+          const maxDays=postFilter==='today'?0:Number(postFilter)-1;
+          if(dayDiff<0||dayDiff>maxDays)return false;
+        }
+      }
       const since=$('filter-recency').value;
       if(since!=='all'){
         const discovered=j.first_seen_at && Date.parse(j.first_seen_at);
@@ -222,6 +260,7 @@
       return true;
     });
     const mode=$('filter-sort').value;
+    if(mode==='posted')jobs.sort(newestPosted);
     if(mode==='opportunity')jobs.sort((a,b)=>opportunityAssessment(a).rank-opportunityAssessment(b).rank||(b.score||0)-(a.score||0)||(b.first_seen_at||b.first_seen||'').localeCompare(a.first_seen_at||a.first_seen||''));
     if(mode==='score')jobs.sort((a,b)=>(b.score||0)-(a.score||0)||(b.first_seen_at||b.first_seen||'').localeCompare(a.first_seen_at||a.first_seen||''));
     if(mode==='new')jobs.sort((a,b)=>(b.first_seen_at||b.first_seen||'').localeCompare(a.first_seen_at||a.first_seen||'')||(b.score||0)-(a.score||0));
@@ -294,7 +333,7 @@
     const job=allKnownJobs().find(j=>j.id===id);if(!job)return;
     const t=tracking[id]||{};
     const wrapper=$('detail-content');
-    wrapper.innerHTML=`<div class="kicker">${esc(job.company)} · ${esc(job.ats||'Employer board')}</div><h2>${esc(job.title)}</h2><p>${esc(job.location||'Not listed')} · First detected ${esc(niceDate(job.first_seen))}</p><div class="job-meta">${payBadge(job)}${(job.focus||[]).map(s=>`<span class="job-badge">${esc(s)}</span>`).join('')}</div><div class="source-info" style="margin-top:15px">${(job.reasons||[]).map(esc).join(' · ')||'Relevance score is a suggestion, not an eligibility check.'} · Description: ${esc(job.description_status||'unverified')}</div><div class="source-info opportunity-explainer"><strong>Opportunity review:</strong> ${esc(opportunityAssessment(job).label)}. ${esc(opportunityAssessment(job).reason)} This is not a verified improvement; check mentoring, autonomy, project methods, team, eligibility, and total compensation.</div><label for="detail-upgrade">Personal career assessment (stored on this device)</label><select id="detail-upgrade"><option value="">Not yet assessed</option><option value="advance" ${t.opportunityReview==='advance'?'selected':''}>Potential step forward</option><option value="similar" ${t.opportunityReview==='similar'?'selected':''}>Comparable to current opportunity</option><option value="not" ${t.opportunityReview==='not'?'selected':''}>Not an improvement</option></select><div class="detail-status"><label for="detail-stage">Application stage</label><select id="detail-stage">${STATUSES.map(s=>`<option ${s===(t.status||'Not started')?'selected':''}>${esc(s)}</option>`).join('')}</select></div><label for="detail-date">Date applied</label><input id="detail-date" type="date" value="${esc(t.appliedAt||'')}"><label for="detail-note">Notes, contacts, next steps</label><textarea id="detail-note" placeholder="Resume version, recruiter, interview dates, follow-ups...">${esc(t.note||'')}</textarea><div class="modal-actions"><p>Autosaved on this device</p><a href="${esc(safeUrl(job.url))}" target="_blank" rel="noopener noreferrer">Employer posting ↗</a></div>`;
+    wrapper.innerHTML=`<div class="kicker">${esc(job.company)} · ${esc(job.ats||'Employer board')}</div><h2>${esc(job.title)}</h2><p>${esc(job.location||'Not listed')} · ${esc(postedText(job))} · First detected ${esc(job.first_seen_at ? niceDate(job.first_seen_at) : niceDate(job.first_seen))}</p><div class="job-meta">${payBadge(job)}${(job.focus||[]).map(s=>`<span class="job-badge">${esc(s)}</span>`).join('')}</div><div class="source-info" style="margin-top:15px">${(job.reasons||[]).map(esc).join(' · ')||'Relevance score is a suggestion, not an eligibility check.'} · Description: ${esc(job.description_status||'unverified')}</div><div class="source-info opportunity-explainer"><strong>Opportunity review:</strong> ${esc(opportunityAssessment(job).label)}. ${esc(opportunityAssessment(job).reason)} This is not a verified improvement; check mentoring, autonomy, project methods, team, eligibility, and total compensation.</div><label for="detail-upgrade">Personal career assessment (stored on this device)</label><select id="detail-upgrade"><option value="">Not yet assessed</option><option value="advance" ${t.opportunityReview==='advance'?'selected':''}>Potential step forward</option><option value="similar" ${t.opportunityReview==='similar'?'selected':''}>Comparable to current opportunity</option><option value="not" ${t.opportunityReview==='not'?'selected':''}>Not an improvement</option></select><div class="detail-status"><label for="detail-stage">Application stage</label><select id="detail-stage">${STATUSES.map(s=>`<option ${s===(t.status||'Not started')?'selected':''}>${esc(s)}</option>`).join('')}</select></div><label for="detail-date">Date applied</label><input id="detail-date" type="date" value="${esc(t.appliedAt||'')}"><label for="detail-note">Notes, contacts, next steps</label><textarea id="detail-note" placeholder="Resume version, recruiter, interview dates, follow-ups...">${esc(t.note||'')}</textarea><div class="modal-actions"><p>Autosaved on this device</p><a href="${esc(safeUrl(job.url))}" target="_blank" rel="noopener noreferrer">Employer posting ↗</a></div>`;
     const save=()=>{
       const status=$('detail-stage').value,note=$('detail-note').value,appliedAt=$('detail-date').value,opportunityReview=$('detail-upgrade').value;
       if(status==='Not started'&&!note&&!appliedAt&&!opportunityReview)delete tracking[id];
@@ -306,7 +345,7 @@
   }
   function csvEscape(v){return `"${String(v??'').replace(/"/g,'""')}"`}
   function download(filename, content, mime){const blob=new Blob([content],{type:mime});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download=filename;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000)}
-  function exportJobs(){const heads=['company','title','location','sector','stage','season','opportunity_signal','personal_assessment','hourly_min','hourly_max','pay_basis','comparison','score','focus','first_seen','job_status','application_status','source','url'];const rows=visible.map(j=>[j.company,j.title,j.location,j.sector,j.stage,j.season,opportunityAssessment(j).label,tracking[j.id]?.opportunityReview||'',j.pay?.hourly_min??'',j.pay?.hourly_max??'',j.pay?.basis||'',comparePay(j).tier,j.score,(j.focus||[]).join('; '),j.first_seen,j.status,tracking[j.id]?.status||'',j.source,j.url]);download('internship-radar-jobs.csv','\ufeff'+[heads,...rows].map(row=>row.map(csvEscape).join(',')).join('\r\n'),'text/csv;charset=utf-8')}
+  function exportJobs(){const heads=['company','title','location','sector','stage','season','opportunity_signal','personal_assessment','hourly_min','hourly_max','pay_basis','comparison','score','focus','employer_posted_at','first_seen_at','first_seen','job_status','application_status','source','url'];const rows=visible.map(j=>[j.company,j.title,j.location,j.sector,j.stage,j.season,opportunityAssessment(j).label,tracking[j.id]?.opportunityReview||'',j.pay?.hourly_min??'',j.pay?.hourly_max??'',j.pay?.basis||'',comparePay(j).tier,j.score,(j.focus||[]).join('; '),j.posted_at||'',j.first_seen_at||'',j.first_seen,j.status,tracking[j.id]?.status||'',j.source,j.url]);download('internship-radar-jobs.csv','\ufeff'+[heads,...rows].map(row=>row.map(csvEscape).join(',')).join('\r\n'),'text/csv;charset=utf-8')}
   function exportTracking(){download('biodata-radar-private-tracking.json',JSON.stringify({version:1,exportedAt:new Date().toISOString(),tracking},null,2),'application/json')}
   async function importTracking(file){if(!file)return;try{if(file.size>5_000_000)throw Error('File is too large');const parsed=JSON.parse(await file.text());if(parsed.version!==1 || !parsed.tracking || typeof parsed.tracking!=='object'||Array.isArray(parsed.tracking))throw Error('Not a BioData Radar backup');const entries=Object.entries(parsed.tracking);if(entries.length>10000)throw Error('Too many entries');for(const [id,v] of entries){if(!id||typeof v!=='object'||v===null||!STATUSES.includes(v.status||'Not started'))throw Error('Invalid tracking entry')};if(!confirm(`Import ${entries.length} tracking entries? Existing entries with the same job IDs will be replaced.`))return;tracking={...tracking,...parsed.tracking};persist();render();alert('Tracking restored on this browser.')}catch(e){alert('Could not import backup: '+e.message)}finally{$('import-tracking').value=''}}
   function wire(){
@@ -333,7 +372,7 @@
     });
     renderComparison();
     document.querySelectorAll('.nav-button').forEach(b=>b.addEventListener('click',()=>switchTab(b.dataset.tab)));
-    ['filter-search','filter-recency','filter-focus','filter-state','filter-location','filter-sort','filter-pay','filter-stage','filter-season','filter-opportunity'].forEach(id=>$(id).addEventListener(id==='filter-search'?'input':'change',()=>{shownLimit=100;renderDiscover();}));
+    ['filter-search','filter-posted','filter-recency','filter-focus','filter-state','filter-location','filter-sort','filter-pay','filter-stage','filter-season','filter-opportunity'].forEach(id=>$(id).addEventListener(id==='filter-search'?'input':'change',()=>{shownLimit=100;renderDiscover();}));
     $('job-list').addEventListener('click',e=>{if(e.target.closest('#more-jobs')){shownLimit+=100;renderDiscover();}});
     [$('job-list'),$('application-list')].forEach(el=>{
       el.addEventListener('change',e=>{const id=e.target?.dataset?.status;if(!id)return;const job=allKnownJobs().find(j=>j.id===id);if(job)setStatus(job,e.target.value)});

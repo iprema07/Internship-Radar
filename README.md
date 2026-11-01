@@ -2,13 +2,13 @@
 
 An automatically refreshed directory of internships in statistics, biostatistics, epidemiology, scientific research, data science, and related analytical fields.
 
-**[Browse openings](OPENINGS.md)** · Interactive dashboard available through GitHub Pages
+**[Browse openings — newest employer postings first](OPENINGS.md)** · Interactive dashboard available through GitHub Pages
 
 ## Features
 
 - Discovers internships across startups, research organizations, healthcare companies, and established employers
 - Collects public listings from supported applicant tracking systems and attributed internship directories
-- Groups opportunities by discipline, with statistics-focused roles easy to find
+- Sorts all openings by employer publication date (newest first), with discipline labels and unknown dates clearly marked
 - Links to original employer postings and identifies listings that need further verification
 - Provides an interactive dashboard with filters, bookmarks, and optional browser-local tracking
 
@@ -16,8 +16,7 @@ An automatically refreshed directory of internships in statistics, biostatistics
 
 Priority employers are checked on a 15-minute schedule. A 500-board directory batch is
 scanned hourly (2,000 registered boards in approximately four scheduled cycles).
-The dashboard distinguishes employer posting time from first detection; unknown ages
-are labeled as unknown. Scheduled jobs may run late and employer feeds may lag.
+Both the GitHub openings table and dashboard distinguish employer posting time from first detection; unknown publication dates are marked, never guessed. Scheduled jobs may run late and employer feeds may lag.
 
 New openings are saved directly to GitHub as `data/jobs.json` and `OPENINGS.md`.
 The dashboard includes 1-hour, 6-hour and 24-hour discovery filters. No external accounts or notification services are required.
