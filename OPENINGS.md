@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**173 currently tracked openings** · Last scan: 2026-11-01 02:17 UTC
+**173 currently tracked openings** · Last scan: 2026-11-01 02:30 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
