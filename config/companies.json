@@ -1,0 +1,403 @@
+{
+  "sources": [
+    {
+      "id": "care-dx",
+      "name": "CareDx",
+      "sector": "Diagnostics",
+      "ats": "greenhouse",
+      "slug": "caredxinc",
+      "stage": "Established / other"
+    },
+    {
+      "id": "recursion",
+      "name": "Recursion",
+      "sector": "TechBio",
+      "ats": "greenhouse",
+      "slug": "recursionpharmaceuticals",
+      "stage": "Startup / growth"
+    },
+    {
+      "id": "beam",
+      "name": "Beam Therapeutics",
+      "sector": "Biotech",
+      "ats": "greenhouse",
+      "slug": "beamtherapeutics",
+      "stage": "Startup / growth"
+    },
+    {
+      "id": "sana",
+      "name": "Sana Biotechnology",
+      "sector": "Biotech",
+      "ats": "greenhouse",
+      "slug": "sanabiotech",
+      "stage": "Startup / growth"
+    },
+    {
+      "id": "clinchoice",
+      "name": "ClinChoice",
+      "sector": "CRO",
+      "ats": "greenhouse",
+      "slug": "clinchoice",
+      "stage": "Established / other"
+    },
+    {
+      "id": "summit",
+      "name": "Summit Therapeutics",
+      "sector": "Pharma",
+      "ats": "greenhouse",
+      "slug": "summittherapeutics",
+      "stage": "Established / other"
+    },
+    {
+      "id": "every-cure",
+      "name": "Every Cure",
+      "sector": "Health AI",
+      "ats": "greenhouse",
+      "slug": "everycure",
+      "stage": "Startup / growth"
+    },
+    {
+      "id": "axsome",
+      "name": "Axsome Therapeutics",
+      "sector": "Pharma",
+      "ats": "greenhouse",
+      "slug": "axsometherapeutics",
+      "stage": "Established / other"
+    },
+    {
+      "id": "insitro",
+      "name": "insitro",
+      "sector": "TechBio",
+      "ats": "ashby",
+      "slug": "insitro",
+      "stage": "Startup / growth"
+    },
+    {
+      "id": "lilly",
+      "name": "Eli Lilly",
+      "sector": "Pharma",
+      "ats": "workday",
+      "host": "lilly.wd115.myworkdayjobs.com",
+      "tenant": "lilly",
+      "site": "CMP",
+      "search": "intern",
+      "stage": "Established / other"
+    },
+    {
+      "id": "freenome",
+      "name": "Freenome",
+      "sector": "Diagnostics",
+      "ats": "greenhouse",
+      "slug": "freenome",
+      "stage": "Startup / growth"
+    },
+    {
+      "id": "10xgenomics",
+      "name": "10x Genomics",
+      "sector": "Genomics",
+      "ats": "greenhouse",
+      "slug": "10xgenomics",
+      "stage": "Established / other"
+    },
+    {
+      "id": "altos",
+      "name": "Altos Labs",
+      "sector": "Biotech",
+      "ats": "greenhouse",
+      "slug": "altoslabs",
+      "stage": "Startup / growth"
+    },
+    {
+      "id": "arcinstitute",
+      "name": "Arc Institute",
+      "sector": "Research",
+      "ats": "greenhouse",
+      "slug": "arcinstitute",
+      "stage": "Startup / growth"
+    },
+    {
+      "id": "nabla",
+      "name": "Nabla",
+      "sector": "Health AI",
+      "ats": "ashby",
+      "slug": "nabla",
+      "stage": "Startup / growth"
+    },
+    {
+      "id": "merck",
+      "name": "Merck / MSD",
+      "sector": "Pharma",
+      "ats": "workday",
+      "host": "msd.wd5.myworkdayjobs.com",
+      "tenant": "msd",
+      "site": "SearchJobs",
+      "search": "intern",
+      "stage": "Established / other"
+    },
+    {
+      "id": "kyowa-kirin",
+      "name": "Kyowa Kirin",
+      "sector": "Pharma",
+      "ats": "greenhouse",
+      "slug": "kyowakirinusa90",
+      "stage": "Established / other"
+    },
+    {
+      "id": "abridge",
+      "name": "Abridge",
+      "sector": "Health AI",
+      "stage": "Startup / growth",
+      "ats": "ashby",
+      "slug": "abridge"
+    },
+    {
+      "id": "ambience",
+      "name": "Ambience Healthcare",
+      "sector": "Health AI",
+      "stage": "Startup / growth",
+      "ats": "ashby",
+      "slug": "ambiencehealthcare"
+    },
+    {
+      "id": "candid",
+      "name": "Candid Health",
+      "sector": "Healthtech",
+      "stage": "Startup / growth",
+      "ats": "ashby",
+      "slug": "candidhealth"
+    },
+    {
+      "id": "elicit",
+      "name": "Elicit",
+      "sector": "AI Research",
+      "stage": "Startup / growth",
+      "ats": "ashby",
+      "slug": "elicit"
+    },
+    {
+      "id": "vanta",
+      "name": "Vanta",
+      "sector": "AI / SaaS",
+      "stage": "Startup / growth",
+      "ats": "ashby",
+      "slug": "vanta"
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "sector": "Fintech",
+      "stage": "Startup / growth",
+      "ats": "greenhouse",
+      "slug": "stripe"
+    },
+    {
+      "id": "figma",
+      "name": "Figma",
+      "sector": "Software / AI",
+      "stage": "Startup / growth",
+      "ats": "greenhouse",
+      "slug": "figma"
+    },
+    {
+      "id": "benchling",
+      "name": "Benchling",
+      "sector": "TechBio",
+      "stage": "Startup / growth",
+      "ats": "greenhouse",
+      "slug": "benchling"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "sector": "AI",
+      "stage": "Startup / growth",
+      "ats": "greenhouse",
+      "slug": "anthropic"
+    },
+    {
+      "id": "databricks",
+      "name": "Databricks",
+      "sector": "Data / AI",
+      "stage": "Startup / growth",
+      "ats": "greenhouse",
+      "slug": "databricks"
+    },
+    {
+      "id": "scaleai",
+      "name": "Scale AI",
+      "sector": "AI",
+      "stage": "Startup / growth",
+      "ats": "greenhouse",
+      "slug": "scaleai"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "sector": "Fintech",
+      "stage": "Startup / growth",
+      "ats": "greenhouse",
+      "slug": "coinbase"
+    },
+    {
+      "id": "affirm",
+      "name": "Affirm",
+      "sector": "Fintech",
+      "stage": "Startup / growth",
+      "ats": "greenhouse",
+      "slug": "affirm"
+    },
+    {
+      "id": "ramp",
+      "name": "Ramp",
+      "sector": "Fintech",
+      "stage": "Startup / growth",
+      "ats": "ashby",
+      "slug": "ramp"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "sector": "AI",
+      "stage": "Startup / growth",
+      "ats": "ashby",
+      "slug": "perplexity"
+    },
+    {
+      "id": "character-ai",
+      "name": "Character.AI",
+      "sector": "AI",
+      "stage": "Startup / growth",
+      "ats": "ashby",
+      "slug": "character"
+    },
+    {
+      "id": "windsurf",
+      "name": "Windsurf",
+      "sector": "AI",
+      "stage": "Startup / growth",
+      "ats": "ashby",
+      "slug": "codeium"
+    },
+    {
+      "id": "cohere",
+      "name": "Cohere",
+      "sector": "AI",
+      "stage": "Startup / growth",
+      "ats": "ashby",
+      "slug": "cohere"
+    },
+    {
+      "id": "zapply-2027",
+      "name": "Zapply 2027 broad internship feed",
+      "sector": "Cross-industry",
+      "stage": "Mixed",
+      "ats": "github_markdown",
+      "url": "https://raw.githubusercontent.com/zapplyjobs/Internships-2027/main/README.md",
+      "credit_url": "https://github.com/zapplyjobs/Internships-2027"
+    }
+  ],
+  "manual_watchlist": [
+    {
+      "name": "Pfizer · Statistics & AI/ML internship",
+      "sector": "Pharma",
+      "url": "https://pfizerstatistics-internprogram-atriumworks.icims.com/jobs/intro",
+      "note": "Specialized graduate internship program; check the program portal"
+    },
+    {
+      "name": "Lilly · Internships",
+      "sector": "Pharma",
+      "url": "https://careers.lilly.com/us/en/internships",
+      "note": "Company internship hub, including Data & Analytics"
+    },
+    {
+      "name": "Merck · Careers",
+      "sector": "Pharma",
+      "url": "https://jobs.merck.com/us/en/",
+      "note": "Career hub; may contain roles outside the Workday feed"
+    },
+    {
+      "name": "Moderna · Careers",
+      "sector": "Pharma",
+      "url": "https://careers.modernatx.com/",
+      "note": "Check for biostatistics, bioanalytics, epidemiology, data internships"
+    },
+    {
+      "name": "Thermo Fisher Scientific · Careers",
+      "sector": "Life Sciences",
+      "url": "https://jobs.thermofisher.com/",
+      "note": "Search analytics, bioinformatics, commercial and clinical data"
+    },
+    {
+      "name": "AbbVie · Careers",
+      "sector": "Pharma",
+      "url": "https://careers.abbvie.com/",
+      "note": "Search biostatistics, data science, modeling and clinical analytics"
+    },
+    {
+      "name": "Y Combinator · Startup internships",
+      "sector": "Startups",
+      "url": "https://www.ycombinator.com/jobs",
+      "note": "Direct YC startup roles; manual discovery, not an automated feed."
+    },
+    {
+      "name": "Simplify · Summer 2027 Internships",
+      "sector": "Broad discovery",
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "note": "Secondary broad discovery source: AI, data science, analytics, and more."
+    },
+    {
+      "name": "Genentech · Student opportunities",
+      "sector": "Biopharma",
+      "url": "https://careers.gene.com/us/en/students-graduates",
+      "note": "Potential data/AI opportunities. Check summer dates carefully."
+    },
+    {
+      "name": "Regeneron · Students",
+      "sector": "Biopharma",
+      "url": "https://careers.regeneron.com/",
+      "note": "Summer computational biology and translational data science opportunities."
+    },
+    {
+      "name": "OpenEvidence · Careers",
+      "sector": "Health AI startup",
+      "url": "https://www.openevidence.com/",
+      "note": "Startup to investigate. Company site link; may not have a public internship program."
+    },
+    {
+      "name": "Hippocratic AI · Careers",
+      "sector": "Health AI startup",
+      "url": "https://www.hippocraticai.com/",
+      "note": "Explore roles directly; internships may not be advertised."
+    },
+    {
+      "name": "General Catalyst · Portfolio",
+      "sector": "Startup ecosystems",
+      "url": "https://www.generalcatalyst.com/",
+      "note": "Discover portfolio companies; not an automatic list of hiring internships."
+    },
+    {
+      "name": "Flagship Pioneering · Careers",
+      "sector": "Venture-backed biotech",
+      "url": "https://www.flagshippioneering.com/",
+      "note": "Explore ventures and internships that may be on separate portals."
+    },
+    {
+      "name": "Regeneron · Biostatistics & Statistical Programming",
+      "sector": "Biopharma",
+      "url": "https://careers.regeneron.com/en/jobs/r52558/2027-summer-intern-biostatistics-statistical-programming/",
+      "note": "2027 statistical methods, clinical trial analysis and programming; pay/education requirements vary"
+    },
+    {
+      "name": "Moderna · Oncology Biostatistics",
+      "sector": "Biopharma",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Intern--Oncology-Biostatistics_R19867-1",
+      "note": "Summer 2027 biostatistics opportunity; manually verify live status and eligibility"
+    },
+    {
+      "name": "Analysis Group · Healthcare Internship",
+      "sector": "Healthcare consulting",
+      "url": "https://analystcareers-analysisgroup.icims.com/jobs/3064/summer-analyst-intern---health-care-%28heor%2C-epidemiology-%26-market-access%29-%282027-start-date%29/job",
+      "note": "HEOR, epidemiology, statistics and applied methods; manually verify current status"
+    }
+  ]
+}
