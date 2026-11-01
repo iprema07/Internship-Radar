@@ -1,0 +1,48 @@
+name: Update internships
+on:
+  workflow_dispatch:
+    inputs:
+      scan_mode:
+        description: "Scan cadence"
+        required: true
+        type: choice
+        default: broad
+        options:
+          - broad
+          - priority
+  schedule:
+    # Separate crons: full directory rotation hourly, priority employers every 15 min.
+    # Avoid minute 0 because GitHub Actions schedules may be delayed.
+    - cron: '7 * * * *'
+    - cron: '22,37,52 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: internship-feed-update
+  cancel-in-progress: false
+  queue: max
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Unit tests
+        if: github.event_name == 'workflow_dispatch'
+        run: python -m unittest discover -s tests -v
+      - name: Scan employer boards
+        env:
+          SCAN_MODE: ${{ github.event.inputs.scan_mode || (github.event.schedule == '7 * * * *' && 'broad') || 'priority' }}
+        run: python scripts/fetch_jobs.py --mode "$SCAN_MODE"
+      - name: Commit updated public listings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/jobs.json data/board_catalog.json OPENINGS.md feed.xml
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: refresh internship listings"
+            git push
+          fi
