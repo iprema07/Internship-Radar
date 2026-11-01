@@ -165,15 +165,32 @@
     const t=Date.parse(timestampHasTimezone ? raw : raw.slice(0,10)+'T00:00:00Z');
     return Number.isFinite(t) && t<=Date.now()+86400000 ? t : null;
   }
+  // Employer publication dates, not when this scanner first encountered the role.
+  // Calendar dates without a time cannot support hour-level freshness claims.
+  function employerPostingAge(j, nowMs=Date.now()){
+    const timestamp=postedTimestamp(j);
+    if(timestamp===null)return {known:false,days:null,today:false,exact:false,minutes:null};
+    const raw=String(j.posted_at||'').trim();
+    const exact=/(?:Z|[+-]\d{2}:?\d{2})$/.test(raw);
+    const dayString=exact ? (dt=>`${dt.getFullYear()}-${String(dt.getMonth()+1).padStart(2,'0')}-${String(dt.getDate()).padStart(2,'0')}`)(new Date(timestamp)) : raw.slice(0,10);
+    const [year,month,day]=dayString.split('-').map(Number);
+    const now=new Date(nowMs);
+    const todayUTC=Date.UTC(now.getFullYear(),now.getMonth(),now.getDate());
+    const postedUTC=Date.UTC(year,month-1,day);
+    const days=Math.round((todayUTC-postedUTC)/86400000);
+    const minutes=exact && timestamp<=nowMs ? Math.floor((nowMs-timestamp)/60000) : null;
+    return {known:true,days,today:days===0 && (!exact || timestamp<=nowMs),exact,minutes};
+  }
   function postedText(j){
     const timestamp=postedTimestamp(j);
-    if(timestamp===null)return 'Posted: employer date unavailable';
-    const raw=String(j.posted_at).trim();
-    const dayOnly=/^\d{4}-\d{2}-\d{2}$/.test(raw)||!/(Z|[+-]\d\d:?\d\d)$/.test(raw);
+    if(timestamp===null)return 'Employer posted: date unavailable';
+    const info=employerPostingAge(j);
     const label=new Date(timestamp).toLocaleDateString('en-US',{timeZone:'UTC',month:'short',day:'numeric',year:'numeric'});
-    if(dayOnly)return `Posted: ${label} (date only)`;
+    const age=info.days===0?'today':info.days===1?'yesterday':info.days>1?`${info.days} days ago`:'date needs verification';
+    if(!info.exact)return `Employer posted: ${label} (${age}; date only)`;
     const time=new Date(timestamp).toLocaleTimeString('en-US',{timeZone:'UTC',hour:'2-digit',minute:'2-digit',hour12:false});
-    return `Posted: ${label}, ${time} UTC`;
+    const precise=info.minutes!==null && info.minutes<1440 ? (info.minutes<60?`${info.minutes}m ago`:`${Math.floor(info.minutes/60)}h ago`) : age;
+    return `Employer posted: ${label}, ${time} UTC (${precise})`;
   }
   function newestPosted(a,b){
     const left=postedTimestamp(a), right=postedTimestamp(b);
@@ -187,18 +204,18 @@
     const letters=String(j.company||'?').split(/\s+/).slice(0,2).map(x=>x[0]).join('').toUpperCase();
     const current=tracking[j.id]?.status||'Not started';
     const detectedAt=j.first_seen_at||null;
-    const detectedMinutes=detectedAt?Math.round((Date.now()-Date.parse(detectedAt))/60000):null;
-    const fresh=detectedMinutes!==null && detectedMinutes>=0 && detectedMinutes<1440;
-    const newBadge=fresh && j.status==='open' ? '<span class="job-badge new">NEWLY DETECTED</span>':'';
+    const detectedMinutes=detectedAt?Math.floor((Date.now()-Date.parse(detectedAt))/60000):null;
+    const publication=employerPostingAge(j);
+    const newBadge=publication.today && j.status==='open' ? '<span class="job-badge new">POSTED TODAY</span>':'';
     const postedLabel=postedText(j);
-    const detectionLabel=detectedMinutes!==null && detectedMinutes>=0 ? (detectedMinutes<60?'Detected '+detectedMinutes+'m ago':detectedMinutes<2880?'Detected '+Math.floor(detectedMinutes/60)+'h ago':'Detected '+Math.floor(detectedMinutes/1440)+'d ago'):'First detected '+niceDate(j.first_seen);
+    const detectionLabel=detectedMinutes!==null && detectedMinutes>=0 ? (detectedMinutes<60?`Scanner first saw ${detectedMinutes}m ago`:detectedMinutes<2880?`Scanner first saw ${Math.floor(detectedMinutes/60)}h ago`:`Scanner first saw ${Math.floor(detectedMinutes/1440)}d ago`):'Scanner first saw '+niceDate(j.first_seen);
     const isOpen=j.status==='open';
     const fitBadge=j.fit_tier==='strong'?'<span class="job-badge">STRONG ROLE MATCH</span>':j.fit_tier==='related'?'<span class="job-badge">RELATED ROLE</span>':j.fit_tier==='review'?'<span class="job-badge">REVIEW DESCRIPTION</span>':'';
     const stageBadge=j.stage==='Startup / growth'?'<span class="job-badge stage">STARTUP / GROWTH</span>':'';
     const opportunity=opportunityAssessment(j);
     const opportunityBadge=opportunity.rank<=2?`<span class="job-badge opportunity" title="${esc(opportunity.reason)}">${esc(opportunity.label)}</span>`:'';
     const stateBadge=j.status==='closed'?'<span class="job-badge closed">CLOSED</span>':j.status==='unavailable'?'<span class="job-badge closed">ARCHIVED</span>':j.status==='manual'?'<span class="job-badge">MANUALLY ADDED</span>':'';
-    return `<article class="job-card"><div class="job-icon" aria-hidden="true">${esc(letters)}</div><div class="job-main"><div class="company-row">${esc(j.company)} <span>·</span> ${esc(j.sector||j.ats||'Life sciences')} ${stageBadge} ${fitBadge} ${opportunityBadge} ${newBadge} ${stateBadge}</div><h3>${esc(j.title)}</h3><div class="job-meta">${payBadge(j)}<span>${j.season==='summer_confirmed'?'☀ Summer 2027':'◷ Season unconfirmed'}</span><span>⌾ ${esc(j.location||'Not listed')}</span><span>◷ ${esc(detectionLabel)}</span><span>◷ ${esc(postedLabel)}</span><span class="job-badge score">${Number(j.score)||0}/100 relevance</span></div></div><div class="job-actions"><select data-status="${esc(j.id)}" aria-label="Application status for ${esc(j.title)}">${STATUSES.map(s=>`<option value="${esc(s)}" ${s===current?'selected':''}>${esc(s)}</option>`).join('')}</select><button class="small-icon-btn" data-detail="${esc(j.id)}" aria-label="Notes and details for ${esc(j.title)}" title="Notes and details">✎</button><a class="apply-link" href="${esc(safeUrl(j.url))}" target="_blank" rel="noopener noreferrer">${isOpen?'Apply ↗':'View ↗'}</a></div></article>`;
+    return `<article class="job-card"><div class="job-icon" aria-hidden="true">${esc(letters)}</div><div class="job-main"><div class="company-row">${esc(j.company)} <span>·</span> ${esc(j.sector||j.ats||'Life sciences')} ${stageBadge} ${fitBadge} ${opportunityBadge} ${newBadge} ${stateBadge}</div><h3>${esc(j.title)}</h3><div class="job-meta">${payBadge(j)}<span>${j.season==='summer_confirmed'?'☀ Summer 2027':'◷ Season unconfirmed'}</span><span>⌾ ${esc(j.location||'Not listed')}</span><span>◷ ${esc(postedLabel)}</span><span class="scanner-meta">${esc(detectionLabel)}</span><span class="job-badge score">${Number(j.score)||0}/100 relevance</span></div></div><div class="job-actions"><select data-status="${esc(j.id)}" aria-label="Application status for ${esc(j.title)}">${STATUSES.map(s=>`<option value="${esc(s)}" ${s===current?'selected':''}>${esc(s)}</option>`).join('')}</select><button class="small-icon-btn" data-detail="${esc(j.id)}" aria-label="Notes and details for ${esc(j.title)}" title="Notes and details">✎</button><a class="apply-link" href="${esc(safeUrl(j.url))}" target="_blank" rel="noopener noreferrer">${isOpen?'Apply ↗':'View ↗'}</a></div></article>`;
   }
   function empty(icon,title,explanation){return `<div class="empty"><span class="empty-icon">${icon}</span><h3>${esc(title)}</h3><p>${explanation}</p></div>`}
   function renderDiscover(){
@@ -214,10 +231,7 @@
           if(posted!==null)return false;
         }else{
           if(posted===null)return false;
-          const nowUTC=new Date().toISOString().slice(0,10);
-          const todayUTC=Date.parse(nowUTC+'T00:00:00Z');
-          const postedUTC=Date.parse(new Date(posted).toISOString().slice(0,10)+'T00:00:00Z');
-          const dayDiff=Math.round((todayUTC-postedUTC)/86400000);
+          const dayDiff=employerPostingAge(j).days;
           const maxDays=postFilter==='today'?0:Number(postFilter)-1;
           if(dayDiff<0||dayDiff>maxDays)return false;
         }
@@ -320,7 +334,7 @@
   function renderStats(){
     const open=data.jobs.filter(j=>j.status==='open');
     $('metric-open').textContent=data.updated_at?open.length:'—';
-    $('metric-new').textContent=data.updated_at?open.filter(j=>j.first_seen_at && Number.isFinite(Date.parse(j.first_seen_at)) && Date.now()-Date.parse(j.first_seen_at)>=0 && Date.now()-Date.parse(j.first_seen_at)<86400000).length:'—';
+    $('metric-new').textContent=data.updated_at?open.filter(j=>employerPostingAge(j).today).length:'—';
     $('metric-tracked').textContent=Object.keys(tracking).filter(id=>tracking[id]?.status && tracking[id].status!=='Not started').length;
     $('metric-boards').textContent=data.updated_at?(data.counts?.registered_boards??0).toLocaleString():'—';
     $('metric-health').textContent=data.updated_at?`${data.counts?.sources_scanned??0} checked successfully · ${data.counts?.sources_failed??0} errors`:'Waiting for first scan';
