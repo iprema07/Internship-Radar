@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**254 currently tracked openings** · Last scan: 2026-11-01 23:53 UTC
+**255 currently tracked openings** · Last scan: 2026-11-02 00:37 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 156** · **Date unavailable: 98**
+**With employer dates: 156** · **Date unavailable: 99**
 
 ## Posted 1–7 calendar days ago (24)
 
@@ -39,7 +39,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-10-26 16:01 UTC | Cohere | [Revenue Operations Intern (Winter, 2027)](https://jobs.ashbyhq.com/cohere/f3290fb2-66f1-44c7-9824-3f416f44af5a) | Applied Research / Modeling | Toronto | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-10-26 | highmarkhealth | [Summer 2027 Underwriting Intern Undergraduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Underwriting-Intern-Undergraduate-Intern_J287373-1) | Applied Research / Modeling | 52 Locations | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 
-## Posted 8–30 days ago (46)
+## Posted 8–30 days ago (34)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -77,6 +77,11 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-10-05 22:19 UTC | bedrock-robotics | [2027 Internship Test Operations Engineer](https://jobs.ashbyhq.com/bedrock-robotics/66deac22-a655-413e-8f46-3d956860619a) | Applied Research / Modeling | Lockhart, TX | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2026-10-05 | Eli Lilly | [Campus - MS Statistics Intern](https://lilly.wd115.myworkdayjobs.com/CMP/job/US-Indianapolis-IN/Campus---MS-Statistics-Intern_R-110151) | Statistics / Statistical Methods | US, Indianapolis IN | Not disclosed | 2026-11-01 02:04 UTC | Role title |
 | 2026-10-05 | generalmotors | [2027 Summer Intern – Machine Learning Intern, Autonomous Vehicles: Software Validation (Master's)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655) | Data Science / ML | Sunnyvale, California, United States of America | Not disclosed | 2026-11-01 16:45 UTC | Role title |
+
+## Posted more than 30 days ago (98)
+
+| Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
+|---|---|---|---|---|---|---|---|
 | 2026-10-02 19:13 UTC | Anduril Industries | [2027 Supply Chain Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007) | Applied Research / Modeling | Costa Mesa, California, United States; Fort Collins, Colorado, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States; Waltham, Massachusetts, United States | $20–$40/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2026-10-02 18:52 UTC | C3 AI | [AI Product Manager - MBA Intern (Summer 2027)](https://c3.ai/job-description/8860563002?gh_jid=8860563002) | Applied Research / Modeling | Redwood City, California, United States | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2026-10-02 18:52 UTC | C3 AI Ascend Internship Program: Summer 2026 | [AI Product Manager - MBA Intern (Summer 2027)](https://job-boards.greenhouse.io/c3ascend/jobs/8860562002) | Applied Research / Modeling | Redwood City, CA | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
@@ -89,11 +94,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-10-02 | regeneron | [2027 Co-op Precision Medicine Operations](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) | Applied Research / Modeling | Armonk | $17.9–$50.9/hr | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-10-02 | regeneron | [2027 Co-op Drug Product Development and Technology](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Drug-Product-Development-and-Technology_R51033-1) | Applied Research / Modeling | TARRYTOWN | $17.9–$50.9/hr | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-10-02 | regeneron | [2027 Co-op Supply Chain & Clinical Drug Logistics](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Warren/XMLNAME-2027-Co-op-Supply-Chain---Clinical-Drug-Logistics_R51086-1) | Applied Research / Modeling | 3 Locations | $17.9–$50.9/hr | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
-
-## Posted more than 30 days ago (86)
-
-| Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
-|---|---|---|---|---|---|---|---|
 | 2026-10-01 15:36 UTC | bedrock-robotics | [2027 Internship Product Intern](https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a) | Applied Research / Modeling | San Francisco, CA | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2026-10-01 15:05 UTC | Stripe | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287) | Analytics / BI | Toronto | Not disclosed | 2026-11-01 02:04 UTC | Role title |
 | 2026-10-01 15:05 UTC | Stripe | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) | Analytics / BI | New York, Seattle, South San Francisco HQ | Not disclosed | 2026-11-01 02:04 UTC | Role title |
@@ -181,10 +181,11 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2022-11-09 00:09 UTC | lgairesearch | [AI Scientist/Engineer Intern (LG AI Research Center, Ann Arbor) ](https://www.lgresearch.ai/careers?gh_jid=4130830005) | Applied Research / Modeling | Ann Arbor, Michigan, United States | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2022-09-08 17:24 UTC | Forma.ai - India Campus | [Customer Operations Analyst Intern](https://job-boards.greenhouse.io/formaaiinc3/jobs/4090129005) | Analytics / BI | Pune | Not disclosed | 2026-11-01 16:45 UTC | Role title |
 
-## Employer posting date unavailable — newest detected first (98)
+## Employer posting date unavailable — newest detected first (99)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
+| Not provided | **Aptiv** | [AI Product Analyst Intern](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704400?s=gh-internships-2027) | Analytics / BI | USA San Diego, CA - WR | Not disclosed | 2026-11-02 00:37 UTC | Role title · Review |
 | Not provided | **Federal Reserve System** | [Undergraduate Intern – Business Analysis Focus](https://zapply.jobs/l/d/workday-rb-frs-R-0000033976?s=gh-internships-2027) | Analytics / BI | Minneapolis, MN | Not disclosed | 2026-11-01 20:36 UTC | Role title · Review |
 | Not provided | Bright Machines | [Strategic Finance Intern](https://jobs.lever.co/brightmachines/2b3e6083-1051-4c4f-a10c-f1e765b4758e) | Applied Research / Modeling | Burlingame, California | $40–$45/hr | 2026-11-01 16:45 UTC | Analytical responsibilities in description · Review |
 | Not provided | **Booz Allen Hamilton** | [University, 2027 Summer Games Data Scientist Intern - El Segundo, CA](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248050?s=gh-internships-2027) | Data Science / ML | El Segundo, CA | Not disclosed | 2026-11-01 16:17 UTC | Role title · Review |
