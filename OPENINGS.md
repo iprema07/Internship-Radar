@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**290 currently tracked openings** · Last scan: 2026-11-07 13:54 UTC
+**288 currently tracked openings** · Last scan: 2026-11-07 15:45 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 184** · **Date unavailable: 106**
+**With employer dates: 184** · **Date unavailable: 104**
 
 ## Posted 1–7 calendar days ago (18)
 
@@ -209,7 +209,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2022-11-09 00:09 UTC | lgairesearch | [AI Scientist/Engineer Intern (LG AI Research Center, Ann Arbor) ](https://www.lgresearch.ai/careers?gh_jid=4130830005) | Applied Research / Modeling | Ann Arbor, Michigan, United States | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2022-09-08 17:24 UTC | Forma.ai - India Campus | [Customer Operations Analyst Intern](https://job-boards.greenhouse.io/formaaiinc3/jobs/4090129005) | Analytics / BI | Pune | Not disclosed | 2026-11-01 16:45 UTC | Role title |
 
-## Employer posting date unavailable — newest detected first (106)
+## Employer posting date unavailable — newest detected first (104)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -266,6 +266,8 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | Machina Labs | [Robotic Process Engineer, Intern](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) | Applied Research / Modeling | Chatsworth, CA | $20–$35/hr | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
 | Not provided | efficioconsulting | [Business Analyst - Internship - Dusseldorf](https://jobs.eu.lever.co/efficioconsulting/3fdee8c1-d3b4-4852-b9a8-e1f06b950539) | Strategy / Consulting | Dusseldorf | Not disclosed | 2026-11-02 07:35 UTC | Role title |
 | Not provided | Bright Machines | [Strategic Finance Intern](https://jobs.lever.co/brightmachines/2b3e6083-1051-4c4f-a10c-f1e765b4758e) | Applied Research / Modeling | Burlingame, California | $40–$45/hr | 2026-11-01 16:45 UTC | Analytical responsibilities in description · Review |
+| Not provided | **Booz Allen Hamilton** | [University, 2027 Summer Games Data Scientist Intern - El Segundo, CA](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248050?s=gh-internships-2027) | Data Science / ML | El Segundo, CA | Not disclosed | 2026-11-01 16:17 UTC | Role title · Review |
+| Not provided | **Booz Allen Hamilton** | [University - 2027 Summer Games Data Scientist Intern - McLean, VA](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248037?s=gh-internships-2027) | Data Science / ML | McLean, VA | Not disclosed | 2026-11-01 16:17 UTC | Role title · Review |
 | Not provided | **Trane Technologies** | [2027 AI & Analytics Intern](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-7591?s=gh-internships-2027) | Analytics / BI | Davidson North Carolina | Not disclosed | 2026-11-01 09:07 UTC | Role title · Review |
 | Not provided | Commonwealth Fusion Systems | [Intern - Plasma Physics - Summer 2027](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a) | Applied Research / Modeling | Devens, MA | $25–$38/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | Not provided | Commonwealth Fusion Systems | [Intern - R&D Test Engineer - Spring or Summer 2027](https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05) | Applied Research / Modeling | Devens, MA & Somerville, MA | $25–$38/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
@@ -283,12 +285,9 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | Toyota Research Institute | [Accelerated Science Intern, Multi-scale Physics Battery Modeling](https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593) | Applied Research / Modeling | Los Altos, CA | $65/hr | 2026-11-01 09:07 UTC | Role title |
 | Not provided | Toyota Research Institute | [Robotics Intern, Post-Training and Continual Learning](https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43) | Applied Research / Modeling | Los Altos, CA | $65/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | Not provided | Simbe Robotics | [Data Analytics & Data Science Intern — Spring & Summer 2027](https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f) | Data Science / ML | San Francisco Bay Area | $35–$40/hr | 2026-11-01 02:04 UTC | Role title |
-| Not provided | **Applied Materials** | [Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX)](https://zapply.jobs/l/d/workday-amat-external-R2627409?s=gh-internships-2027) | Data Science / ML | Austin,TX | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
-| Not provided | **Applied Materials** | [Summer 2027 Business Intelligence Analyst Intern- Master's (Santa Clara, CA)](https://zapply.jobs/l/d/workday-amat-external-R2627411?s=gh-internships-2027) | Analytics / BI | Santa Clara,CA | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Axiom Space** | [Enterprise Data Analyst Intern, Power BI & Data Quality (Summer 2027)](https://zapply.jobs/l/d/workday-axiomspace-external-career-site-JR100823?s=gh-internships-2027) | Analytics / BI | Houston | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Booz Allen Hamilton** | [University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248409?s=gh-internships-2027) | Data Science / ML | Fort Walton Beach, FL | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Booz Allen Hamilton** | [University - 2027 Summer Games Data Scientist Intern - Annapolis Junction, MD](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248408?s=gh-internships-2027) | Data Science / ML | Annapolis Junction, MD | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
-| Not provided | **CVS Health** | [Innovation & Technology Internship - Tech Strategy Ops & Business Analytics Summer 2027 (Undergrad)](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1080789?s=gh-internships-2027) | Analytics / BI | CT Hartford | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Divergent Technologies** | [Summer 2027 Business Intelligence Intern](https://zapply.jobs/l/d/greenhouse-divergent-5393519008?s=gh-internships-2027) | Analytics / BI | Torrance, California, United States | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Dow Jones** | [Summer 2027 Internship Program - Marketing Data Science Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027) | Data Science / ML | NYC | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Dow Jones** | [Summer 2027 Internship Program – Data Analyst Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55894?s=gh-internships-2027) | Analytics / BI | NYC | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
@@ -298,7 +297,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | **Q2** | [2027 Summer Internship - Data Science](https://zapply.jobs/l/d/workday-q2ebanking-q2-REQ-12796?s=gh-internships-2027) | Data Science / ML | Austin, Texas | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Q2** | [2027 Summer Internship - Data Science](https://zapply.jobs/l/d/workday-q2ebanking-q2-REQ-12799?s=gh-internships-2027) | Data Science / ML | Cary, North Carolina | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Sierra Nevada Corporation** | [Program Financial Analyst Intern (Summer 2027)](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031190?s=gh-internships-2027) | Analytics / BI | Lone Tree, CO | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
-| Not provided | **Visa** | [Data Science Intern, Data and AI Team – Summer 2027](https://zapply.jobs/l/d/workday-visa-visa-REF089883W?s=gh-internships-2027) | Data Science / ML | Foster City, CA | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | Simbe Robotics | [Computer Vision / Applied AI Intern — Summer 2027](https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8) | Applied Research / Modeling | San Francisco Bay Area | $48/hr | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | Not provided | **Cigna** | [Legal Operations Financial, Data & AI Analytics Intern](https://zapply.jobs/l/d/workday-cigna-cignacareers-25016386?s=gh-internships-2027) | Data Science / ML | St. Louis, MO | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Cisco** | [Data Analyst I (Intern) - United States](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024561?s=gh-internships-2027) | Analytics / BI | San Jose California US | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
