@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**287 currently tracked openings** · Last scan: 2026-11-07 02:04 UTC
+**287 currently tracked openings** · Last scan: 2026-11-07 07:00 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -260,7 +260,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | **Federal Reserve System** | [2027 Summer Internship Program - Supervision & Regulation (Analytics, Innovation and Modeling)](https://zapply.jobs/l/d/workday-rb-frs-R-0000033861?s=gh-internships-2027) | Analytics / BI | Atlanta, GA | Not disclosed | 2026-11-02 16:29 UTC | Role title · Review |
 | Not provided | **Sierra Nevada Corporation** | [Data Science Intern (Summer 2027)](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031257?s=gh-internships-2027) | Data Science / ML | Sparks, NV | Not disclosed | 2026-11-02 16:29 UTC | Role title · Review |
 | Not provided | Quest Analytics | [Quest Analytics Internship Program - Summer 2027 in Kansas City](https://jobs.lever.co/questanalytics/614edbbf-410b-4100-8ef9-e1af7ddddfd5) | Analytics / BI | Overland Park, KS | Not disclosed | 2026-11-02 07:35 UTC | Role title |
-| Not provided | Shield AI | [Summer 2027 - Product Support Engineering Intern 6470 - 6442](https://jobs.lever.co/shieldai/5fb0fc3c-3747-4351-92fd-459b3df7c82c) | Applied Research / Modeling | Dallas, Texas | $37–$97/hr | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
 | Not provided | E-Space | [RF Product Development Lab Intern](https://jobs.lever.co/espace/12e87c91-f00f-4aa4-a3cf-4280c3a1779d) | Applied Research / Modeling | Arlington, TX | Not disclosed | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
 | Not provided | Machina Labs | [Robotic Process Engineer, Intern](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) | Applied Research / Modeling | Chatsworth, CA | $20–$35/hr | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
 | Not provided | efficioconsulting | [Business Analyst - Internship - Dusseldorf](https://jobs.eu.lever.co/efficioconsulting/3fdee8c1-d3b4-4852-b9a8-e1f06b950539) | Strategy / Consulting | Dusseldorf | Not disclosed | 2026-11-02 07:35 UTC | Role title |
@@ -282,6 +281,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | Toyota Research Institute | [Accelerated Science Intern, Multi-scale Physics Battery Modeling](https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593) | Applied Research / Modeling | Los Altos, CA | $65/hr | 2026-11-01 09:07 UTC | Role title |
 | Not provided | Toyota Research Institute | [Robotics Intern, Post-Training and Continual Learning](https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43) | Applied Research / Modeling | Los Altos, CA | $65/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | Not provided | Simbe Robotics | [Data Analytics & Data Science Intern — Spring & Summer 2027](https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f) | Data Science / ML | San Francisco Bay Area | $35–$40/hr | 2026-11-01 02:04 UTC | Role title |
+| Not provided | **Applied Materials** | [Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX)](https://zapply.jobs/l/d/workday-amat-external-R2627409?s=gh-internships-2027) | Data Science / ML | Austin,TX | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Applied Materials** | [Summer 2027 Business Intelligence Analyst Intern- Master's (Santa Clara, CA)](https://zapply.jobs/l/d/workday-amat-external-R2627411?s=gh-internships-2027) | Analytics / BI | Santa Clara,CA | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Axiom Space** | [Enterprise Data Analyst Intern, Power BI & Data Quality (Summer 2027)](https://zapply.jobs/l/d/workday-axiomspace-external-career-site-JR100823?s=gh-internships-2027) | Analytics / BI | Houston | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Booz Allen Hamilton** | [University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248409?s=gh-internships-2027) | Data Science / ML | Fort Walton Beach, FL | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
