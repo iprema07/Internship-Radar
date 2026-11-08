@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**286 currently tracked openings** · Last scan: 2026-11-07 23:07 UTC
+**286 currently tracked openings** · Last scan: 2026-11-08 02:20 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -33,7 +33,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-11-02 16:14 UTC | Axelera AI | [Hardware Lab Engineer Intern](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Applied Research / Modeling | Florence (on-site) | Not disclosed | 2026-11-03 01:31 UTC | Analytical responsibilities in description · Review |
 | 2026-11-02 13:39 UTC | Qube Research & Technologies | [2027 - Internship, Business Data Analytics ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926633002) | Analytics / BI | London | Not disclosed | 2026-11-02 16:29 UTC | Role title |
 
-## Posted 8–30 days ago (62)
+## Posted 8–30 days ago (61)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -98,12 +98,12 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-10-12 | generalmotors | [2027 Summer Intern – Research and Development - Nondestructive Evaluation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Nondestructive-Evaluation_JR-202621726) | Applied Research / Modeling | Warren, Michigan, United States of America | Not disclosed | 2026-11-05 01:32 UTC | Analytical responsibilities in description · Review |
 | 2026-10-09 23:07 UTC | Databricks | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | Applied Research / Modeling | San Francisco, California; Seattle, Washington | $34–$42/hr | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-10-09 | generalmotors | [2027 Summer Intern,  Data Scaling, Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132) | Applied Research / Modeling | Sunnyvale, California, United States of America | Not disclosed | 2026-11-01 16:45 UTC | Analytical responsibilities in description · Review |
-| 2026-10-08 | rockwellautomation | [Intern, Customer Response Engineering](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Engineering_R26-7270-1) | Applied Research / Modeling | Mayfield Heights, Ohio, United States | Not disclosed | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
 
-## Posted more than 30 days ago (104)
+## Posted more than 30 days ago (105)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
+| 2026-10-08 | rockwellautomation | [Intern, Customer Response Engineering](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Engineering_R26-7270-1) | Applied Research / Modeling | Mayfield Heights, Ohio, United States | Not disclosed | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
 | 2026-10-07 21:27 UTC | happyrobot.ai | [Product Engineer Intern](https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768) | Applied Research / Modeling | San Francisco | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2026-10-07 09:54 UTC | Shift Technology | [QA Engineer Intern (6 months) ](https://job-boards.greenhouse.io/shifttechnology/jobs/8014527003) | Applied Research / Modeling | France - Paris | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2026-10-07 | highmarkhealth | [Summer 2027 Market Analytics Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906) | Analytics / BI | Pittsburgh PA, 15222, FAP, 5th Avenue Place | Not disclosed | 2026-11-01 09:07 UTC | Role title |

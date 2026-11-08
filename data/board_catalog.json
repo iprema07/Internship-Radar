@@ -1,12 +1,12 @@
 {
-  "refreshed_at": "2026-11-01T02:04:50+00:00",
+  "refreshed_at": "2026-11-08T02:20:16+00:00",
   "source": "https://github.com/fyrosofttech/lastroundai-hiring-data/tree/main/ats-directory",
   "additional_source": "https://kalebconfer-sys.github.io/job-board-directory/",
   "license": "LastRound AI data CC BY 4.0; source attribution in README",
-  "directory_boards_found": 13114,
+  "directory_boards_found": 13115,
   "source_counts": {
     "LastRound AI": 9935,
-    "Public Job Board Directory": 7595
+    "Public Job Board Directory": 7596
   },
   "refresh_warnings": [],
   "companies": [
