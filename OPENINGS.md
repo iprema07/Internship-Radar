@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**286 currently tracked openings** · Last scan: 2026-11-08 16:59 UTC
+**286 currently tracked openings** · Last scan: 2026-11-08 20:36 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -294,7 +294,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | **Federal Reserve System** | [Summer 2027 Intern-Business Analytics, Supply Chain Management - Detroit](https://zapply.jobs/l/d/workday-rb-frs-R-0000033945?s=gh-internships-2027) | Analytics / BI | Detroit, MI | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Philips** | [Intern-Customer Experience Analytics (Health Systems Strategy and Growth) Nashville, TN-Summer 2027](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593456?s=gh-internships-2027) | Analytics / BI | Nashville, Tennessee, United States | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Q2** | [2027 Summer Internship - Data Science](https://zapply.jobs/l/d/workday-q2ebanking-q2-REQ-12796?s=gh-internships-2027) | Data Science / ML | Austin, Texas | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
-| Not provided | **Q2** | [2027 Summer Internship - Data Science](https://zapply.jobs/l/d/workday-q2ebanking-q2-REQ-12799?s=gh-internships-2027) | Data Science / ML | Cary, North Carolina | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Sierra Nevada Corporation** | [Program Financial Analyst Intern (Summer 2027)](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031190?s=gh-internships-2027) | Analytics / BI | Lone Tree, CO | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | Simbe Robotics | [Computer Vision / Applied AI Intern — Summer 2027](https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8) | Applied Research / Modeling | San Francisco Bay Area | $48/hr | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | Not provided | **Cigna** | [Legal Operations Financial, Data & AI Analytics Intern](https://zapply.jobs/l/d/workday-cigna-cignacareers-25016386?s=gh-internships-2027) | Data Science / ML | St. Louis, MO | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
@@ -314,6 +313,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | **Firework** | [Data Engineer Intern](https://zapply.jobs/l/d/lever-fireworkhq-36722fbd-2705-4beb-83aa-1884068eaa09?s=gh-internships-2027) | Data Engineering | San Mateo, California | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **GM Financial** | [Intern - Data Engineer](https://zapply.jobs/l/d/oracle-gm-financial-261197?s=gh-internships-2027) | Data Engineering | Arlington, TX, United States | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Itron** | [Intern - Data Engineering](https://zapply.jobs/l/d/workday-itron-itron-JR102942?s=gh-internships-2027) | Data Engineering | WA | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
+| Not provided | **Leidos** | [Data Engineer Intern](https://zapply.jobs/l/d/workday-leidos-external-R-00195576?s=gh-internships-2027) | Data Engineering | Fort Belvoir, VA | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Philips** | [Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-591730?s=gh-internships-2027) | Data Engineering | Murrysville, Pennsylvania,... | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 
 ---
