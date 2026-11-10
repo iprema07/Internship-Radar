@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**279 currently tracked openings** · Last scan: 2026-11-10 01:58 UTC
+**279 currently tracked openings** · Last scan: 2026-11-10 07:48 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 180** · **Date unavailable: 99**
+**With employer dates: 179** · **Date unavailable: 100**
 
 ## Posted 1–7 calendar days ago (17)
 
@@ -32,7 +32,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-11-03 | geaerospace | [Artificial Intelligence Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) | Applied Research / Modeling | Remote | Not disclosed | 2026-11-02 18:13 UTC | Analytical responsibilities in description · Review |
 | 2026-11-03 | geaerospace | [Artificial Intelligence Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) | Applied Research / Modeling | Remote | Not disclosed | 2026-11-02 18:13 UTC | Analytical responsibilities in description · Review |
 
-## Posted 8–30 days ago (59)
+## Posted 8–30 days ago (58)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -48,7 +48,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-10-28 | regeneron | [2027 Summer Intern AI/ML & Data Engineering](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1) | Data Science / ML | 5 Locations | $17.9–$50.9/hr | 2026-11-01 02:04 UTC | Role title |
 | 2026-10-28 | regeneron | [2027 Summer Intern Genomics, Computational Biology & Translational Data Science](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Genomics--Computational-Biology---Translational-Data-Science_R52557-1) | Bioinformatics / Computational Biology | 2 Locations | $17.9–$50.9/hr | 2026-11-01 02:04 UTC | Role title |
 | 2026-10-28 | regeneron | [2027 Summer Intern Clinical Science, Medical Monitoring & Health Economics](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Clinical-Science--Medical-Monitoring---Health-Economics_R52563-1) | Epidemiology / RWE / HEOR | 3 Locations | $17.9–$50.9/hr | 2026-11-01 02:04 UTC | Role title |
-| 2026-10-28 | regeneron | [2027 Summer Intern Data Science & Digital Innovation (IOPS)](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1) | Data Science / ML | RENSSELAER | $17.9–$25.5/hr | 2026-11-01 02:04 UTC | Role title |
 | 2026-10-28 | regeneron | [2027 Summer Intern Market Access, Pricing & Commercial Analytics](https://regeneron.wd1.myworkdayjobs.com/Careers/job/SLEEPY-HOLLOW/XMLNAME-2027-Summer-Intern-Market-Access--Pricing---Commercial-Analytics_R52574-1) | Analytics / BI | SLEEPY HOLLOW | $17.9–$50.9/hr | 2026-11-01 02:04 UTC | Role title |
 | 2026-10-28 | regeneron | [2027 Summer Intern Data Analytics, Dashboards & Business Process Automation](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1) | Analytics / BI | 3 Locations | $17.9–$50.9/hr | 2026-11-01 02:04 UTC | Role title |
 | 2026-10-28 | regeneron | [2027 Summer Intern Process Sciences – Downstream Purification Support (IOPS)](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Process-Sciences---Downstream-Purification-Support--IOPS-_R51813-1) | Applied Research / Modeling | RENSSELAER | $17.9–$25.5/hr | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
@@ -205,7 +204,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2022-11-09 00:09 UTC | lgairesearch | [AI Scientist/Engineer Intern (LG AI Research Center, Ann Arbor) ](https://www.lgresearch.ai/careers?gh_jid=4130830005) | Applied Research / Modeling | Ann Arbor, Michigan, United States | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2022-09-08 17:24 UTC | Forma.ai - India Campus | [Customer Operations Analyst Intern](https://job-boards.greenhouse.io/formaaiinc3/jobs/4090129005) | Analytics / BI | Pune | Not disclosed | 2026-11-01 16:45 UTC | Role title |
 
-## Employer posting date unavailable — newest detected first (99)
+## Employer posting date unavailable — newest detected first (100)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -306,6 +305,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | genomines | [Business Intern](https://jobs.eu.lever.co/genomines/a53de103-d1c0-4804-ad14-b281f585e059) | Applied Research / Modeling | Les Ulis | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | Not provided | Multiply Labs | [Robotics Software Intern](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586) | Applied Research / Modeling | San Francisco | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | Not provided | Research Innovations | [DoW SkillBridge Forward Deployed Engineer Intern](https://jobs.lever.co/researchinnovations.com/a89efcb2-9e6c-44fe-8441-cf12dc3a1181) | Applied Research / Modeling | Joint Base Lewis-McChord | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
+| Not provided | **ASML** | [Internship/Co-Op: Data Engineer](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355626?s=gh-internships-2027) | Data Engineering | San Diego, CA, USA | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Firework** | [Data Engineer Intern](https://zapply.jobs/l/d/lever-fireworkhq-36722fbd-2705-4beb-83aa-1884068eaa09?s=gh-internships-2027) | Data Engineering | San Mateo, California | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Philips** | [Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-591730?s=gh-internships-2027) | Data Engineering | Murrysville, Pennsylvania,... | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 
