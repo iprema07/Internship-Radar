@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**271 currently tracked openings** · Last scan: 2026-11-11 05:57 UTC
+**271 currently tracked openings** · Last scan: 2026-11-11 08:18 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -201,6 +201,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
+| Not provided | **Aerospace Corporation** | [2027 Enterprise Performance Modeling and Simulation Graduate Intern](https://zapply.jobs/l/d/workday-aero-external-R016942?s=gh-internships-2027) | Applied Research / Modeling | Colorado Springs, CO | Not disclosed | 2026-11-11 08:18 UTC | Role title · Review |
 | Not provided | **Riot Games** | [Data Engineering Intern - Summer 2027](https://zapply.jobs/l/d/greenhouse-riotgames-8356716?s=gh-internships-2027) | Data Engineering | Los Angeles, USA | Not disclosed | 2026-11-11 05:57 UTC | Role title · Review |
 | Not provided | **NVIDIA** | [Financial Analyst Intern, Hardware FP&A - Summer 2027](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029523?s=gh-internships-2027) | Analytics / BI | US, CA, Santa Clara | Not disclosed | 2026-11-11 01:27 UTC | Role title · Review |
 | Not provided | **Sedaro** | [Modeling & Simulation Intern](https://zapply.jobs/l/d/bamboohr-sedarotech-94?s=gh-internships-2027) | Applied Research / Modeling | Arlington, Virginia | Not disclosed | 2026-11-11 01:27 UTC | Role title · Review |
@@ -279,7 +280,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | Toyota Research Institute | [Accelerated Science Intern, Multi-scale Physics Battery Modeling](https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593) | Applied Research / Modeling | Los Altos, CA | $65/hr | 2026-11-01 09:07 UTC | Role title |
 | Not provided | Toyota Research Institute | [Robotics Intern, Post-Training and Continual Learning](https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43) | Applied Research / Modeling | Los Altos, CA | $65/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | Not provided | Simbe Robotics | [Data Analytics & Data Science Intern — Spring & Summer 2027](https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f) | Data Science / ML | San Francisco Bay Area | $35–$40/hr | 2026-11-01 02:04 UTC | Role title |
-| Not provided | **Axiom Space** | [Enterprise Data Analyst Intern, Power BI & Data Quality (Summer 2027)](https://zapply.jobs/l/d/workday-axiomspace-external-career-site-JR100823?s=gh-internships-2027) | Analytics / BI | Houston | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Divergent Technologies** | [Summer 2027 Business Intelligence Intern](https://zapply.jobs/l/d/greenhouse-divergent-5393519008?s=gh-internships-2027) | Analytics / BI | Torrance, California, United States | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Dow Jones** | [Summer 2027 Internship Program - Marketing Data Science Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027) | Data Science / ML | NYC | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 | Not provided | **Dow Jones** | [Summer 2027 Internship Program – Data Analyst Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55894?s=gh-internships-2027) | Analytics / BI | NYC | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
