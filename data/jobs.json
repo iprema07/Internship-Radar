@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T16:21:02+00:00",
-  "scan_mode": "priority",
+  "updated_at": "2026-11-11T21:18:23+00:00",
+  "scan_mode": "broad",
   "jobs": [
     {
       "id": "workday:lilly:CMP:92b08f88ddcb116434",
@@ -42,7 +42,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -222,7 +222,50 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
+      "status": "open",
+      "closed_at": null,
+      "missing_scans": 0
+    },
+    {
+      "id": "community:zapply-2027:93c9393fa12f3d872c1ee6b6",
+      "company": "**Genentech**",
+      "sector": "Cross-industry",
+      "stage": "Mixed",
+      "aggregated": true,
+      "source": "zapply-2027",
+      "ats": "github_markdown",
+      "title": "2027 Summer Intern - Biostatistics and Analytical Data Sciences",
+      "location": "South San Francisco",
+      "department": "",
+      "url": "https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-128787?s=gh-internships-2027",
+      "focus": [
+        "Biostatistics / Statistical Programming",
+        "Data Science / ML"
+      ],
+      "score": 95,
+      "reasons": [
+        "Role title matches Biostatistics / Statistical Programming, Data Science / ML",
+        "Summer target explicitly mentioned",
+        "Full posting description not available; verify role responsibilities"
+      ],
+      "pay": {
+        "hourly_min": null,
+        "hourly_max": null,
+        "basis": "unknown"
+      },
+      "season": "summer_confirmed",
+      "fit_tier": "review",
+      "primary_focus": "Biostatistics / Statistical Programming",
+      "description_status": "missing",
+      "match_source": "Role title",
+      "method_signal_count": 0,
+      "posted_at": "",
+      "modified_at": "",
+      "first_seen": "2026-11-11",
+      "first_seen_at": "2026-11-11T21:18:23+00:00",
+      "last_seen": "2026-11-11",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -265,7 +308,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -439,7 +482,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -704,7 +747,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -747,7 +790,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -789,7 +832,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -831,7 +874,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -919,7 +962,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -961,7 +1004,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1003,7 +1046,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1045,7 +1088,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1088,7 +1131,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1130,7 +1173,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1342,7 +1385,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T16:21:02+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1386,7 +1429,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1430,7 +1473,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1473,7 +1516,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T17:43:31+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1560,7 +1603,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1603,7 +1646,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1646,7 +1689,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1659,7 +1702,7 @@
       "aggregated": false,
       "source": "directory:greenhouse:shifttechnology",
       "ats": "greenhouse",
-      "title": "Data scientist Internship (6 months) ",
+      "title": "Data Scientist Internship (6 months) ",
       "location": "France - Paris",
       "department": "Data Science",
       "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003",
@@ -1685,11 +1728,11 @@
       "match_source": "Role title",
       "method_signal_count": 0,
       "posted_at": "2026-10-20T09:12:58-04:00",
-      "modified_at": "2026-10-20T11:00:20-04:00",
+      "modified_at": "2026-11-11T13:38:22-05:00",
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1732,7 +1775,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1776,7 +1819,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1820,7 +1863,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1863,7 +1906,50 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T00:44:08+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
+      "status": "open",
+      "closed_at": null,
+      "missing_scans": 0
+    },
+    {
+      "id": "lever:tri:da4b4832-36e7-4703-9841-c319efd6d495",
+      "company": "Toyota Research Institute",
+      "sector": "Potential life sciences / health",
+      "stage": "Unclassified",
+      "aggregated": false,
+      "source": "directory:lever:tri",
+      "ats": "lever",
+      "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
+      "location": "Los Altos, CA",
+      "department": "Automated Driving Advanced Development",
+      "url": "https://jobs.lever.co/tri/da4b4832-36e7-4703-9841-c319efd6d495",
+      "focus": [
+        "Data Science / ML"
+      ],
+      "score": 88,
+      "reasons": [
+        "Role title matches Data Science / ML",
+        "Graduate student eligibility mentioned; verify dates",
+        "Summer dates need confirmation",
+        "Relevant analytical methods or tools mentioned"
+      ],
+      "pay": {
+        "hourly_min": 65.0,
+        "hourly_max": 65.0,
+        "basis": "stated_hourly"
+      },
+      "season": "season_unconfirmed",
+      "fit_tier": "strong",
+      "primary_focus": "Data Science / ML",
+      "description_status": "full",
+      "match_source": "Role title",
+      "method_signal_count": 0,
+      "posted_at": "",
+      "modified_at": "",
+      "first_seen": "2026-11-11",
+      "first_seen_at": "2026-11-11T21:18:23+00:00",
+      "last_seen": "2026-11-11",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2035,7 +2121,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2077,7 +2163,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T18:13:04+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2119,7 +2205,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T23:40:21+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2161,7 +2247,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2203,7 +2289,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2245,7 +2331,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2287,7 +2373,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2329,7 +2415,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T00:44:08+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2372,7 +2458,49 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T16:29:25+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
+      "status": "open",
+      "closed_at": null,
+      "missing_scans": 0
+    },
+    {
+      "id": "community:zapply-2027:695b597dc15e2583c1447061",
+      "company": "**Genentech**",
+      "sector": "Cross-industry",
+      "stage": "Mixed",
+      "aggregated": true,
+      "source": "zapply-2027",
+      "ats": "github_markdown",
+      "title": "2027 Summer Intern - Product Development Data Sciences",
+      "location": "Boston",
+      "department": "",
+      "url": "https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-128802?s=gh-internships-2027",
+      "focus": [
+        "Data Science / ML"
+      ],
+      "score": 83,
+      "reasons": [
+        "Role title matches Data Science / ML",
+        "Summer target explicitly mentioned",
+        "Full posting description not available; verify role responsibilities"
+      ],
+      "pay": {
+        "hourly_min": null,
+        "hourly_max": null,
+        "basis": "unknown"
+      },
+      "season": "summer_confirmed",
+      "fit_tier": "review",
+      "primary_focus": "Data Science / ML",
+      "description_status": "missing",
+      "match_source": "Role title",
+      "method_signal_count": 0,
+      "posted_at": "",
+      "modified_at": "",
+      "first_seen": "2026-11-11",
+      "first_seen_at": "2026-11-11T21:18:23+00:00",
+      "last_seen": "2026-11-11",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2414,7 +2542,49 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
+      "status": "open",
+      "closed_at": null,
+      "missing_scans": 0
+    },
+    {
+      "id": "community:zapply-2027:8625a36d8b0d1087800e5aa0",
+      "company": "**ICF**",
+      "sector": "Cross-industry",
+      "stage": "Mixed",
+      "aggregated": true,
+      "source": "zapply-2027",
+      "ats": "github_markdown",
+      "title": "2027 Summer Intern, Data Analytics (Reston, VA or Remote)",
+      "location": "Reston, VA",
+      "department": "",
+      "url": "https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603382?s=gh-internships-2027",
+      "focus": [
+        "Analytics / BI"
+      ],
+      "score": 83,
+      "reasons": [
+        "Role title matches Analytics / BI",
+        "Summer target explicitly mentioned",
+        "Full posting description not available; verify role responsibilities"
+      ],
+      "pay": {
+        "hourly_min": null,
+        "hourly_max": null,
+        "basis": "unknown"
+      },
+      "season": "summer_confirmed",
+      "fit_tier": "review",
+      "primary_focus": "Analytics / BI",
+      "description_status": "missing",
+      "match_source": "Role title",
+      "method_signal_count": 0,
+      "posted_at": "",
+      "modified_at": "",
+      "first_seen": "2026-11-11",
+      "first_seen_at": "2026-11-11T21:18:23+00:00",
+      "last_seen": "2026-11-11",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2456,7 +2626,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T00:44:08+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2498,7 +2668,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T01:27:53+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2540,7 +2710,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T00:44:08+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2582,7 +2752,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T14:20:45+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2624,7 +2794,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T10:43:56+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2666,7 +2836,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T16:29:25+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2708,7 +2878,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T15:50:04+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2750,7 +2920,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T23:14:08+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2792,7 +2962,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T15:50:04+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2834,7 +3004,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2876,7 +3046,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T14:20:45+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2918,7 +3088,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T23:40:21+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2960,7 +3130,7 @@
       "first_seen": "2026-11-07",
       "first_seen_at": "2026-11-07T00:51:22+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3002,7 +3172,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T22:23:55+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3043,7 +3213,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3088,7 +3258,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3132,7 +3302,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3176,7 +3346,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3220,7 +3390,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3264,7 +3434,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3308,7 +3478,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3352,7 +3522,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3396,7 +3566,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T01:27:53+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3438,7 +3608,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3482,7 +3652,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3526,7 +3696,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3953,7 +4123,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3995,7 +4165,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4037,7 +4207,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4735,7 +4905,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4779,7 +4949,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5076,7 +5246,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T23:10:08+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5118,7 +5288,7 @@
       "first_seen": "2026-11-09",
       "first_seen_at": "2026-11-09T16:57:45+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5160,7 +5330,7 @@
       "first_seen": "2026-11-09",
       "first_seen_at": "2026-11-09T18:40:56+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5202,7 +5372,49 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T14:56:46+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
+      "status": "open",
+      "closed_at": null,
+      "missing_scans": 0
+    },
+    {
+      "id": "community:zapply-2027:b12f492eba35305d09f9a567",
+      "company": "**Cigna**",
+      "sector": "Cross-industry",
+      "stage": "Mixed",
+      "aggregated": true,
+      "source": "zapply-2027",
+      "ats": "github_markdown",
+      "title": "Product Analytics Summer Intern - Start Date: May 24, 2027",
+      "location": "Morris Plains, NJ",
+      "department": "",
+      "url": "https://zapply.jobs/l/d/workday-cigna-cignacareers-26010180?s=gh-internships-2027",
+      "focus": [
+        "Analytics / BI"
+      ],
+      "score": 76,
+      "reasons": [
+        "Role title matches Analytics / BI",
+        "Summer dates need confirmation",
+        "Full posting description not available; verify role responsibilities"
+      ],
+      "pay": {
+        "hourly_min": null,
+        "hourly_max": null,
+        "basis": "unknown"
+      },
+      "season": "season_unconfirmed",
+      "fit_tier": "review",
+      "primary_focus": "Analytics / BI",
+      "description_status": "missing",
+      "match_source": "Role title",
+      "method_signal_count": 0,
+      "posted_at": "",
+      "modified_at": "",
+      "first_seen": "2026-11-11",
+      "first_seen_at": "2026-11-11T21:18:23+00:00",
+      "last_seen": "2026-11-11",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5244,7 +5456,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5286,7 +5498,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T18:40:13+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5328,7 +5540,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T17:43:31+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5370,7 +5582,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T17:34:09+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5412,7 +5624,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T18:13:04+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5454,7 +5666,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T22:21:45+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5496,7 +5708,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T06:02:20+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5538,7 +5750,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T18:40:13+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5584,7 +5796,7 @@
       "last_seen_at": "2026-11-11T16:21:02+00:00",
       "status": "open",
       "closed_at": null,
-      "missing_scans": 0
+      "missing_scans": 1
     },
     {
       "id": "community:zapply-2027:ebd0ead53bcc5edf1ed0ab07",
@@ -5623,7 +5835,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T19:37:19+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5665,7 +5877,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T01:31:52+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5707,52 +5919,10 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T19:37:19+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
-    },
-    {
-      "id": "community:zapply-2027:1750ad13f84c6b9664c31427",
-      "company": "**MITRE**",
-      "sector": "Cross-industry",
-      "stage": "Mixed",
-      "aggregated": true,
-      "source": "zapply-2027",
-      "ats": "github_markdown",
-      "title": "Data Science and Engineering Intern",
-      "location": "McLean, Virginia",
-      "department": "",
-      "url": "https://zapply.jobs/l/d/phenom-mitre-R117661?s=gh-internships-2027",
-      "focus": [
-        "Data Science / ML"
-      ],
-      "score": 76,
-      "reasons": [
-        "Role title matches Data Science / ML",
-        "Summer dates need confirmation",
-        "Full posting description not available; verify role responsibilities"
-      ],
-      "pay": {
-        "hourly_min": null,
-        "hourly_max": null,
-        "basis": "unknown"
-      },
-      "season": "season_unconfirmed",
-      "fit_tier": "review",
-      "primary_focus": "Data Science / ML",
-      "description_status": "missing",
-      "match_source": "Role title",
-      "method_signal_count": 0,
-      "posted_at": "",
-      "modified_at": "",
-      "first_seen": "2026-11-01",
-      "first_seen_at": "2026-11-01T02:04:50+00:00",
-      "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T14:03:44+00:00",
-      "status": "open",
-      "closed_at": null,
-      "missing_scans": 1
     },
     {
       "id": "community:zapply-2027:2c25de325b7cf794c55668d8",
@@ -5791,7 +5961,7 @@
       "first_seen": "2026-11-07",
       "first_seen_at": "2026-11-07T00:51:22+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5833,7 +6003,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T14:56:46+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5875,7 +6045,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5917,7 +6087,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5959,7 +6129,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T18:40:13+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6001,7 +6171,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T17:43:31+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6043,7 +6213,49 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T00:44:08+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
+      "status": "open",
+      "closed_at": null,
+      "missing_scans": 0
+    },
+    {
+      "id": "community:zapply-2027:73418e4be91df7a4c63c4753",
+      "company": "**Toyota Research Institute**",
+      "sector": "Cross-industry",
+      "stage": "Mixed",
+      "aggregated": true,
+      "source": "zapply-2027",
+      "ats": "github_markdown",
+      "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
+      "location": "Los Altos, CA",
+      "department": "",
+      "url": "https://zapply.jobs/l/d/lever-tri-da4b4832-36e7-4703-9841-c319efd6d495?s=gh-internships-2027",
+      "focus": [
+        "Data Science / ML"
+      ],
+      "score": 76,
+      "reasons": [
+        "Role title matches Data Science / ML",
+        "Summer dates need confirmation",
+        "Full posting description not available; verify role responsibilities"
+      ],
+      "pay": {
+        "hourly_min": null,
+        "hourly_max": null,
+        "basis": "unknown"
+      },
+      "season": "season_unconfirmed",
+      "fit_tier": "review",
+      "primary_focus": "Data Science / ML",
+      "description_status": "missing",
+      "match_source": "Role title",
+      "method_signal_count": 0,
+      "posted_at": "",
+      "modified_at": "",
+      "first_seen": "2026-11-11",
+      "first_seen_at": "2026-11-11T21:18:23+00:00",
+      "last_seen": "2026-11-11",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6085,7 +6297,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6127,7 +6339,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6169,7 +6381,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6212,7 +6424,7 @@
       "first_seen": "2026-11-09",
       "first_seen_at": "2026-11-09T16:57:45+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6298,7 +6510,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6385,7 +6597,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6428,7 +6640,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6471,7 +6683,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6514,7 +6726,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6557,7 +6769,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6599,7 +6811,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6642,7 +6854,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6685,7 +6897,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6729,7 +6941,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6772,7 +6984,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6815,7 +7027,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6943,7 +7155,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6987,7 +7199,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7030,7 +7242,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7073,7 +7285,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7117,7 +7329,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T21:28:21+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7160,7 +7372,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T01:32:08+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7201,7 +7413,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7244,7 +7456,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T22:23:55+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7588,7 +7800,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7849,7 +8061,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7893,7 +8105,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8114,7 +8326,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8158,7 +8370,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8292,7 +8504,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8772,7 +8984,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8816,7 +9028,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T20:50:07+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8860,7 +9072,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8905,7 +9117,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T22:23:55+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8949,7 +9161,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T01:32:08+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8994,7 +9206,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9038,7 +9250,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9082,7 +9294,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9126,7 +9338,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9258,7 +9470,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9344,7 +9556,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T05:57:21+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9386,7 +9598,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T20:50:07+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9428,7 +9640,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T20:50:07+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9470,7 +9682,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T22:23:55+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9513,7 +9725,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T01:31:52+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9646,7 +9858,7 @@
       "last_seen_at": "2026-11-11T16:21:02+00:00",
       "status": "open",
       "closed_at": null,
-      "missing_scans": 0
+      "missing_scans": 1
     },
     {
       "id": "greenhouse:databricks:8133715002",
@@ -9686,7 +9898,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9729,7 +9941,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9772,7 +9984,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9815,7 +10027,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9857,7 +10069,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9899,7 +10111,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9985,7 +10197,7 @@
       "first_seen": "2026-11-07",
       "first_seen_at": "2026-11-07T13:54:17+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T05:57:21+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10286,7 +10498,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10329,7 +10541,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10372,7 +10584,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10415,7 +10627,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10544,7 +10756,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10588,7 +10800,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10630,7 +10842,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T17:43:31+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10673,7 +10885,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T22:23:55+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10716,7 +10928,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10760,7 +10972,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10802,7 +11014,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10845,7 +11057,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11318,7 +11530,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11360,7 +11572,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11531,7 +11743,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T02:46:39+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11573,7 +11785,49 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T08:18:46+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
+      "status": "open",
+      "closed_at": null,
+      "missing_scans": 0
+    },
+    {
+      "id": "community:zapply-2027:e65fe1218d4549bbdfd3af15",
+      "company": "**Bose**",
+      "sector": "Cross-industry",
+      "stage": "Mixed",
+      "aggregated": true,
+      "source": "zapply-2027",
+      "ats": "github_markdown",
+      "title": "Data Engineer Co-Op",
+      "location": "MA Framingham",
+      "department": "",
+      "url": "https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29270?s=gh-internships-2027",
+      "focus": [
+        "Data Engineering"
+      ],
+      "score": 63,
+      "reasons": [
+        "Role title matches Data Engineering",
+        "Summer dates need confirmation",
+        "Full posting description not available; verify role responsibilities"
+      ],
+      "pay": {
+        "hourly_min": null,
+        "hourly_max": null,
+        "basis": "unknown"
+      },
+      "season": "season_unconfirmed",
+      "fit_tier": "review",
+      "primary_focus": "Data Engineering",
+      "description_status": "missing",
+      "match_source": "Role title",
+      "method_signal_count": 0,
+      "posted_at": "",
+      "modified_at": "",
+      "first_seen": "2026-11-11",
+      "first_seen_at": "2026-11-11T21:18:23+00:00",
+      "last_seen": "2026-11-11",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11615,7 +11869,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11657,7 +11911,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T22:23:55+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11699,7 +11953,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T01:27:53+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11741,7 +11995,7 @@
       "first_seen": "2026-11-09",
       "first_seen_at": "2026-11-09T16:57:45+00:00",
       "last_seen": "2026-11-11",
-      "last_seen_at": "2026-11-11T16:21:02+00:00",
+      "last_seen_at": "2026-11-11T21:18:23+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -15260,6 +15514,48 @@
       "missing_scans": 2
     },
     {
+      "id": "community:zapply-2027:1750ad13f84c6b9664c31427",
+      "company": "**MITRE**",
+      "sector": "Cross-industry",
+      "stage": "Mixed",
+      "aggregated": true,
+      "source": "zapply-2027",
+      "ats": "github_markdown",
+      "title": "Data Science and Engineering Intern",
+      "location": "McLean, Virginia",
+      "department": "",
+      "url": "https://zapply.jobs/l/d/phenom-mitre-R117661?s=gh-internships-2027",
+      "focus": [
+        "Data Science / ML"
+      ],
+      "score": 76,
+      "reasons": [
+        "Role title matches Data Science / ML",
+        "Summer dates need confirmation",
+        "Full posting description not available; verify role responsibilities"
+      ],
+      "pay": {
+        "hourly_min": null,
+        "hourly_max": null,
+        "basis": "unknown"
+      },
+      "season": "season_unconfirmed",
+      "fit_tier": "review",
+      "primary_focus": "Data Science / ML",
+      "description_status": "missing",
+      "match_source": "Role title",
+      "method_signal_count": 0,
+      "posted_at": "",
+      "modified_at": "",
+      "first_seen": "2026-11-01",
+      "first_seen_at": "2026-11-01T02:04:50+00:00",
+      "last_seen": "2026-11-11",
+      "last_seen_at": "2026-11-11T14:03:44+00:00",
+      "status": "closed",
+      "closed_at": "2026-11-11",
+      "missing_scans": 2
+    },
+    {
       "id": "community:zapply-2027:0925412a185f6eef3e32050b",
       "company": "**Micron Technology**",
       "sector": "Cross-industry",
@@ -17893,11 +18189,11 @@
   ],
   "health": [
     {
-      "company": "insitro",
-      "id": "insitro",
-      "ats": "ashby",
+      "company": "Recursion",
+      "id": "recursion",
+      "ats": "greenhouse",
       "status": "ok",
-      "scanned": 13,
+      "scanned": 18,
       "matches": 0,
       "stage": "Startup / growth"
     },
@@ -17918,12 +18214,21 @@
       "message": "HTTP Error 404: Not Found"
     },
     {
-      "company": "Recursion",
-      "id": "recursion",
+      "company": "ClinChoice",
+      "id": "clinchoice",
       "ats": "greenhouse",
       "status": "ok",
-      "scanned": 13,
+      "scanned": 70,
       "matches": 0,
+      "stage": "Established / other"
+    },
+    {
+      "company": "Every Cure",
+      "id": "every-cure",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 1,
       "stage": "Startup / growth"
     },
     {
@@ -17936,24 +18241,6 @@
       "stage": "Startup / growth"
     },
     {
-      "company": "Every Cure",
-      "id": "every-cure",
-      "ats": "greenhouse",
-      "status": "ok",
-      "scanned": 2,
-      "matches": 1,
-      "stage": "Startup / growth"
-    },
-    {
-      "company": "ClinChoice",
-      "id": "clinchoice",
-      "ats": "greenhouse",
-      "status": "ok",
-      "scanned": 70,
-      "matches": 0,
-      "stage": "Established / other"
-    },
-    {
       "company": "Beam Therapeutics",
       "id": "beam",
       "ats": "greenhouse",
@@ -17961,15 +18248,6 @@
       "scanned": 39,
       "matches": 1,
       "stage": "Startup / growth"
-    },
-    {
-      "company": "CareDx",
-      "id": "care-dx",
-      "ats": "greenhouse",
-      "status": "ok",
-      "scanned": 54,
-      "matches": 0,
-      "stage": "Established / other"
     },
     {
       "company": "Altos Labs",
@@ -17981,11 +18259,11 @@
       "stage": "Startup / growth"
     },
     {
-      "company": "Nabla",
-      "id": "nabla",
+      "company": "insitro",
+      "id": "insitro",
       "ats": "ashby",
       "status": "ok",
-      "scanned": 10,
+      "scanned": 13,
       "matches": 0,
       "stage": "Startup / growth"
     },
@@ -18008,13 +18286,13 @@
       "stage": "Established / other"
     },
     {
-      "company": "Ambience Healthcare",
-      "id": "ambience",
-      "ats": "ashby",
+      "company": "Axsome Therapeutics",
+      "id": "axsome",
+      "ats": "greenhouse",
       "status": "ok",
-      "scanned": 17,
+      "scanned": 108,
       "matches": 0,
-      "stage": "Startup / growth"
+      "stage": "Established / other"
     },
     {
       "company": "Abridge",
@@ -18026,20 +18304,22 @@
       "stage": "Startup / growth"
     },
     {
-      "company": "Candid Health",
-      "id": "candid",
+      "company": "Nabla",
+      "id": "nabla",
       "ats": "ashby",
       "status": "ok",
-      "scanned": 31,
+      "scanned": 10,
       "matches": 0,
       "stage": "Startup / growth"
     },
     {
-      "company": "Benchling",
-      "id": "benchling",
-      "ats": "greenhouse",
-      "status": "error",
-      "message": "HTTP Error 404: Not Found"
+      "company": "Candid Health",
+      "id": "candid",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 30,
+      "matches": 0,
+      "stage": "Startup / growth"
     },
     {
       "company": "Elicit",
@@ -18051,13 +18331,20 @@
       "stage": "Startup / growth"
     },
     {
-      "company": "Axsome Therapeutics",
-      "id": "axsome",
+      "company": "Benchling",
+      "id": "benchling",
       "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Ambience Healthcare",
+      "id": "ambience",
+      "ats": "ashby",
       "status": "ok",
-      "scanned": 108,
+      "scanned": 17,
       "matches": 0,
-      "stage": "Established / other"
+      "stage": "Startup / growth"
     },
     {
       "company": "Summit Therapeutics",
@@ -18069,29 +18356,13 @@
       "stage": "Established / other"
     },
     {
-      "company": "Vanta",
-      "id": "vanta",
-      "ats": "ashby",
+      "company": "CareDx",
+      "id": "care-dx",
+      "ats": "greenhouse",
       "status": "ok",
-      "scanned": 82,
+      "scanned": 56,
       "matches": 0,
-      "stage": "Startup / growth"
-    },
-    {
-      "company": "Ramp",
-      "id": "ramp",
-      "ats": "ashby",
-      "status": "ok",
-      "scanned": 176,
-      "matches": 1,
-      "stage": "Startup / growth"
-    },
-    {
-      "company": "Windsurf",
-      "id": "windsurf",
-      "ats": "ashby",
-      "status": "error",
-      "message": "HTTP Error 404: Not Found"
+      "stage": "Established / other"
     },
     {
       "company": "Figma",
@@ -18103,13 +18374,20 @@
       "stage": "Startup / growth"
     },
     {
-      "company": "Perplexity",
-      "id": "perplexity",
+      "company": "Vanta",
+      "id": "vanta",
       "ats": "ashby",
       "status": "ok",
-      "scanned": 138,
+      "scanned": 81,
       "matches": 0,
       "stage": "Startup / growth"
+    },
+    {
+      "company": "Windsurf",
+      "id": "windsurf",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
     },
     {
       "company": "Scale AI",
@@ -18139,30 +18417,1256 @@
       "stage": "Startup / growth"
     },
     {
-      "company": "Zapply 2027 broad internship feed",
-      "id": "zapply-2027",
-      "ats": "github_markdown",
+      "company": "1bios",
+      "id": "directory:ashby:1bios",
+      "ats": "ashby",
       "status": "ok",
-      "scanned": 600,
-      "matches": 62,
-      "stage": "Mixed"
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Perplexity",
+      "id": "perplexity",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 136,
+      "matches": 0,
+      "stage": "Startup / growth"
     },
     {
       "company": "Coinbase",
       "id": "coinbase",
       "ats": "greenhouse",
       "status": "ok",
-      "scanned": 278,
+      "scanned": 277,
       "matches": 12,
       "stage": "Startup / growth"
     },
     {
-      "company": "avelios-medical",
-      "id": "directory:ashby:avelios-medical",
+      "company": "Zapply 2027 broad internship feed",
+      "id": "zapply-2027",
+      "ats": "github_markdown",
+      "status": "ok",
+      "scanned": 600,
+      "matches": 67,
+      "stage": "Mixed"
+    },
+    {
+      "company": "Abarca Health",
+      "id": "directory:greenhouse:abarca",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Ramp",
+      "id": "ramp",
       "ats": "ashby",
       "status": "ok",
+      "scanned": 176,
+      "matches": 1,
+      "stage": "Startup / growth"
+    },
+    {
+      "company": "Abricare, Inc.",
+      "id": "directory:greenhouse:abricareinc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 17,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "3Y Health",
+      "id": "directory:ashby:3y-health",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 16,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Ada Health GmbH",
+      "id": "directory:greenhouse:adahealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "accesshealthca",
+      "id": "directory:greenhouse:accesshealthca",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Cohere",
+      "id": "cohere",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 123,
+      "matches": 0,
+      "stage": "Startup / growth"
+    },
+    {
+      "company": "Adaugeo Healthcare Solutions",
+      "id": "directory:greenhouse:adaugeohealthcare",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Advanced Dermatology and Skin Cancer Center",
+      "id": "directory:greenhouse:advancedderm",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Alpha Asset & Wealth Management Consulting - Early Careers Opportunities",
+      "id": "directory:greenhouse:alphaawmnaearlycareers",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "akebiatherapeutics",
+      "id": "directory:greenhouse:akebiatherapeutics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 10,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Angle Health",
+      "id": "directory:ashby:anglehealth",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Animal Hospital of O'Fallon",
+      "id": "directory:greenhouse:ahof",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "all.health",
+      "id": "directory:lever:all.health",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Arbital Health",
+      "id": "directory:greenhouse:arbitalhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Amae Health",
+      "id": "directory:greenhouse:amaehealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 41,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "AnsibleHealth Inc.",
+      "id": "directory:ashby:ansiblehealth",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "arizonaliverhealth",
+      "id": "directory:greenhouse:arizonaliverhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 20,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Atavistik Bio",
+      "id": "directory:lever:atavistik-bio",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Apollo Research",
+      "id": "directory:lever:apolloresearch",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 11,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Databricks",
+      "id": "databricks",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 912,
+      "matches": 6,
+      "stage": "Startup / growth"
+    },
+    {
+      "company": "Avi Medical",
+      "id": "directory:greenhouse:avimedical",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 42,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Asian Health Services",
+      "id": "directory:lever:ahschc",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 33,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Aylo Health",
+      "id": "directory:greenhouse:eagleslandinghealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 35,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Anthropic",
+      "id": "anthropic",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 675,
+      "matches": 0,
+      "stage": "Startup / growth"
+    },
+    {
+      "company": "agecare",
+      "id": "directory:workday:agecare.wd10.myworkdayjobs.com:AgeCare_Careers_External",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 40,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Assort Health",
+      "id": "directory:ashby:assorthealth",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 39,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "basis-research",
+      "id": "directory:ashby:basis-research",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 11,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Bethesda Physical Therapy",
+      "id": "directory:greenhouse:bethesda",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Beacon Biosignals",
+      "id": "directory:greenhouse:beaconbiosignals",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 21,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "attovia-therapeutics",
+      "id": "directory:lever:attovia-therapeutics",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Stripe",
+      "id": "stripe",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 783,
+      "matches": 5,
+      "stage": "Startup / growth"
+    },
+    {
+      "company": "Biohub",
+      "id": "directory:greenhouse:biohub",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 14,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "BIOptimizers",
+      "id": "directory:ashby:bioptimizers",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Biofire",
+      "id": "directory:ashby:biofire",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "BehaviorCare Therapy",
+      "id": "directory:lever:behaviorcaretherapy",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 18,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Bold Careers",
+      "id": "directory:greenhouse:bold",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Avalere Health",
+      "id": "directory:lever:avalerehealth",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 54,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Broad River Animal Hospital",
+      "id": "directory:greenhouse:broadriver",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "bravehealth",
+      "id": "directory:ashby:bravehealth",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 65,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Big Health",
+      "id": "directory:lever:bighealth",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Cambio AI Inc.",
+      "id": "directory:ashby:cambio",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "canvas-medical",
+      "id": "directory:ashby:canvas-medical",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Cadence Health",
+      "id": "directory:greenhouse:cadencehealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 20,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Careers at GTCR",
+      "id": "directory:greenhouse:gtcr",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Carefeed",
+      "id": "directory:greenhouse:carefeed",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Careem",
+      "id": "directory:greenhouse:careem",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 15,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "cariboubiosciencesinc",
+      "id": "directory:greenhouse:cariboubiosciencesinc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Bloomwell Autism Therapy",
+      "id": "directory:lever:bloomwellcare",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 46,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Cascala Health",
+      "id": "directory:greenhouse:cascalahealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Central California Alliance for Health (Remote)",
+      "id": "directory:greenhouse:ccahremote",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Chaparral Medical Group",
+      "id": "directory:greenhouse:chaparralmedicalgroup",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Circle Health",
+      "id": "directory:ashby:circle-health",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Claim Health",
+      "id": "directory:ashby:claim-health",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 10,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Clarkson Eyecare Georgia",
+      "id": "directory:greenhouse:eyeelements",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Clinical Architecture",
+      "id": "directory:greenhouse:clinicalarchitecture",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Codes Health",
+      "id": "directory:ashby:codes-health",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 16,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Coherus Oncology",
+      "id": "directory:greenhouse:coherusbiosciences",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Colossal Biosciences",
+      "id": "directory:greenhouse:colossalbiosciences",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "concerthealth",
+      "id": "directory:greenhouse:concerthealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 12,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "corporatecareers",
+      "id": "directory:greenhouse:corporatecareers",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Counterpart Health",
+      "id": "directory:greenhouse:counterparthealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 12,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "chghealthcare",
+      "id": "directory:workday:chghealthcare.wd1.myworkdayjobs.com:External",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Covera Health",
+      "id": "directory:greenhouse:coverahealth",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Connections Health Solutions",
+      "id": "directory:greenhouse:connectionshealthsolutions",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 176,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Cylinder Health",
+      "id": "directory:ashby:cylinderhealth",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Definitive Healthcare, US",
+      "id": "directory:greenhouse:definitivehc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 17,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Debut Biotech",
+      "id": "directory:greenhouse:debutbiotech25",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 7,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Develop Health",
+      "id": "directory:ashby:develop-health",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 19,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "dicefm-careers",
+      "id": "directory:greenhouse:dicefm-careers",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Dorset Street Animal Hospital",
+      "id": "directory:greenhouse:dorset",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Duetto Research",
+      "id": "directory:greenhouse:duettoresearch",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Easygenerator",
+      "id": "directory:ashby:easygenerator",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 16,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "crossoverhealth",
+      "id": "directory:workday:crossoverhealth.wd1.myworkdayjobs.com:Careers",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 17,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Edinburgh Animal Hospital",
+      "id": "directory:greenhouse:edinburgh",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "eldersburgveterinaryhospital",
+      "id": "directory:greenhouse:eldersburgveterinaryhospital",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "elevatebio",
+      "id": "directory:greenhouse:elevatebio",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 16,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Emergency Veterinary Care Center",
+      "id": "directory:greenhouse:evcc",
+      "ats": "greenhouse",
+      "status": "ok",
       "scanned": 47,
-      "matches": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Epia Neuro",
+      "id": "directory:ashby:epianeuro",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 12,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "EyeCare Associates",
+      "id": "directory:greenhouse:eyecareassociates",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 11,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Endpoint Clinical",
+      "id": "directory:lever:endpointclinical",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 26,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Finch Care",
+      "id": "directory:ashby:finch",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Five Rings LLC - Careers",
+      "id": "directory:greenhouse:fiveringsllc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 19,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Fate Therapeutics, Inc.",
+      "id": "directory:lever:fatetherapeutics",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Foresight Health",
+      "id": "directory:ashby:foresight-health",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Florence Health",
+      "id": "directory:lever:florence",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 18,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Fox Creek Veterinary Hospital - Wildwood",
+      "id": "directory:greenhouse:fox",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Form Health",
+      "id": "directory:greenhouse:formhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 33,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Fundamental Research Labs",
+      "id": "directory:ashby:fundamentalresearchlabs",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Friendship Hospital for Animals",
+      "id": "directory:greenhouse:fha",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 17,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "GCI Health",
+      "id": "directory:greenhouse:gcihealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Garner Health",
+      "id": "directory:greenhouse:garnerhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 60,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "General Assembly",
+      "id": "directory:greenhouse:generalassembly",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 27,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "General Context",
+      "id": "directory:ashby:general-context",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "General Matter",
+      "id": "directory:greenhouse:generalmatter",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 134,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "generalproximity",
+      "id": "directory:greenhouse:generalproximity",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "generatebiomedicines",
+      "id": "directory:greenhouse:generatebiomedicines",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 26,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Careers In Travel | Destination Planners",
+      "id": "directory:lever:destinationknot",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 505,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "GeneFab",
+      "id": "directory:lever:genefab",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Genetix Biotherapeutics",
+      "id": "directory:greenhouse:genetixbiotherapeutics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 14,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Genomics",
+      "id": "directory:ashby:genomics",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Golden Apple Foundation Careers",
+      "id": "directory:greenhouse:goldenapplefoundationcareers",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Gracent Pediatric Therapy",
+      "id": "directory:greenhouse:gracent-peds",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "biotechne",
+      "id": "directory:workday:biotechne.wd5.myworkdayjobs.com:biotechne",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 40,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Greenbrook Medical",
+      "id": "directory:greenhouse:greenbrookmedical",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 14,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "gsgcareers",
+      "id": "directory:greenhouse:gsgcareers",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Harbor Animal Hospital",
+      "id": "directory:greenhouse:harbor",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Hazel Health",
+      "id": "directory:greenhouse:hazel",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 18,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Genesis AI",
+      "id": "directory:lever:genesis-ai",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Health Progress Hub",
+      "id": "directory:ashby:healthprogresshub",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "HealthJoy",
+      "id": "directory:greenhouse:healthjoy",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Giving Home Health Care",
+      "id": "directory:lever:givinghhc",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 140,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Healthtech-1",
+      "id": "directory:ashby:healthtech-1",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Hello Patient",
+      "id": "directory:ashby:hellopatient",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Hiram Animal Hospital",
+      "id": "directory:greenhouse:hiram",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Hone Health",
+      "id": "directory:greenhouse:honehealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 12,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "hotmartcareersbr",
+      "id": "directory:greenhouse:hotmartcareersbr",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 21,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Iambic Therapeutics, Inc",
+      "id": "directory:ashby:iambic-therapeutics",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 29,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "imubiosciences",
+      "id": "directory:ashby:imubiosciences",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Arsenal Biosciences",
+      "id": "directory:lever:arsenalbio",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "instridehealth",
+      "id": "directory:greenhouse:instridehealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 12,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "interrahealth",
+      "id": "directory:ashby:interrahealth",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Iovance Biotherapeutics",
+      "id": "directory:greenhouse:iovancebiotherapeutics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 36,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "ivxhealth",
+      "id": "directory:greenhouse:ivxhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 68,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Janux Therapeutics",
+      "id": "directory:lever:januxrx",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 11,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Joyful Health",
+      "id": "directory:ashby:joyfulhealth",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "healthcare",
+      "id": "directory:workday:healthcare.wd1.myworkdayjobs.com:Search",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 40,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "KCare",
+      "id": "directory:greenhouse:kcare",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "jutromedical",
+      "id": "directory:lever:jutromedical",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Kestra Medical Technologies Inc.",
+      "id": "directory:greenhouse:kestramedicaltechnologiesinc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 31,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "kirbynagelhoutcareers",
+      "id": "directory:greenhouse:kirbynagelhoutcareers",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 7,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Komodo Health",
+      "id": "directory:greenhouse:komodohealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 17,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "kuraoncology",
+      "id": "directory:greenhouse:kuraoncology",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "B.F. Saul Company Hospitality Group",
+      "id": "directory:lever:bfsaulhotels",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 84,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Layer Health",
+      "id": "directory:greenhouse:layerhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 13,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Legion Health",
+      "id": "directory:ashby:legionhealth",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 157,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Kyverna Therapeutics",
+      "id": "directory:lever:kyverna",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 11,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
@@ -18175,30 +19679,1040 @@
       "stage": "Unclassified"
     },
     {
-      "company": "Stripe",
-      "id": "stripe",
+      "company": "lighthousebehavioralhealthsolutions",
+      "id": "directory:greenhouse:lighthousebehavioralhealthsolutions",
       "ats": "greenhouse",
       "status": "ok",
-      "scanned": 782,
-      "matches": 5,
-      "stage": "Startup / growth"
+      "scanned": 15,
+      "matches": 0,
+      "stage": "Unclassified"
     },
     {
-      "company": "Cohere",
-      "id": "cohere",
+      "company": "Lotus Health AI",
+      "id": "directory:ashby:lotushealth",
       "ats": "ashby",
       "status": "ok",
-      "scanned": 124,
-      "matches": 1,
-      "stage": "Startup / growth"
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
     },
     {
-      "company": "tpgcareers",
-      "id": "directory:greenhouse:tpgcareers",
+      "company": "Lumen Bioscience",
+      "id": "directory:greenhouse:lumenbioscience",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "lyellimmunopharma",
+      "id": "directory:greenhouse:lyellimmunopharma",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "lyrebird-health",
+      "id": "directory:ashby:lyrebird-health",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "brownhealth",
+      "id": "directory:workday:brownhealth.wd12.myworkdayjobs.com:External_Careers",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 40,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "mainstreethealth",
+      "id": "directory:greenhouse:mainstreethealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "MapLight Therapeutics",
+      "id": "directory:greenhouse:maplighttherapeutics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "mboothhealth",
+      "id": "directory:greenhouse:mboothhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "mavenclinicproviders",
+      "id": "directory:greenhouse:mavenclinicproviders",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 12,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Marigold Health",
+      "id": "directory:lever:marigoldhealth",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Memora Health",
+      "id": "directory:ashby:memora",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "InductiveHealth",
+      "id": "directory:lever:inductivehealth",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "miraibio",
+      "id": "directory:greenhouse:miraibio",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Medical Home Network",
+      "id": "directory:lever:mhnchicago",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Modern Health",
+      "id": "directory:greenhouse:modernhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "montaihealth",
+      "id": "directory:greenhouse:montaihealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Mr Apple Careers site",
+      "id": "directory:greenhouse:mrapplecareers",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Neon Health",
+      "id": "directory:ashby:neon-health",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Neura Health",
+      "id": "directory:greenhouse:neurahealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 7,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "nexhealth",
+      "id": "directory:greenhouse:nexhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 52,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Neurophos",
+      "id": "directory:ashby:neurophos",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 27,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "essentiahealth",
+      "id": "directory:workday:essentiahealth.wd1.myworkdayjobs.com:Essentia_Health",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 40,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "ngmbiopharmaceuticals",
+      "id": "directory:greenhouse:ngmbiopharmaceuticals",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "noahmedical",
+      "id": "directory:greenhouse:noahmedical",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "obsidiantherapeutics",
+      "id": "directory:greenhouse:obsidiantherapeutics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Nucleus Genomics",
+      "id": "directory:ashby:nucleus",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Omada Health",
+      "id": "directory:greenhouse:omadahealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 19,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "ogilvyhealthusa",
+      "id": "directory:greenhouse:ogilvyhealthusa",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 14,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "N-Power Medicine",
+      "id": "directory:lever:npowermedicine",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "optimadermatologycareers",
+      "id": "directory:greenhouse:optimadermatologycareers",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 21,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "onexgeneral",
+      "id": "directory:greenhouse:onexgeneral",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "OneHealth Tech Corp",
+      "id": "directory:ashby:onehealth",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Oshi Health",
+      "id": "directory:greenhouse:oshihealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Opus Medical",
+      "id": "directory:ashby:opus-medical",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 22,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Parachute Health",
+      "id": "directory:greenhouse:parachutehealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 14,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Outpace Bio",
+      "id": "directory:lever:outpacebio",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Pathward, Career Fairs",
+      "id": "directory:greenhouse:pathwardcareerfair",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "pharmacy",
+      "id": "directory:greenhouse:pharmacy",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Paramedic Services of Illinois",
+      "id": "directory:lever:paramedicservices",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 14,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Pivotal Health",
+      "id": "directory:ashby:pivotal-health",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 20,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Pomelo Care",
+      "id": "directory:greenhouse:pomelocare",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "pluto-health",
+      "id": "directory:ashby:pluto-health",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Probably Genetic",
+      "id": "directory:ashby:probablygenetic",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "ovationhealthcare",
+      "id": "directory:workday:ovationhealthcare.wd5.myworkdayjobs.com:ovationhealthcare",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 39,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Precision Medicine Group",
+      "id": "directory:greenhouse:precisionmedicinegroup",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 169,
+      "matches": 1,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Protocol Behavioral Health",
+      "id": "directory:ashby:protocol-cares",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 7,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Prosper Health",
+      "id": "directory:greenhouse:prosperhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 66,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "puretechhealth",
+      "id": "directory:greenhouse:puretechhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "quantboxresearchpte",
+      "id": "directory:greenhouse:quantboxresearchpte",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 7,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Radicle Health",
+      "id": "directory:greenhouse:radiclehealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Project Healthy Minds",
+      "id": "directory:lever:project-healthy-minds",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 7,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Rectangle Health",
+      "id": "directory:greenhouse:rectanglehealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "relaytherapeutics",
+      "id": "directory:greenhouse:relaytherapeutics",
       "ats": "greenhouse",
       "status": "ok",
       "scanned": 13,
-      "matches": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Remote Jobs At Sandstone Care",
+      "id": "directory:greenhouse:sandstoneremote",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Roger Healthcare",
+      "id": "directory:ashby:rogerhealthcare",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "rvohealth",
+      "id": "directory:greenhouse:rvohealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 25,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Revhealth",
+      "id": "directory:lever:revhealth",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "samsungresearchamerica",
+      "id": "directory:greenhouse:samsungresearchamerica",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 26,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "sandstonecarecastlerock",
+      "id": "directory:greenhouse:sandstonecarecastlerock",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Schwarzman Animal Medical Center",
+      "id": "directory:greenhouse:animalmedicalcenter",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 32,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "seenhealth",
+      "id": "directory:greenhouse:seenhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 20,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Sailor Health",
+      "id": "directory:ashby:sailorhealth",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 164,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "shennonbiotechnologies",
+      "id": "directory:greenhouse:shennonbiotechnologies",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "silnahealth.com",
+      "id": "directory:ashby:silnahealth.com",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 12,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "methodisthealthsystem",
+      "id": "directory:workday:methodisthealthsystem.wd1.myworkdayjobs.com:MHS_Careers",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 27,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "skilledwoundcare",
+      "id": "directory:greenhouse:skilledwoundcare",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 378,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "sonymusiccareersfrance",
+      "id": "directory:greenhouse:sonymusiccareersfrance",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Sollis Health",
+      "id": "directory:greenhouse:sollishealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 40,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Serán BioScience",
+      "id": "directory:lever:seranbio",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 31,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "springfertility",
+      "id": "directory:greenhouse:springfertility",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 28,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "starfishneuroscience",
+      "id": "directory:greenhouse:starfishneuroscience",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "strandtherapeutics",
+      "id": "directory:greenhouse:strandtherapeutics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "studycareers",
+      "id": "directory:greenhouse:studycareers",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 10,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "TailorCare",
+      "id": "directory:greenhouse:tailorcare2023",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Sword Health",
+      "id": "directory:lever:swordhealth",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "tangotherapeutics",
+      "id": "directory:greenhouse:tangotherapeutics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 16,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "telemedicine",
+      "id": "directory:greenhouse:telemedicine",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "The General Intelligence Company of New York",
+      "id": "directory:ashby:generalintelligencecompany",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "thltestcareers",
+      "id": "directory:greenhouse:thltestcareers",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "thejanepauleycommunityhealthcenterinc",
+      "id": "directory:greenhouse:thejanepauleycommunityhealthcenterinc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 59,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Spear Physical and Occupational Therapy",
+      "id": "directory:lever:spear",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 122,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Toyota Research Institute",
+      "id": "directory:lever:tri",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 39,
+      "matches": 21,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Landmark Bio",
+      "id": "directory:lever:landmarkbio",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "treelinebiosciences",
+      "id": "directory:greenhouse:treelinebiosciences",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Trinity Air Medical",
+      "id": "directory:greenhouse:trinityairmedical",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "tuesdayhealth",
+      "id": "directory:greenhouse:tuesdayhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 16,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Twin Health",
+      "id": "directory:greenhouse:twinhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 43,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "tidelandshealth",
+      "id": "directory:workday:tidelandshealth.wd12.myworkdayjobs.com:Tidelands",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 7,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Unlock Health",
+      "id": "directory:greenhouse:unlockhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 17,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "valleyhealth",
+      "id": "directory:greenhouse:valleyhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Vail Health Hospital",
+      "id": "directory:greenhouse:vailclinicincdbavailhealthhospital",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 108,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "vanna-health-inc",
+      "id": "directory:ashby:vanna-health-inc",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 12,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "veocorporatecareers",
+      "id": "directory:greenhouse:veocorporatecareers",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Verge Genomics",
+      "id": "directory:ashby:verge-genomics",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "vitalfarms",
+      "id": "directory:greenhouse:vitalfarms",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Ultra Health",
+      "id": "directory:lever:ultrahealthproviders",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 13,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Viome Life Sciences",
+      "id": "directory:lever:viome",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Visby Medical",
+      "id": "directory:lever:visby",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "volastratherapeutics",
+      "id": "directory:greenhouse:volastratherapeutics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Waltz Health",
+      "id": "directory:greenhouse:waltzhealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "vitalvoicesglobalpartnership",
+      "id": "directory:greenhouse:vitalvoicesglobalpartnership",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "WelbeHealth",
+      "id": "directory:greenhouse:welbehealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 142,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "workithealth",
+      "id": "directory:greenhouse:workithealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "westcancercenter",
+      "id": "directory:greenhouse:westcancercenter",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 37,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Xaira Therapeutics",
+      "id": "directory:greenhouse:xairatherapeutics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 32,
+      "matches": 1,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "xphealth",
+      "id": "directory:greenhouse:xphealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "zocalohealth",
+      "id": "directory:greenhouse:zocalohealth",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Abaka AI",
+      "id": "directory:greenhouse:abakaai",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "10a Labs",
+      "id": "directory:greenhouse:10alabs",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 22,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "aegis-ai",
+      "id": "directory:ashby:aegis-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 28,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "AI Squared",
+      "id": "directory:greenhouse:aisquared",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Adaptive ML",
+      "id": "directory:ashby:adaptive-ml",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Alden Labs, Inc.",
+      "id": "directory:ashby:alden",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Alzheimer's Disease Data Initiative",
+      "id": "directory:greenhouse:addatainitiative",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Anam AI",
+      "id": "directory:ashby:anam",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Agate Software",
+      "id": "directory:lever:agatesoftware",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
@@ -18211,22 +20725,178 @@
       "stage": "Unclassified"
     },
     {
-      "company": "C3 AI Ascend Internship Program: Summer 2026",
-      "id": "directory:greenhouse:c3ascend",
+      "company": "Apollo Education Systems",
+      "id": "directory:greenhouse:apollo",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Synolo Therapeutics",
+      "id": "directory:lever:synolotx",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Archipelago Analytics Inc.",
+      "id": "directory:greenhouse:onarchipelago",
       "ats": "greenhouse",
       "status": "ok",
       "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Arkose Labs",
+      "id": "directory:greenhouse:arkoselabs",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "asari.ai",
+      "id": "directory:ashby:asari.ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "arthur-ai",
+      "id": "directory:ashby:arthur-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Alloy.ai",
+      "id": "directory:lever:alloy",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Axelera AI",
+      "id": "directory:ashby:axelera",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 11,
+      "matches": 1,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Baton (A Ryder Technology Lab)",
+      "id": "directory:greenhouse:baton",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Beacon Software",
+      "id": "directory:greenhouse:beaconsoftware",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "bedrock-robotics",
+      "id": "directory:ashby:bedrock-robotics",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 57,
       "matches": 2,
       "stage": "Unclassified"
     },
     {
-      "company": "Databricks",
-      "id": "databricks",
+      "company": "Automatiq",
+      "id": "directory:lever:automatiq",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "bettercloud",
+      "id": "directory:ashby:bettercloud",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "bild-ai",
+      "id": "directory:ashby:bild-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Blackbird Labs Inc",
+      "id": "directory:ashby:blackbird-labs-inc",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 7,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Blockchain.com",
+      "id": "directory:greenhouse:blockchain",
       "ats": "greenhouse",
       "status": "ok",
-      "scanned": 916,
-      "matches": 6,
-      "stage": "Startup / growth"
+      "scanned": 47,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Bolt Technology",
+      "id": "directory:greenhouse:boltv2",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "bluestatedigital",
+      "id": "directory:greenhouse:bluestatedigital",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 19,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Brightstar.AI",
+      "id": "directory:ashby:brightstar-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Category Labs",
+      "id": "directory:ashby:category-labs",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
     },
     {
       "company": "C3 AI",
@@ -18238,48 +20908,429 @@
       "stage": "Unclassified"
     },
     {
-      "company": "Anthropic",
-      "id": "anthropic",
-      "ats": "greenhouse",
+      "company": "cara-ai",
+      "id": "directory:ashby:cara-ai",
+      "ats": "ashby",
       "status": "ok",
-      "scanned": 677,
+      "scanned": 9,
       "matches": 0,
-      "stage": "Startup / growth"
+      "stage": "Unclassified"
     },
     {
-      "company": "Qube Research & Technologies",
-      "id": "directory:greenhouse:quberesearchandtechnologies",
+      "company": "Build AI",
+      "id": "directory:ashby:build-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 29,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Circular Economy Systems",
+      "id": "directory:ashby:circulareconomysystems",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Clarity AI",
+      "id": "directory:greenhouse:clarityai",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Center For Humane Technology",
+      "id": "directory:lever:humanetech",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "clearscoretechnologylimited",
+      "id": "directory:greenhouse:clearscoretechnologylimited",
       "ats": "greenhouse",
       "status": "ok",
-      "scanned": 210,
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Cloud Chamber Montreal",
+      "id": "directory:greenhouse:cloudchamberfr",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Coactive AI",
+      "id": "directory:ashby:coactive",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "CloudKitchens",
+      "id": "directory:ashby:cloudkitchens",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "CloudTrucks",
+      "id": "directory:ashby:cloudtrucks",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Atom Computing",
+      "id": "directory:lever:atomcomputing",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 42,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "CoLab Software",
+      "id": "directory:greenhouse:colabsoftware",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 29,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Cosmic Robotics",
+      "id": "directory:ashby:cosmic-robotics",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Cook Systems",
+      "id": "directory:greenhouse:cooksys",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 13,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Coworker.ai",
+      "id": "directory:ashby:coworker",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Condor Software",
+      "id": "directory:ashby:condor-software",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "CXT Software",
+      "id": "directory:lever:cxtsoftware",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Cloudflare",
+      "id": "directory:greenhouse:cloudflare",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 481,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "CyberSheath",
+      "id": "directory:greenhouse:cybersheath",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 10,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Decathlon Digital EN",
+      "id": "directory:greenhouse:decathlontechnologyen",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 13,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Digital Eclipse Entertainment Partners",
+      "id": "directory:greenhouse:digitaleclipse",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "DEFCON AI",
+      "id": "directory:greenhouse:defcon",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "gundersenhealth",
+      "id": "directory:workday:gundersenhealth.wd5.myworkdayjobs.com:gundersen",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 40,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Diligent Robotics",
+      "id": "directory:greenhouse:diligentrobotics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 15,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "efficientcomputer",
+      "id": "directory:greenhouse:efficientcomputer",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 21,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Eloquent AI",
+      "id": "directory:ashby:eloquentai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 13,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Domu AI",
+      "id": "directory:ashby:domu",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Enya Labs",
+      "id": "directory:greenhouse:enyalabs",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "energytec.ai",
+      "id": "directory:greenhouse:etec",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Espa Labs",
+      "id": "directory:ashby:espa",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "far.ai",
+      "id": "directory:ashby:far.ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 19,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Emi Labs",
+      "id": "directory:lever:emilabs",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Commonwealth Fusion Systems",
+      "id": "directory:lever:cfsenergy",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 138,
       "matches": 3,
       "stage": "Unclassified"
     },
     {
-      "company": "Forma.ai - India Campus",
-      "id": "directory:greenhouse:formaaiinc3",
+      "company": "cardinalhealth",
+      "id": "directory:workday:cardinalhealth.wd1.myworkdayjobs.com:EXT",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 40,
+      "matches": 1,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Featherless AI",
+      "id": "directory:ashby:featherlessai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 17,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Evolve AI Ltd",
+      "id": "directory:ashby:evolve",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Digital Media Management",
+      "id": "directory:lever:digitalmediamanagement",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 10,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Financial Technology Partners",
+      "id": "directory:greenhouse:financialtechnologypartners",
       "ats": "greenhouse",
       "status": "ok",
+      "scanned": 21,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Foresight Data",
+      "id": "directory:ashby:foresight",
+      "ats": "ashby",
+      "status": "ok",
       "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "fortrobotics",
+      "id": "directory:greenhouse:fortrobotics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Focal Systems",
+      "id": "directory:greenhouse:focalsystems",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 43,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Grand Intelligence",
+      "id": "directory:ashby:grand",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Gatik AI",
+      "id": "directory:greenhouse:gatikaiinc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 67,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Gradient AI",
+      "id": "directory:greenhouse:gradientai",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Fuel Labs",
+      "id": "directory:lever:fuellabs",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Gritt Robotics Inc",
+      "id": "directory:ashby:gritt",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 18,
       "matches": 2,
       "stage": "Unclassified"
     },
     {
-      "company": "Toyota Research Institute",
-      "id": "directory:lever:tri",
-      "ats": "lever",
+      "company": "h2analytics",
+      "id": "directory:ashby:h2analytics",
+      "ats": "ashby",
       "status": "ok",
-      "scanned": 38,
-      "matches": 20,
+      "scanned": 4,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
-      "company": "Dedale Intelligence",
-      "id": "directory:ashby:dedale-intelligence",
+      "company": "Haus Analytics",
+      "id": "directory:ashby:haus",
       "ats": "ashby",
       "status": "ok",
-      "scanned": 27,
-      "matches": 1,
+      "scanned": 5,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
@@ -18287,62 +21338,691 @@
       "id": "directory:ashby:gen-digital",
       "ats": "ashby",
       "status": "ok",
-      "scanned": 94,
+      "scanned": 92,
       "matches": 1,
       "stage": "Unclassified"
     },
     {
-      "company": "Hive Financial Systems",
-      "id": "directory:greenhouse:hivefinancialsystems",
+      "company": "happyrobot.ai",
+      "id": "directory:ashby:happyrobot.ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 77,
+      "matches": 1,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Hilbert's AI",
+      "id": "directory:ashby:hilberts",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "HomeVision",
+      "id": "directory:ashby:homevision",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "hum-ai",
+      "id": "directory:ashby:hum-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Helm.ai",
+      "id": "directory:ashby:helm-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Instil Software Ltd",
+      "id": "directory:ashby:instil",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Inflection AI",
+      "id": "directory:greenhouse:inflectionai",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Hyperbolic Labs",
+      "id": "directory:ashby:hyperbolic",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 20,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "jamasoftware",
+      "id": "directory:greenhouse:jamasoftware",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "invoicecloud",
+      "id": "directory:greenhouse:invoicecloud",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "Invalid job or non-HTTPS URL from source"
+    },
+    {
+      "company": "interface-ai",
+      "id": "directory:ashby:interface-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 24,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "flexerasoftware",
+      "id": "directory:workday:flexerasoftware.wd1.myworkdayjobs.com:FlexeraSoftware",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Julius AI",
+      "id": "directory:ashby:julius",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Katapult Labs",
+      "id": "directory:ashby:katapult-labs",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "jellyvision",
+      "id": "directory:greenhouse:jellyvision",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Juul Labs",
+      "id": "directory:greenhouse:juullabs",
       "ats": "greenhouse",
       "status": "ok",
       "scanned": 7,
-      "matches": 2,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
-      "company": "Megazone Cloud US",
-      "id": "directory:ashby:megazone",
+      "company": "kineticsystems",
+      "id": "directory:ashby:kineticsystems",
       "ats": "ashby",
       "status": "ok",
-      "scanned": 13,
-      "matches": 1,
+      "scanned": 6,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
-      "company": "Hadrian Automation",
-      "id": "directory:ashby:hadrian-automation",
+      "company": "knox-systems",
+      "id": "directory:ashby:knox-systems",
       "ats": "ashby",
       "status": "ok",
-      "scanned": 169,
-      "matches": 2,
+      "scanned": 15,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
-      "company": "OpenArt AI",
-      "id": "directory:ashby:openart",
-      "ats": "ashby",
-      "status": "ok",
-      "scanned": 36,
-      "matches": 1,
-      "stage": "Unclassified"
-    },
-    {
-      "company": "queracomputinginc",
-      "id": "directory:greenhouse:queracomputinginc",
+      "company": "Latitude AI",
+      "id": "directory:greenhouse:latitude",
       "ats": "greenhouse",
       "status": "ok",
-      "scanned": 73,
-      "matches": 2,
+      "scanned": 28,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
-      "company": "rivianvw.tech",
-      "id": "directory:ashby:rivianvw.tech",
+      "company": "Lightning Labs",
+      "id": "directory:ashby:lightning",
       "ats": "ashby",
       "status": "ok",
-      "scanned": 181,
-      "matches": 3,
+      "scanned": 14,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Loki Robotics",
+      "id": "directory:ashby:loki",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Lucid Software",
+      "id": "directory:greenhouse:lucidsoftware",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 27,
+      "matches": 1,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "MagicSchool AI",
+      "id": "directory:ashby:magicschool",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "lynxanalytics",
+      "id": "directory:greenhouse:lynxanalytics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 7,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Manus AI",
+      "id": "directory:ashby:manusai",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "matter-intelligence",
+      "id": "directory:ashby:matter-intelligence",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 30,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "medeanalytics",
+      "id": "directory:greenhouse:medeanalytics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Inductive Automation",
+      "id": "directory:lever:inductiveautomation",
+      "ats": "lever",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Level AI",
+      "id": "directory:lever:levelai",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 19,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "mewssystems",
+      "id": "directory:greenhouse:mewssystems",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 23,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Miovision",
+      "id": "directory:ashby:miovision",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 18,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "caresource",
+      "id": "directory:workday:caresource.wd1.myworkdayjobs.com:CareSource",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 137,
+      "matches": 1,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Impossible Cloud",
+      "id": "directory:lever:impossiblecloud",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 10,
+      "matches": 1,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Navi AI",
+      "id": "directory:ashby:navi",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "monumentsoftwareinc",
+      "id": "directory:greenhouse:monumentsoftwareinc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Mysten Labs",
+      "id": "directory:ashby:mystenlabs",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 10,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "moxxidigital",
+      "id": "directory:greenhouse:moxxidigital",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "neocybernetica",
+      "id": "directory:greenhouse:neocybernetica",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "nomic.ai",
+      "id": "directory:ashby:nomic.ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "noctuatechnology",
+      "id": "directory:greenhouse:noctuatechnology",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 11,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "New Era Technology",
+      "id": "directory:greenhouse:neweratech",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 68,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "novaintelligence",
+      "id": "directory:ashby:novaintelligence",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 10,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Oliv AI",
+      "id": "directory:greenhouse:olivai",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Ostium Labs",
+      "id": "directory:ashby:ostium",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Pano AI",
+      "id": "directory:ashby:pano-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "datarobot",
+      "id": "directory:workday:datarobot.wd1.myworkdayjobs.com:DataRobot_External_Careers",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Object Computing, Inc.",
+      "id": "directory:lever:oci",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "nEye.ai",
+      "id": "directory:lever:neye-systems-inc.",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 16,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "parsecautomationcorp",
+      "id": "directory:greenhouse:parsecautomationcorp",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 7,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Paxos Labs",
+      "id": "directory:ashby:paxoslabs",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 7,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Physical Superintelligence",
+      "id": "directory:ashby:psi",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 11,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "PitchBook Data",
+      "id": "directory:greenhouse:pitchbookdata",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 22,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Podium Automation",
+      "id": "directory:ashby:podium-automation",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Performance Systems Integration",
+      "id": "directory:lever:psintegrated",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Oowlish Technology",
+      "id": "directory:lever:oowlish",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Qualified Digital",
+      "id": "directory:greenhouse:qualifieddigital",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Prosper AI",
+      "id": "directory:ashby:prosper-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 12,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Preference-Model",
+      "id": "directory:ashby:preference-model",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Polyphony Digital",
+      "id": "directory:greenhouse:pdi",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 18,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Public Cloud Group",
+      "id": "directory:ashby:publiccloudgroup",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Read AI, Inc.",
+      "id": "directory:ashby:read-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 17,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Reframe Systems",
+      "id": "directory:ashby:reframesystems",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 34,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Mistral AI",
+      "id": "directory:lever:mistral",
+      "ats": "lever",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Quintess AI",
+      "id": "directory:ashby:quintess-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Rhythm Software, Inc.",
+      "id": "directory:greenhouse:rhythmsoftwareinc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Renewed Vision",
+      "id": "directory:greenhouse:renewedvision",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Revise Robotics",
+      "id": "directory:ashby:reviserobotics",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Reliable Robotics",
+      "id": "directory:lever:reliable",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "robotsandpencils",
+      "id": "directory:greenhouse:robotsandpencils",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 37,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Risk Labs",
+      "id": "directory:ashby:risklabs",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Rowan Digital Infrastructure",
+      "id": "directory:ashby:rowan",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 45,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Safety Cybersecurity",
+      "id": "directory:ashby:safety",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Lirvana Labs",
+      "id": "directory:lever:lirvanalabs",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 10,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Rainmaker Technology Corporation",
+      "id": "directory:lever:make-rain",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 20,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Saris AI",
+      "id": "directory:ashby:saris-ai",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "sendcloudnew",
+      "id": "directory:greenhouse:sendcloudnew",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "SE3 Labs",
+      "id": "directory:ashby:se3",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 30,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
@@ -18355,84 +22035,615 @@
       "stage": "Unclassified"
     },
     {
-      "company": "telus-digital",
-      "id": "directory:ashby:telus-digital",
+      "company": "Serif.ai",
+      "id": "directory:ashby:serif",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Signal AI",
+      "id": "directory:ashby:signal-ai",
       "ats": "ashby",
       "status": "ok",
-      "scanned": 58,
-      "matches": 3,
+      "scanned": 0,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
-      "company": "Samsung Semiconductor",
-      "id": "directory:greenhouse:samsungsemiconductor",
-      "ats": "greenhouse",
-      "status": "ok",
-      "scanned": 69,
-      "matches": 2,
-      "stage": "Unclassified"
-    },
-    {
-      "company": "Quest Analytics",
-      "id": "directory:lever:questanalytics",
+      "company": "RYZ Labs",
+      "id": "directory:lever:ryzlabs",
       "ats": "lever",
       "status": "ok",
-      "scanned": 6,
-      "matches": 1,
+      "scanned": 42,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
-      "company": "Epic Games",
-      "id": "directory:greenhouse:epicgames",
+      "company": "Skild AI",
+      "id": "directory:greenhouse:skildai-careers",
       "ats": "greenhouse",
       "status": "ok",
-      "scanned": 132,
-      "matches": 4,
+      "scanned": 58,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
-      "company": "Jomboy Media",
-      "id": "directory:greenhouse:jomboymedia",
+      "company": "South Star Software Private Limited",
+      "id": "directory:greenhouse:southstarcareers",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "SpyCloud",
+      "id": "directory:greenhouse:spycloud",
       "ats": "greenhouse",
       "status": "ok",
       "scanned": 9,
-      "matches": 1,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
-      "company": "Simbe Robotics",
-      "id": "directory:lever:simberobotics",
-      "ats": "lever",
+      "company": "sobek-ai",
+      "id": "directory:ashby:sobek-ai",
+      "ats": "ashby",
       "status": "ok",
-      "scanned": 14,
-      "matches": 2,
+      "scanned": 0,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
-      "company": "efficioconsulting",
-      "id": "directory:lever:efficioconsulting",
-      "ats": "lever",
+      "company": "redbulltechnology",
+      "id": "directory:workday:redbulltechnology.wd3.myworkdayjobs.com:RB_Racing",
+      "ats": "workday",
+      "status": "error",
+      "message": "HTTP Error 422: Unprocessable Entity"
+    },
+    {
+      "company": "Superpilot Labs",
+      "id": "directory:ashby:superpilot-labs",
+      "ats": "ashby",
       "status": "ok",
-      "scanned": 38,
-      "matches": 1,
+      "scanned": 2,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
-      "company": "Anduril Industries",
-      "id": "directory:greenhouse:andurilindustries",
+      "company": "systems",
+      "id": "directory:greenhouse:systems",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Sully.ai",
+      "id": "directory:ashby:sully-ai",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Stellar Entertainment Software Ltd",
+      "id": "directory:ashby:stellarentertainment",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "sybill-ai",
+      "id": "directory:ashby:sybill-ai",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Teravision Technologies",
+      "id": "directory:greenhouse:teravision",
       "ats": "greenhouse",
       "status": "ok",
-      "scanned": 2586,
-      "matches": 9,
+      "scanned": 4,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
-      "company": "dxctechnology",
-      "id": "directory:workday:dxctechnology.wd1.myworkdayjobs.com:DXCJobs",
+      "company": "Tasman Analytics",
+      "id": "directory:ashby:tasman",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Prolific Machines",
+      "id": "directory:lever:prolific-machines",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 10,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "texasairsystems",
+      "id": "directory:greenhouse:texasairsystems",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 46,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Aerospike",
+      "id": "directory:greenhouse:aerospike",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "a16z New Media",
+      "id": "directory:ashby:a16z-new-media",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 14,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Strategic Data Systems",
+      "id": "directory:lever:sdatasystems.com",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 11,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Spear AI",
+      "id": "directory:lever:spear-ai",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 11,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "agavegames",
+      "id": "directory:ashby:agavegames",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "aCommerce",
+      "id": "directory:greenhouse:acommerce",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 72,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Technology Advancement Group",
+      "id": "directory:lever:tag",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Alpha FMC - Asset and Wealth Management Consulting - Europe",
+      "id": "directory:greenhouse:alphaawmeur",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "AlertMedia",
+      "id": "directory:greenhouse:alertmedia",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 18,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "AKS Engineering & Forestry, LLC",
+      "id": "directory:greenhouse:aksengineeringforestryllc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 80,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "arevonenergyimpltest",
+      "id": "directory:greenhouse:arevonenergyimpltest",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "AMEND Consulting",
+      "id": "directory:greenhouse:amendconsulting",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 12,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Applied Engineering",
+      "id": "directory:greenhouse:appliedengineering",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 25,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Alva Energy, Inc",
+      "id": "directory:ashby:alva-energy",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Array Education",
+      "id": "directory:greenhouse:arrayeducation",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Allison Jones Consulting Services",
+      "id": "directory:lever:ajccanada",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 20,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "AXQ Capital",
+      "id": "directory:greenhouse:axq",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 16,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Bankrate",
+      "id": "directory:greenhouse:bankrate",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "Invalid job or non-HTTPS URL from source"
+    },
+    {
+      "company": "Atominvest",
+      "id": "directory:ashby:atominvest",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 14,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Basic Capital",
+      "id": "directory:ashby:basiccapital",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 14,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Bitpanda Enterprise",
+      "id": "directory:greenhouse:bts",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Bracebridge Capital",
+      "id": "directory:greenhouse:bracebridgecapital",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Blue Energy",
+      "id": "directory:ashby:blue-energy",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 13,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Nomi Health",
+      "id": "directory:lever:nomihealth",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "AVIO Consulting",
+      "id": "directory:lever:avioconsulting",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Beghou Consulting",
+      "id": "directory:lever:beghouconsulting",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 58,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Best Version Media",
+      "id": "directory:greenhouse:bestversionmedia",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 933,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Capital on Tap",
+      "id": "directory:greenhouse:capitalontap",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 30,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Centri Business Consulting",
+      "id": "directory:greenhouse:centribusinessconsulting",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 50,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "C6 Bank",
+      "id": "directory:greenhouse:c6bank",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 156,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Climate First Bank",
+      "id": "directory:greenhouse:climatefirstbank",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 28,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Clear Capital | CubiCasa",
+      "id": "directory:lever:clearcapital",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Cobblestone Energy - Dubai, UAE.",
+      "id": "directory:greenhouse:cobblestoneenergy4",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Cotulla Education",
+      "id": "directory:greenhouse:cotullaeducation",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 14,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "atmosenergy",
+      "id": "directory:workday:atmosenergy.wd108.myworkdayjobs.com:External_Career_Site",
       "ats": "workday",
       "status": "ok",
       "scanned": 40,
-      "matches": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Brindley Engineering",
+      "id": "directory:lever:brindleyengineering",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 36,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Creating Behavioral + Educational Momentum",
+      "id": "directory:greenhouse:cbem",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "constellationspace",
+      "id": "directory:ashby:constellationspace",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Charm Industrial",
+      "id": "directory:lever:charmindustrial",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 8,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Design Pickle",
+      "id": "directory:greenhouse:designpickle",
+      "ats": "greenhouse",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Dandelion Energy",
+      "id": "directory:ashby:dandelion",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 12,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Dream Games",
+      "id": "directory:lever:dreamgames",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 17,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Electric Kiwi",
+      "id": "directory:greenhouse:electrickiwi",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Emerson Human Capital Consulting",
+      "id": "directory:lever:emersonhc",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 0,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "energyandenvironmentlab",
+      "id": "directory:greenhouse:energyandenvironmentlab",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "edgewoodpartnersinsurancecenter",
+      "id": "directory:greenhouse:edgewoodpartnersinsurancecenter",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 73,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Enhanced Games",
+      "id": "directory:lever:enhanced-us",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "CrossCountry Consulting",
+      "id": "directory:lever:crosscountry-consulting",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 99,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "diamondbackenergy",
+      "id": "directory:workday:diamondbackenergy.wd12.myworkdayjobs.com:dbe",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Energy Exemplar",
+      "id": "directory:greenhouse:energyexemplarllc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 43,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Fashion Nova Logistics",
+      "id": "directory:greenhouse:fnlogistics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "First Connect Insurance",
+      "id": "directory:greenhouse:firstconnectinsurance",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 5,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Garda Capital Partners",
+      "id": "directory:greenhouse:gardacp",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
@@ -18445,12 +22656,224 @@
       "stage": "Established / other"
     },
     {
-      "company": "cardinalhealth",
-      "id": "directory:workday:cardinalhealth.wd1.myworkdayjobs.com:EXT",
+      "company": "Fanatics Betting & Gaming",
+      "id": "directory:greenhouse:fanaticsfbg",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 92,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Global Elite Empire Consultants",
+      "id": "directory:lever:globalelitecareers",
+      "ats": "lever",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Greenland Investment Management",
+      "id": "directory:greenhouse:greenlandinvestmentmanagement",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 6,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Good Job Games",
+      "id": "directory:greenhouse:goodjobgames",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 28,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Hanwha Energy USA",
+      "id": "directory:greenhouse:hanwhaenergyusa",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 20,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Ground Logistics",
+      "id": "directory:greenhouse:groundlogistics",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 23,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "associatedbank",
+      "id": "directory:workday:associatedbank.wd1.myworkdayjobs.com:external_careers",
       "ats": "workday",
       "status": "ok",
       "scanned": 40,
-      "matches": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "heartaerospace",
+      "id": "directory:greenhouse:heartaerospace",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "HDM Capital LLC",
+      "id": "directory:greenhouse:hdmcapitalllc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "HPS Investment Partners",
+      "id": "directory:greenhouse:hpsinvestmentpartners",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Honeycomb Insurance",
+      "id": "directory:greenhouse:honeycombinsurance",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 12,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Hippo Insurance",
+      "id": "directory:greenhouse:hippo70",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 18,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Industrial Door Company",
+      "id": "directory:greenhouse:industrial",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 1,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "evercommerce",
+      "id": "directory:workday:evercommerce.wd1.myworkdayjobs.com:EverCommerce_Careers",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 22,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Anduril Industries",
+      "id": "directory:greenhouse:andurilindustries",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 2589,
+      "matches": 9,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Formenergy",
+      "id": "directory:ashby:formenergy",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 205,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Commerce Undergraduate Society",
+      "id": "directory:lever:commerce-undergraduate",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 13,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Infomedia",
+      "id": "directory:greenhouse:infomedia",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Inspiration Commerce Group",
+      "id": "directory:ashby:inspiration-commerce-group",
+      "ats": "ashby",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "company": "ispace, inc.",
+      "id": "directory:lever:ispace-inc",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 55,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "InvestorFlow",
+      "id": "directory:lever:investorflow",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 7,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Josh's Toys & Games",
+      "id": "directory:lever:joshstoysandgames",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 4,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "EQ Bank | Equitable Bank",
+      "id": "directory:lever:eqbank",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 81,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Grand Games",
+      "id": "directory:lever:grand",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 0,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "iheartmedia",
+      "id": "directory:workday:iheartmedia.wd5.myworkdayjobs.com:External_iHM",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 40,
+      "matches": 0,
       "stage": "Unclassified"
     },
     {
@@ -18463,31 +22886,11 @@
       "stage": "Unclassified"
     },
     {
-      "company": "rockwellautomation",
-      "id": "directory:workday:rockwellautomation.wd1.myworkdayjobs.com:External_Rockwell_Automation",
+      "company": "capitalone",
+      "id": "directory:workday:capitalone.wd12.myworkdayjobs.com:capital_one",
       "ats": "workday",
-      "status": "ok",
-      "scanned": 40,
-      "matches": 3,
-      "stage": "Unclassified"
-    },
-    {
-      "company": "generalmotors",
-      "id": "directory:workday:generalmotors.wd5.myworkdayjobs.com:Careers_GM",
-      "ats": "workday",
-      "status": "ok",
-      "scanned": 40,
-      "matches": 15,
-      "stage": "Unclassified"
-    },
-    {
-      "company": "regeneron",
-      "id": "directory:workday:regeneron.wd1.myworkdayjobs.com:Careers",
-      "ats": "workday",
-      "status": "ok",
-      "scanned": 284,
-      "matches": 11,
-      "stage": "Unclassified"
+      "status": "error",
+      "message": "Workday scan exceeded 400 jobs; narrow source search"
     },
     {
       "company": "Merck / MSD",
@@ -18498,13 +22901,13 @@
     }
   ],
   "counts": {
-    "open": 274,
-    "closed": 144,
-    "sources_scanned": 64,
-    "sources_failed": 4,
-    "sources_scheduled": 68,
+    "open": 280,
+    "closed": 145,
+    "sources_scanned": 490,
+    "sources_failed": 43,
+    "sources_scheduled": 533,
     "registered_boards": 2025,
     "directory_catalog_boards": 2000,
-    "directory_refresh": "cached for priority scan"
+    "directory_refresh": "cache"
   }
 }
