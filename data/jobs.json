@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T00:34:07+00:00",
+  "updated_at": "2026-11-13T07:13:44+00:00",
   "scan_mode": "priority",
   "jobs": [
     {
@@ -42,7 +42,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -87,7 +87,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -132,7 +132,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -178,7 +178,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -221,7 +221,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T21:18:23+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -264,7 +264,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -307,7 +307,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -351,7 +351,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -395,7 +395,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -438,7 +438,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -482,7 +482,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -529,7 +529,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:08:58+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -573,7 +573,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -617,7 +617,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -662,7 +662,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -705,7 +705,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -747,7 +747,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -789,7 +789,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -831,7 +831,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T00:06:21+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -919,7 +919,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -961,7 +961,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1003,7 +1003,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1046,52 +1046,10 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
-    },
-    {
-      "id": "workday:highmarkhealth:highmark:fe201cc7ca6e6f5b64",
-      "company": "highmarkhealth",
-      "sector": "Potential life sciences / health",
-      "stage": "Unclassified",
-      "aggregated": false,
-      "source": "directory:workday:highmarkhealth.wd1.myworkdayjobs.com:highmark",
-      "ats": "workday",
-      "title": "Summer 2027 Data Analyst enGen Undergraduate Intern",
-      "location": "Pittsburgh PA, 15222, PAP, Penn Avenue Place",
-      "department": "",
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826",
-      "focus": [
-        "Analytics / BI"
-      ],
-      "score": 89,
-      "reasons": [
-        "Role title matches Analytics / BI",
-        "Summer target explicitly mentioned",
-        "Relevant analytical methods or tools mentioned"
-      ],
-      "pay": {
-        "hourly_min": null,
-        "hourly_max": null,
-        "basis": "unknown"
-      },
-      "season": "summer_confirmed",
-      "fit_tier": "strong",
-      "primary_focus": "Analytics / BI",
-      "description_status": "full",
-      "match_source": "Role title",
-      "method_signal_count": 0,
-      "posted_at": "2026-11-10",
-      "modified_at": "",
-      "first_seen": "2026-11-04",
-      "first_seen_at": "2026-11-04T21:14:53+00:00",
-      "last_seen": "2026-11-12",
-      "last_seen_at": "2026-11-12T19:12:40+00:00",
-      "status": "open",
-      "closed_at": null,
-      "missing_scans": 1
     },
     {
       "id": "ashby:telus-digital:e1dfd8b7-fb8a-4ce9-957f-0706b13195c7",
@@ -1131,7 +1089,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1173,7 +1131,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T16:21:02+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1217,7 +1175,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1261,7 +1219,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1304,7 +1262,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T17:43:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1348,7 +1306,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T16:29:25+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1391,7 +1349,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1434,7 +1392,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1477,7 +1435,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1521,7 +1479,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1565,7 +1523,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1608,7 +1566,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T00:44:08+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1651,7 +1609,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T21:18:23+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1695,7 +1653,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:08:58+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1738,7 +1696,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:08:58+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1782,7 +1740,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1825,7 +1783,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1868,7 +1826,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1910,7 +1868,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1952,7 +1910,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T18:13:04+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -1994,7 +1952,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T23:40:21+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2036,7 +1994,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2078,7 +2036,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2120,7 +2078,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2162,7 +2120,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T00:44:08+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2205,7 +2163,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T16:29:25+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2247,7 +2205,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T21:18:23+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2289,7 +2247,7 @@
       "first_seen": "2026-11-12",
       "first_seen_at": "2026-11-12T18:49:49+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2331,7 +2289,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2373,7 +2331,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T21:18:23+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2418,7 +2376,7 @@
       "last_seen_at": "2026-11-13T00:34:07+00:00",
       "status": "open",
       "closed_at": null,
-      "missing_scans": 0
+      "missing_scans": 1
     },
     {
       "id": "community:zapply-2027:9d7b43fc76bde07876102c46",
@@ -2457,7 +2415,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T00:44:08+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2499,7 +2457,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T01:27:53+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2541,7 +2499,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T14:20:45+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2583,7 +2541,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T10:43:56+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2625,7 +2583,7 @@
       "first_seen": "2026-11-12",
       "first_seen_at": "2026-11-12T18:49:49+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2667,7 +2625,7 @@
       "first_seen": "2026-11-12",
       "first_seen_at": "2026-11-12T18:49:49+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2709,7 +2667,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T16:29:25+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2751,7 +2709,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:08:58+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2793,7 +2751,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T15:50:04+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2835,7 +2793,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T23:14:08+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2877,7 +2835,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T15:50:04+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2919,7 +2877,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T14:20:45+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -2961,7 +2919,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:34:07+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3003,7 +2961,7 @@
       "first_seen": "2026-11-07",
       "first_seen_at": "2026-11-07T00:51:22+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3045,7 +3003,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T22:23:55+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3086,7 +3044,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3131,7 +3089,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3175,7 +3133,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3219,7 +3177,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3263,7 +3221,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3307,7 +3265,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3351,7 +3309,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3395,7 +3353,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3439,7 +3397,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T01:27:53+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3481,7 +3439,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3525,7 +3483,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3569,7 +3527,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3611,7 +3569,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3653,7 +3611,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3695,7 +3653,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3738,7 +3696,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3780,7 +3738,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3823,7 +3781,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3954,7 +3912,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -3996,7 +3954,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4038,7 +3996,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4080,7 +4038,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4212,7 +4170,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4254,7 +4212,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4296,7 +4254,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4338,7 +4296,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4470,7 +4428,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4514,7 +4472,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T16:29:25+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4558,7 +4516,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4602,7 +4560,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T08:27:13+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4646,7 +4604,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T16:29:25+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4690,7 +4648,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T09:56:16+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4734,7 +4692,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T09:56:16+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4778,7 +4736,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4822,7 +4780,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4864,7 +4822,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4906,7 +4864,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -4948,7 +4906,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5035,7 +4993,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5077,7 +5035,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:34:07+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5119,7 +5077,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T23:10:08+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5161,7 +5119,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T22:51:19+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5203,7 +5161,7 @@
       "first_seen": "2026-11-09",
       "first_seen_at": "2026-11-09T16:57:45+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5245,7 +5203,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5287,7 +5245,7 @@
       "first_seen": "2026-11-09",
       "first_seen_at": "2026-11-09T18:40:56+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5329,7 +5287,7 @@
       "first_seen": "2026-11-12",
       "first_seen_at": "2026-11-12T02:51:32+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5371,7 +5329,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T22:51:19+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5413,7 +5371,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T14:56:46+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5455,7 +5413,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T21:18:23+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5497,7 +5455,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T18:40:13+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5539,7 +5497,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T17:43:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5581,7 +5539,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:08:58+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5623,7 +5581,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T17:34:09+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5665,7 +5623,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T18:13:04+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5707,7 +5665,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T22:21:45+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5749,7 +5707,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T06:02:20+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5791,7 +5749,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T18:40:13+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5836,7 +5794,7 @@
       "last_seen_at": "2026-11-13T00:34:07+00:00",
       "status": "open",
       "closed_at": null,
-      "missing_scans": 0
+      "missing_scans": 1
     },
     {
       "id": "community:zapply-2027:301b2efd940bf3c57e9bae2e",
@@ -5875,7 +5833,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T19:37:19+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5917,7 +5875,7 @@
       "first_seen": "2026-11-07",
       "first_seen_at": "2026-11-07T00:51:22+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -5959,7 +5917,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T14:56:46+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6001,7 +5959,7 @@
       "first_seen": "2026-11-04",
       "first_seen_at": "2026-11-04T21:14:53+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6044,7 +6002,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:08:58+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6086,7 +6044,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:08:58+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6128,7 +6086,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T18:40:13+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6170,7 +6128,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T17:43:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6212,7 +6170,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T00:44:08+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6254,7 +6212,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6296,7 +6254,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6382,7 +6340,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6425,7 +6383,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6469,7 +6427,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6512,7 +6470,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6555,7 +6513,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6598,7 +6556,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6641,7 +6599,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6683,7 +6641,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6726,7 +6684,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6769,7 +6727,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6941,7 +6899,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -6984,7 +6942,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7027,7 +6985,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7071,7 +7029,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7114,7 +7072,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7157,7 +7115,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7201,7 +7159,7 @@
       "first_seen": "2026-11-10",
       "first_seen_at": "2026-11-10T21:28:21+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7244,7 +7202,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T01:32:08+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7285,7 +7243,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7414,7 +7372,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7457,7 +7415,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T08:27:13+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7500,7 +7458,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T16:29:25+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7543,7 +7501,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T01:32:08+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7586,7 +7544,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7629,7 +7587,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7672,7 +7630,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7760,7 +7718,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -7804,7 +7762,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8115,7 +8073,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8334,7 +8292,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8377,7 +8335,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8420,7 +8378,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8507,7 +8465,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8550,7 +8508,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T16:45:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8639,7 +8597,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8683,7 +8641,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T20:50:07+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8727,7 +8685,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8772,7 +8730,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T22:23:55+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8816,7 +8774,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T01:32:08+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -8861,7 +8819,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9037,7 +8995,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:08:58+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9081,7 +9039,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:08:58+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9301,7 +9259,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T14:56:46+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9343,7 +9301,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:08:58+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9385,7 +9343,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T05:57:21+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9427,7 +9385,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T22:23:55+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9643,7 +9601,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9686,7 +9644,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9729,7 +9687,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9772,7 +9730,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9814,7 +9772,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -9856,7 +9814,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10243,7 +10201,7 @@
       "first_seen": "2026-11-11",
       "first_seen_at": "2026-11-11T22:51:19+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10286,7 +10244,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10329,7 +10287,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10372,7 +10330,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10415,7 +10373,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10544,7 +10502,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10588,7 +10546,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10630,7 +10588,7 @@
       "first_seen": "2026-11-03",
       "first_seen_at": "2026-11-03T17:43:31+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10673,7 +10631,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T22:23:55+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10716,7 +10674,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10759,7 +10717,7 @@
       "first_seen": "2026-11-12",
       "first_seen_at": "2026-11-12T03:27:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10803,7 +10761,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10846,7 +10804,7 @@
       "first_seen": "2026-11-12",
       "first_seen_at": "2026-11-12T03:27:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -10889,7 +10847,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T09:07:57+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11018,7 +10976,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:08:58+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11061,7 +11019,7 @@
       "first_seen": "2026-11-13",
       "first_seen_at": "2026-11-13T00:08:58+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11104,7 +11062,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11146,7 +11104,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11534,7 +11492,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11577,7 +11535,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11620,7 +11578,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11662,7 +11620,7 @@
       "first_seen": "2026-11-01",
       "first_seen_at": "2026-11-01T02:04:50+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11704,7 +11662,7 @@
       "first_seen": "2026-11-06",
       "first_seen_at": "2026-11-06T02:46:39+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11746,7 +11704,7 @@
       "first_seen": "2026-11-05",
       "first_seen_at": "2026-11-05T22:23:55+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11788,7 +11746,7 @@
       "first_seen": "2026-11-09",
       "first_seen_at": "2026-11-09T16:57:45+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -11831,7 +11789,7 @@
       "first_seen": "2026-11-02",
       "first_seen_at": "2026-11-02T07:35:40+00:00",
       "last_seen": "2026-11-13",
-      "last_seen_at": "2026-11-13T00:34:07+00:00",
+      "last_seen_at": "2026-11-13T07:13:44+00:00",
       "status": "open",
       "closed_at": null,
       "missing_scans": 0
@@ -12350,6 +12308,48 @@
       "last_seen_at": "2026-11-03T19:37:19+00:00",
       "status": "closed",
       "closed_at": "2026-11-04",
+      "missing_scans": 2
+    },
+    {
+      "id": "workday:highmarkhealth:highmark:fe201cc7ca6e6f5b64",
+      "company": "highmarkhealth",
+      "sector": "Potential life sciences / health",
+      "stage": "Unclassified",
+      "aggregated": false,
+      "source": "directory:workday:highmarkhealth.wd1.myworkdayjobs.com:highmark",
+      "ats": "workday",
+      "title": "Summer 2027 Data Analyst enGen Undergraduate Intern",
+      "location": "Pittsburgh PA, 15222, PAP, Penn Avenue Place",
+      "department": "",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826",
+      "focus": [
+        "Analytics / BI"
+      ],
+      "score": 89,
+      "reasons": [
+        "Role title matches Analytics / BI",
+        "Summer target explicitly mentioned",
+        "Relevant analytical methods or tools mentioned"
+      ],
+      "pay": {
+        "hourly_min": null,
+        "hourly_max": null,
+        "basis": "unknown"
+      },
+      "season": "summer_confirmed",
+      "fit_tier": "strong",
+      "primary_focus": "Analytics / BI",
+      "description_status": "full",
+      "match_source": "Role title",
+      "method_signal_count": 0,
+      "posted_at": "2026-11-10",
+      "modified_at": "",
+      "first_seen": "2026-11-04",
+      "first_seen_at": "2026-11-04T21:14:53+00:00",
+      "last_seen": "2026-11-12",
+      "last_seen_at": "2026-11-12T19:12:40+00:00",
+      "status": "closed",
+      "closed_at": "2026-11-13",
       "missing_scans": 2
     },
     {
@@ -19560,6 +19560,15 @@
   ],
   "health": [
     {
+      "company": "insitro",
+      "id": "insitro",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 13,
+      "matches": 0,
+      "stage": "Startup / growth"
+    },
+    {
       "company": "10x Genomics",
       "id": "10xgenomics",
       "ats": "greenhouse",
@@ -19594,15 +19603,6 @@
       "stage": "Startup / growth"
     },
     {
-      "company": "insitro",
-      "id": "insitro",
-      "ats": "ashby",
-      "status": "ok",
-      "scanned": 13,
-      "matches": 0,
-      "stage": "Startup / growth"
-    },
-    {
       "company": "Beam Therapeutics",
       "id": "beam",
       "ats": "greenhouse",
@@ -19630,15 +19630,6 @@
       "stage": "Startup / growth"
     },
     {
-      "company": "Altos Labs",
-      "id": "altos",
-      "ats": "greenhouse",
-      "status": "ok",
-      "scanned": 17,
-      "matches": 0,
-      "stage": "Startup / growth"
-    },
-    {
       "company": "CareDx",
       "id": "care-dx",
       "ats": "greenhouse",
@@ -19646,6 +19637,15 @@
       "scanned": 59,
       "matches": 0,
       "stage": "Established / other"
+    },
+    {
+      "company": "Altos Labs",
+      "id": "altos",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 17,
+      "matches": 0,
+      "stage": "Startup / growth"
     },
     {
       "company": "Arc Institute",
@@ -19675,20 +19675,11 @@
       "stage": "Established / other"
     },
     {
-      "company": "Abridge",
-      "id": "abridge",
+      "company": "Elicit",
+      "id": "elicit",
       "ats": "ashby",
       "status": "ok",
-      "scanned": 22,
-      "matches": 0,
-      "stage": "Startup / growth"
-    },
-    {
-      "company": "Ambience Healthcare",
-      "id": "ambience",
-      "ats": "ashby",
-      "status": "ok",
-      "scanned": 18,
+      "scanned": 12,
       "matches": 0,
       "stage": "Startup / growth"
     },
@@ -19718,11 +19709,20 @@
       "stage": "Established / other"
     },
     {
-      "company": "Elicit",
-      "id": "elicit",
+      "company": "Ambience Healthcare",
+      "id": "ambience",
       "ats": "ashby",
       "status": "ok",
-      "scanned": 12,
+      "scanned": 18,
+      "matches": 0,
+      "stage": "Startup / growth"
+    },
+    {
+      "company": "Abridge",
+      "id": "abridge",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 22,
       "matches": 0,
       "stage": "Startup / growth"
     },
@@ -19736,30 +19736,30 @@
       "stage": "Established / other"
     },
     {
-      "company": "Vanta",
-      "id": "vanta",
-      "ats": "ashby",
-      "status": "ok",
-      "scanned": 80,
-      "matches": 0,
-      "stage": "Startup / growth"
-    },
-    {
-      "company": "Scale AI",
-      "id": "scaleai",
-      "ats": "greenhouse",
-      "status": "ok",
-      "scanned": 170,
-      "matches": 8,
-      "stage": "Startup / growth"
-    },
-    {
       "company": "Figma",
       "id": "figma",
       "ats": "greenhouse",
       "status": "ok",
       "scanned": 143,
       "matches": 1,
+      "stage": "Startup / growth"
+    },
+    {
+      "company": "Vanta",
+      "id": "vanta",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 79,
+      "matches": 0,
+      "stage": "Startup / growth"
+    },
+    {
+      "company": "Affirm",
+      "id": "affirm",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 220,
+      "matches": 0,
       "stage": "Startup / growth"
     },
     {
@@ -19779,12 +19779,30 @@
       "stage": "Startup / growth"
     },
     {
-      "company": "Affirm",
-      "id": "affirm",
+      "company": "Zapply 2027 broad internship feed",
+      "id": "zapply-2027",
+      "ats": "github_markdown",
+      "status": "ok",
+      "scanned": 600,
+      "matches": 65,
+      "stage": "Mixed"
+    },
+    {
+      "company": "Perplexity",
+      "id": "perplexity",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 142,
+      "matches": 0,
+      "stage": "Startup / growth"
+    },
+    {
+      "company": "Scale AI",
+      "id": "scaleai",
       "ats": "greenhouse",
       "status": "ok",
-      "scanned": 222,
-      "matches": 0,
+      "scanned": 170,
+      "matches": 8,
       "stage": "Startup / growth"
     },
     {
@@ -19806,24 +19824,6 @@
       "stage": "Startup / growth"
     },
     {
-      "company": "Zapply 2027 broad internship feed",
-      "id": "zapply-2027",
-      "ats": "github_markdown",
-      "status": "ok",
-      "scanned": 600,
-      "matches": 67,
-      "stage": "Mixed"
-    },
-    {
-      "company": "Perplexity",
-      "id": "perplexity",
-      "ats": "ashby",
-      "status": "ok",
-      "scanned": 138,
-      "matches": 0,
-      "stage": "Startup / growth"
-    },
-    {
       "company": "avelios-medical",
       "id": "directory:ashby:avelios-medical",
       "ats": "ashby",
@@ -19833,48 +19833,21 @@
       "stage": "Unclassified"
     },
     {
+      "company": "Stripe",
+      "id": "stripe",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 787,
+      "matches": 5,
+      "stage": "Startup / growth"
+    },
+    {
       "company": "Cohere",
       "id": "cohere",
       "ats": "ashby",
       "status": "ok",
       "scanned": 121,
       "matches": 0,
-      "stage": "Startup / growth"
-    },
-    {
-      "company": "Stripe",
-      "id": "stripe",
-      "ats": "greenhouse",
-      "status": "ok",
-      "scanned": 785,
-      "matches": 5,
-      "stage": "Startup / growth"
-    },
-    {
-      "company": "tpgcareers",
-      "id": "directory:greenhouse:tpgcareers",
-      "ats": "greenhouse",
-      "status": "ok",
-      "scanned": 13,
-      "matches": 2,
-      "stage": "Unclassified"
-    },
-    {
-      "company": "Apera AI Inc",
-      "id": "directory:greenhouse:aperaaiinc",
-      "ats": "greenhouse",
-      "status": "ok",
-      "scanned": 9,
-      "matches": 1,
-      "stage": "Unclassified"
-    },
-    {
-      "company": "Databricks",
-      "id": "databricks",
-      "ats": "greenhouse",
-      "status": "ok",
-      "scanned": 906,
-      "matches": 6,
       "stage": "Startup / growth"
     },
     {
@@ -19887,12 +19860,39 @@
       "stage": "Unclassified"
     },
     {
-      "company": "C3 AI Ascend Internship Program: Summer 2026",
-      "id": "directory:greenhouse:c3ascend",
+      "company": "tpgcareers",
+      "id": "directory:greenhouse:tpgcareers",
       "ats": "greenhouse",
       "status": "ok",
-      "scanned": 3,
+      "scanned": 13,
       "matches": 2,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Anthropic",
+      "id": "anthropic",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 673,
+      "matches": 0,
+      "stage": "Startup / growth"
+    },
+    {
+      "company": "Toyota Research Institute",
+      "id": "directory:lever:tri",
+      "ats": "lever",
+      "status": "ok",
+      "scanned": 41,
+      "matches": 22,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Apera AI Inc",
+      "id": "directory:greenhouse:aperaaiinc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 9,
+      "matches": 1,
       "stage": "Unclassified"
     },
     {
@@ -19905,29 +19905,20 @@
       "stage": "Unclassified"
     },
     {
+      "company": "C3 AI Ascend Internship Program: Summer 2026",
+      "id": "directory:greenhouse:c3ascend",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 3,
+      "matches": 2,
+      "stage": "Unclassified"
+    },
+    {
       "company": "Dedale Intelligence",
       "id": "directory:ashby:dedale-intelligence",
       "ats": "ashby",
       "status": "ok",
       "scanned": 27,
-      "matches": 1,
-      "stage": "Unclassified"
-    },
-    {
-      "company": "Anthropic",
-      "id": "anthropic",
-      "ats": "greenhouse",
-      "status": "ok",
-      "scanned": 672,
-      "matches": 0,
-      "stage": "Startup / growth"
-    },
-    {
-      "company": "Gen Digital Inc.",
-      "id": "directory:ashby:gen-digital",
-      "ats": "ashby",
-      "status": "ok",
-      "scanned": 93,
       "matches": 1,
       "stage": "Unclassified"
     },
@@ -19950,21 +19941,21 @@
       "stage": "Unclassified"
     },
     {
-      "company": "Toyota Research Institute",
-      "id": "directory:lever:tri",
-      "ats": "lever",
-      "status": "ok",
-      "scanned": 41,
-      "matches": 22,
-      "stage": "Unclassified"
-    },
-    {
       "company": "Hive Financial Systems",
       "id": "directory:greenhouse:hivefinancialsystems",
       "ats": "greenhouse",
       "status": "ok",
       "scanned": 7,
       "matches": 2,
+      "stage": "Unclassified"
+    },
+    {
+      "company": "Gen Digital Inc.",
+      "id": "directory:ashby:gen-digital",
+      "ats": "ashby",
+      "status": "ok",
+      "scanned": 93,
+      "matches": 1,
       "stage": "Unclassified"
     },
     {
@@ -19986,6 +19977,15 @@
       "stage": "Unclassified"
     },
     {
+      "company": "queracomputinginc",
+      "id": "directory:greenhouse:queracomputinginc",
+      "ats": "greenhouse",
+      "status": "ok",
+      "scanned": 75,
+      "matches": 2,
+      "stage": "Unclassified"
+    },
+    {
       "company": "rivianvw.tech",
       "id": "directory:ashby:rivianvw.tech",
       "ats": "ashby",
@@ -19995,12 +19995,12 @@
       "stage": "Unclassified"
     },
     {
-      "company": "queracomputinginc",
-      "id": "directory:greenhouse:queracomputinginc",
-      "ats": "greenhouse",
+      "company": "Quest Analytics",
+      "id": "directory:lever:questanalytics",
+      "ats": "lever",
       "status": "ok",
-      "scanned": 75,
-      "matches": 2,
+      "scanned": 7,
+      "matches": 1,
       "stage": "Unclassified"
     },
     {
@@ -20017,7 +20017,7 @@
       "id": "directory:greenhouse:samsungsemiconductor",
       "ats": "greenhouse",
       "status": "ok",
-      "scanned": 67,
+      "scanned": 68,
       "matches": 3,
       "stage": "Unclassified"
     },
@@ -20031,12 +20031,12 @@
       "stage": "Unclassified"
     },
     {
-      "company": "Quest Analytics",
-      "id": "directory:lever:questanalytics",
+      "company": "Simbe Robotics",
+      "id": "directory:lever:simberobotics",
       "ats": "lever",
       "status": "ok",
-      "scanned": 7,
-      "matches": 1,
+      "scanned": 14,
+      "matches": 2,
       "stage": "Unclassified"
     },
     {
@@ -20044,18 +20044,18 @@
       "id": "directory:greenhouse:andurilindustries",
       "ats": "greenhouse",
       "status": "ok",
-      "scanned": 2580,
+      "scanned": 2579,
       "matches": 9,
       "stage": "Unclassified"
     },
     {
-      "company": "efficioconsulting",
-      "id": "directory:lever:efficioconsulting",
-      "ats": "lever",
+      "company": "Databricks",
+      "id": "databricks",
+      "ats": "greenhouse",
       "status": "ok",
-      "scanned": 41,
-      "matches": 1,
-      "stage": "Unclassified"
+      "scanned": 906,
+      "matches": 6,
+      "stage": "Startup / growth"
     },
     {
       "company": "Epic Games",
@@ -20076,12 +20076,12 @@
       "stage": "Unclassified"
     },
     {
-      "company": "Simbe Robotics",
-      "id": "directory:lever:simberobotics",
+      "company": "efficioconsulting",
+      "id": "directory:lever:efficioconsulting",
       "ats": "lever",
       "status": "ok",
-      "scanned": 14,
-      "matches": 2,
+      "scanned": 41,
+      "matches": 1,
       "stage": "Unclassified"
     },
     {
@@ -20112,13 +20112,13 @@
       "stage": "Unclassified"
     },
     {
-      "company": "Eli Lilly",
-      "id": "lilly",
+      "company": "cardinalhealth",
+      "id": "directory:workday:cardinalhealth.wd1.myworkdayjobs.com:EXT",
       "ats": "workday",
       "status": "ok",
       "scanned": 40,
-      "matches": 3,
-      "stage": "Established / other"
+      "matches": 1,
+      "stage": "Unclassified"
     },
     {
       "company": "rockwellautomation",
@@ -20127,15 +20127,6 @@
       "status": "ok",
       "scanned": 40,
       "matches": 3,
-      "stage": "Unclassified"
-    },
-    {
-      "company": "generalmotors",
-      "id": "directory:workday:generalmotors.wd5.myworkdayjobs.com:Careers_GM",
-      "ats": "workday",
-      "status": "ok",
-      "scanned": 40,
-      "matches": 15,
       "stage": "Unclassified"
     },
     {
@@ -20148,13 +20139,22 @@
       "stage": "Unclassified"
     },
     {
-      "company": "cardinalhealth",
-      "id": "directory:workday:cardinalhealth.wd1.myworkdayjobs.com:EXT",
+      "company": "generalmotors",
+      "id": "directory:workday:generalmotors.wd5.myworkdayjobs.com:Careers_GM",
       "ats": "workday",
       "status": "ok",
       "scanned": 40,
-      "matches": 1,
+      "matches": 15,
       "stage": "Unclassified"
+    },
+    {
+      "company": "Eli Lilly",
+      "id": "lilly",
+      "ats": "workday",
+      "status": "ok",
+      "scanned": 40,
+      "matches": 3,
+      "stage": "Established / other"
     },
     {
       "company": "regeneron",
@@ -20174,8 +20174,8 @@
     }
   ],
   "counts": {
-    "open": 275,
-    "closed": 182,
+    "open": 274,
+    "closed": 183,
     "sources_scanned": 65,
     "sources_failed": 4,
     "sources_scheduled": 69,
