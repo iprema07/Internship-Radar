@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**274 currently tracked openings** · Last scan: 2026-11-14 15:11 UTC
+**273 currently tracked openings** · Last scan: 2026-11-14 16:58 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,9 +8,9 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 174** · **Date unavailable: 100**
+**With employer dates: 173** · **Date unavailable: 100**
 
-## Posted 1–7 calendar days ago (29)
+## Posted 1–7 calendar days ago (28)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -30,7 +30,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-11-12 | generalmotors | [2027 Summer Intern – Research and Development - Nondestructive Evaluation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Nondestructive-Evaluation_JR-202621726) | Applied Research / Modeling | Warren, Michigan, United States of America | Not disclosed | 2026-11-05 01:32 UTC | Analytical responsibilities in description · Review |
 | 2026-11-12 | rockwellautomation | [Development Technician Student Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Development-Technician-Student-Intern_R26-8420) | Applied Research / Modeling | Milwaukee, Wisconsin, United States | Not disclosed | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
 | 2026-11-11 22:16 UTC | Samsung Semiconductor | [Intern, AI System Architecture Research Scientist](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003) | Applied Research / Modeling | San Jose, California, United States | $28–$68/hr | 2026-11-11 22:51 UTC | Analytical responsibilities in description · Review |
-| 2026-11-11 13:14 UTC | isaraerospace | [Intern AI & Data Transformation](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5033512101) | Applied Research / Modeling | Parsdorf, Bavaria, Germany | Not disclosed | 2026-11-13 00:08 UTC | Analytical responsibilities in description · Review |
 | 2026-11-11 | bloomenergy | [RMCC Data Science Intern](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362) | Statistics / Statistical Methods | San Jose, California | $36–$50/hr | 2026-11-13 00:08 UTC | Statistical work in description · Review |
 | 2026-11-11 | bloomenergy | [Data Science Intern](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/Data-Science-Intern_JR-25360) | Data Science / ML | San Jose, California | $36–$50/hr | 2026-11-13 00:08 UTC | Role title |
 | 2026-11-11 | bloomenergy | [AI Solutions Engineer Intern](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361) | Applied Research / Modeling | San Jose, California | $36–$50/hr | 2026-11-13 00:08 UTC | Analytical responsibilities in description · Review |
