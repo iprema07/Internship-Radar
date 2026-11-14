@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**273 currently tracked openings** · Last scan: 2026-11-14 10:10 UTC
+**274 currently tracked openings** · Last scan: 2026-11-14 15:11 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,9 +8,9 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 173** · **Date unavailable: 100**
+**With employer dates: 174** · **Date unavailable: 100**
 
-## Posted 1–7 calendar days ago (28)
+## Posted 1–7 calendar days ago (29)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -25,6 +25,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-11-13 17:31 UTC | Ramp | [Risk Strategy Intern](https://jobs.ashbyhq.com/ramp/b87e898f-8d8b-447d-b3d5-9073ccf7d109) | Applied Research / Modeling | New York, NY (HQ) | Not disclosed | 2026-11-13 21:34 UTC | Analytical responsibilities in description · Review |
 | 2026-11-13 10:17 UTC | blacksemiconductor | [Working Student – Data & AI  (f/m/d)](https://jobs.ashbyhq.com/blacksemiconductor/50026967-6217-4f32-a07b-887f8d8aa5eb) | Data Science / ML | Aachen, Germany | Not disclosed | 2026-11-13 22:30 UTC | Role title |
 | 2026-11-13 | regeneron | [2027 Summer Intern Finance (IOPS)](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Finance--IOPS-_R53093-1) | Applied Research / Modeling | RENSSELAER | $17.9–$25.5/hr | 2026-11-13 21:34 UTC | Analytical responsibilities in description · Review |
+| 2026-11-13 | bloomenergy | [Structured Finance Summer Associate (MBA Intern)](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/Structured-Finance-Summer-Associate--MBA-Intern-_JR-25367-1) | Applied Research / Modeling | San Jose, California | Not disclosed | 2026-11-14 15:11 UTC | Analytical responsibilities in description · Review |
 | 2026-11-12 | generalmotors | [2027 Summer Intern - Research and Development - Magnetic Materials](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Magnetic-Materials_JR-202621629) | Applied Research / Modeling | Warren, Michigan, United States of America | Not disclosed | 2026-11-05 08:27 UTC | Analytical responsibilities in description · Review |
 | 2026-11-12 | generalmotors | [2027 Summer Intern – Research and Development - Nondestructive Evaluation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Nondestructive-Evaluation_JR-202621726) | Applied Research / Modeling | Warren, Michigan, United States of America | Not disclosed | 2026-11-05 01:32 UTC | Analytical responsibilities in description · Review |
 | 2026-11-12 | rockwellautomation | [Development Technician Student Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Development-Technician-Student-Intern_R26-8420) | Applied Research / Modeling | Milwaukee, Wisconsin, United States | Not disclosed | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
