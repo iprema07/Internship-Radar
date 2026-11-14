@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**273 currently tracked openings** · Last scan: 2026-11-14 19:58 UTC
+**275 currently tracked openings** · Last scan: 2026-11-14 21:21 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,9 +8,9 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 173** · **Date unavailable: 100**
+**With employer dates: 175** · **Date unavailable: 100**
 
-## Posted 1–7 calendar days ago (28)
+## Posted 1–7 calendar days ago (30)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -26,8 +26,10 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-11-13 10:17 UTC | blacksemiconductor | [Working Student – Data & AI  (f/m/d)](https://jobs.ashbyhq.com/blacksemiconductor/50026967-6217-4f32-a07b-887f8d8aa5eb) | Data Science / ML | Aachen, Germany | Not disclosed | 2026-11-13 22:30 UTC | Role title |
 | 2026-11-13 | regeneron | [2027 Summer Intern Finance (IOPS)](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Finance--IOPS-_R53093-1) | Applied Research / Modeling | RENSSELAER | $17.9–$25.5/hr | 2026-11-13 21:34 UTC | Analytical responsibilities in description · Review |
 | 2026-11-13 | bloomenergy | [Structured Finance Summer Associate (MBA Intern)](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/Structured-Finance-Summer-Associate--MBA-Intern-_JR-25367-1) | Applied Research / Modeling | San Jose, California | Not disclosed | 2026-11-14 15:11 UTC | Analytical responsibilities in description · Review |
+| 2026-11-12 | caresource | [2027 Summer Internship Program  - Provider Analytics AI Intern](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481) | Analytics / BI | Remote | Not disclosed | 2026-11-14 21:21 UTC | Role title |
 | 2026-11-12 | generalmotors | [2027 Summer Intern - Research and Development - Magnetic Materials](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Magnetic-Materials_JR-202621629) | Applied Research / Modeling | Warren, Michigan, United States of America | Not disclosed | 2026-11-05 08:27 UTC | Analytical responsibilities in description · Review |
 | 2026-11-12 | generalmotors | [2027 Summer Intern – Research and Development - Nondestructive Evaluation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Nondestructive-Evaluation_JR-202621726) | Applied Research / Modeling | Warren, Michigan, United States of America | Not disclosed | 2026-11-05 01:32 UTC | Analytical responsibilities in description · Review |
+| 2026-11-12 | caresource | [2027 Summer Internship Program - Clinical Operations Business Analyst](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353) | Strategy / Consulting | Remote | Not disclosed | 2026-11-14 21:21 UTC | Role title |
 | 2026-11-12 | rockwellautomation | [Development Technician Student Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Development-Technician-Student-Intern_R26-8420) | Applied Research / Modeling | Milwaukee, Wisconsin, United States | Not disclosed | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
 | 2026-11-11 22:16 UTC | Samsung Semiconductor | [Intern, AI System Architecture Research Scientist](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003) | Applied Research / Modeling | San Jose, California, United States | $28–$68/hr | 2026-11-11 22:51 UTC | Analytical responsibilities in description · Review |
 | 2026-11-11 | bloomenergy | [RMCC Data Science Intern](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362) | Statistics / Statistical Methods | San Jose, California | $36–$50/hr | 2026-11-13 00:08 UTC | Statistical work in description · Review |
