@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**275 currently tracked openings** · Last scan: 2026-11-14 08:07 UTC
+**273 currently tracked openings** · Last scan: 2026-11-14 10:10 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 174** · **Date unavailable: 101**
+**With employer dates: 173** · **Date unavailable: 100**
 
 ## Posted 1–7 calendar days ago (28)
 
@@ -96,7 +96,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-10-15 | dxctechnology | [Business Intelligence (BI) Intern](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/MYS---PETALING-JAYA/Business-Intelligence--BI--Intern_51591002) | Analytics / BI | MYS - PETALING JAYA | Not disclosed | 2026-11-02 07:35 UTC | Role title |
 | 2026-10-15 | generalmotors | [2027 Summer Intern, AI Research, Embodied AI (Masters)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535) | Applied Research / Modeling | Sunnyvale, California, United States of America | Not disclosed | 2026-11-05 08:27 UTC | Analytical responsibilities in description · Review |
 
-## Posted more than 30 days ago (98)
+## Posted more than 30 days ago (97)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -155,7 +155,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-09-08 18:31 UTC | rivianvw.tech | [Data Engineering Intern - AI & Analytics (January - August 2027)](https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322) | Analytics / BI | Palo Alto, California | $40–$51/hr | 2026-11-01 02:04 UTC | Role title |
 | 2026-09-02 21:47 UTC | Hadrian Automation | [Data Science/ Data Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813) | Data Science / ML | Los Angeles, CA | $46.15–$50.71/hr | 2026-11-01 02:04 UTC | Role title |
 | 2026-09-02 21:47 UTC | Hadrian Automation | [Robotics Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584) | Applied Research / Modeling | Los Angeles, CA | $46.15–$50.71/hr | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
-| 2026-09-01 05:02 UTC | K2 Space | [GNC Engineering Intern – Summer 2027](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411917008) | Applied Research / Modeling | Los Angeles, CA | $30–$40/hr | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-08-31 18:03 UTC | C3 AI | [Data Science - Intern (Summer 2027)](https://c3.ai/job-description/8738918002?gh_jid=8738918002) | Data Science / ML | Redwood City, California, United States | Not disclosed | 2026-11-01 09:07 UTC | Role title |
 | 2026-08-31 | cardinalhealth | [Data & Analytics Internship (Summer 2027)](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Internship--Summer-2027-_20185913) | Analytics / BI | OH-Dublin-Cardinal Place | $25/hr | 2026-11-01 09:07 UTC | Role title |
 | 2026-08-28 21:52 UTC | Xaira Therapeutics | [AI Scientist Intern, Computational Protein Design](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007) | Applied Research / Modeling | Seattle, Washington, United States; South San Francisco, California, United States | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
@@ -199,7 +198,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2022-11-09 00:09 UTC | lgairesearch | [AI Scientist/Engineer Intern (LG AI Research Center, Ann Arbor) ](https://www.lgresearch.ai/careers?gh_jid=4130830005) | Applied Research / Modeling | Ann Arbor, Michigan, United States | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2022-09-08 17:24 UTC | Forma.ai - India Campus | [Customer Operations Analyst Intern](https://job-boards.greenhouse.io/formaaiinc3/jobs/4090129005) | Analytics / BI | Pune | Not disclosed | 2026-11-01 16:45 UTC | Role title |
 
-## Employer posting date unavailable — newest detected first (101)
+## Employer posting date unavailable — newest detected first (100)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -302,7 +301,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | Institute of Foundation Models | [AI Research Internship - LLM](https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f) | Applied Research / Modeling | Sunnyvale, CA | $48.08–$67.31/hr (estimated) | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | Not provided | genomines | [Business Intern](https://jobs.eu.lever.co/genomines/a53de103-d1c0-4804-ad14-b281f585e059) | Applied Research / Modeling | Les Ulis | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | Not provided | Multiply Labs | [Robotics Software Intern](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586) | Applied Research / Modeling | San Francisco | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
-| Not provided | Research Innovations | [DoW SkillBridge Forward Deployed Engineer Intern](https://jobs.lever.co/researchinnovations.com/a89efcb2-9e6c-44fe-8441-cf12dc3a1181) | Applied Research / Modeling | Joint Base Lewis-McChord | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | Not provided | **ASML** | [Internship/Co-Op: Data Engineer](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355626?s=gh-internships-2027) | Data Engineering | San Diego, CA, USA | Not disclosed | 2026-11-01 02:04 UTC | Role title · Review |
 
 ---
