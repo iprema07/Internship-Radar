@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**276 currently tracked openings** · Last scan: 2026-11-15 19:55 UTC
+**275 currently tracked openings** · Last scan: 2026-11-15 21:40 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 176** · **Date unavailable: 100**
+**With employer dates: 175** · **Date unavailable: 100**
 
 ## Posted today (UTC) (3)
 
@@ -53,7 +53,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-11-09 | geaerospace | [GE Aerospace Research - Controls & Optimization Internship, 2027](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Niskayuna/GE-Aerospace-Research---Controls---Optimization-Internship--2027_R5043004-1) | Applied Research / Modeling | Niskayuna | Not disclosed | 2026-11-09 18:40 UTC | Analytical responsibilities in description · Review |
 | 2026-11-09 | geaerospace | [EID Intern - Strategic Supply Chain](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/EID-Intern---Strategic-Supply-Chain_R5039331-1) | Applied Research / Modeling | Queretaro | Not disclosed | 2026-11-11 14:03 UTC | Analytical responsibilities in description · Review |
 
-## Posted 8–30 days ago (42)
+## Posted 8–30 days ago (41)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -84,7 +84,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-10-22 22:20 UTC | rivianvw.tech | [Data Engineering Intern - AI & Analytics (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464) | Analytics / BI | Palo Alto, California | $40–$51/hr | 2026-11-01 02:04 UTC | Role title |
 | 2026-10-22 01:28 UTC | Seven Research | [People Operations Associate - Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/5460704008) | Applied Research / Modeling | New York | Not disclosed | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
 | 2026-10-22 01:01 UTC | OpenArt AI | [Strategy & Market Intelligence Intern (MBA)](https://jobs.ashbyhq.com/openart/b71c3048-5216-49b1-aabf-d5b605da53bd) | Analytics / BI | San Carlos, California, USA | $40–$50/hr | 2026-11-02 07:35 UTC | Role title |
-| 2026-10-21 21:41 UTC | Precision Medicine Group | [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6221174004) | Statistics / Statistical Methods | Remote, Canada | Not disclosed | 2026-11-01 09:07 UTC | Statistical work in description · Review |
 | 2026-10-21 21:36 UTC | Anduril Industries | [2027 Business Operations Intern - Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) | Applied Research / Modeling | Costa Mesa, California, United States; Seattle, Washington, United States | $24–$45/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2026-10-21 19:51 UTC | Anduril Industries | [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | Applied Research / Modeling | Ashville, Ohio, United States; Costa Mesa, California, United States | $24–$45/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2026-10-20 22:14 UTC | Anduril Industries | [2027 Finance Data Analyst Intern](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007) | Analytics / BI | Costa Mesa, California, United States | $24–$40/hr | 2026-11-01 09:07 UTC | Role title |
@@ -280,7 +279,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | **The New York Times** | [Advertising Business Data Analyst Intern](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4750496005?s=gh-internships-2027) | Analytics / BI | New York, NY | Not disclosed | 2026-11-03 17:43 UTC | Role title · Review |
 | Not provided | Toyota Research Institute | [Accelerated Science Intern, Bridging Atomistic Modeling to Real Electrochemical Systems](https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418) | Applied Research / Modeling | Los Altos, CA | $65/hr | 2026-11-03 17:43 UTC | Role title |
 | Not provided | **Divergent Technologies** | [Summer 2027 Data & Process Analytics Intern](https://zapply.jobs/l/d/greenhouse-divergent-5393537008?s=gh-internships-2027) | Analytics / BI | Torrance, California, United States | Not disclosed | 2026-11-02 23:40 UTC | Role title · Review |
-| Not provided | **Intuitive** | [Data Science Intern](https://zapply.jobs/l/d/sr-Intuitive-744000159210829?s=gh-internships-2027) | Data Science / ML | Sunnyvale, CA | Not disclosed | 2026-11-02 18:13 UTC | Role title · Review |
+| Not provided | **Booz Allen Hamilton** | [University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252783?s=gh-internships-2027) | Data Science / ML | Detroit, MI | Not disclosed | 2026-11-02 18:13 UTC | Role title · Review |
 | Not provided | **Sierra Nevada Corporation** | [Data Science Intern (Summer 2027)](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031257?s=gh-internships-2027) | Data Science / ML | Sparks, NV | Not disclosed | 2026-11-02 16:29 UTC | Role title · Review |
 | Not provided | Quest Analytics | [Quest Analytics Internship Program - Summer 2027 in Kansas City](https://jobs.lever.co/questanalytics/614edbbf-410b-4100-8ef9-e1af7ddddfd5) | Analytics / BI | Overland Park, KS | Not disclosed | 2026-11-02 07:35 UTC | Role title |
 | Not provided | Machina Labs | [Robotic Process Engineer, Intern](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) | Applied Research / Modeling | Chatsworth, CA | $20–$35/hr | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
