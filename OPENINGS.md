@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**275 currently tracked openings** · Last scan: 2026-11-16 01:52 UTC
+**276 currently tracked openings** · Last scan: 2026-11-16 06:47 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,13 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 175** · **Date unavailable: 100**
+**With employer dates: 176** · **Date unavailable: 100**
+
+## Posted today (UTC) (1)
+
+| Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
+|---|---|---|---|---|---|---|---|
+| 2026-11-16 | generalmotors | [Business Planning & Analytics Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Port-Melbourne-Victoria-Australia/Business-Planning---Analytics-Intern_JR-202624180) | Analytics / BI | Port Melbourne, Victoria, Australia | Not disclosed | 2026-11-16 06:47 UTC | Role title |
 
 ## Posted 1–7 calendar days ago (33)
 
