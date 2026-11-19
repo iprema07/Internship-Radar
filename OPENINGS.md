@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**295 currently tracked openings** · Last scan: 2026-11-19 13:29 UTC
+**298 currently tracked openings** · Last scan: 2026-11-19 21:24 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 187** · **Date unavailable: 108**
+**With employer dates: 190** · **Date unavailable: 108**
 
 ## Posted today (UTC) (3)
 
@@ -18,10 +18,12 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-11-19 00:22 UTC | Sigma Computing | [Product Design Graduate Intern (Summer 2027)](https://job-boards.greenhouse.io/sigmacomputing/jobs/8208914003) | Applied Research / Modeling | San Francisco, CA | $50/hr | 2026-11-19 12:50 UTC | Analytical responsibilities in description · Review |
 | 2026-11-19 | regeneron | [Intern, HR Technology and Analytics](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Dublin/HR-and-People-Analytics-Tech-Intern_R52961) | Analytics / BI | Dublin | Not disclosed | 2026-11-19 13:29 UTC | Role title |
 
-## Posted 1–7 calendar days ago (39)
+## Posted 1–7 calendar days ago (41)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
+| 2026-11-18 23:36 UTC | Lucid Software | [Product Management Internship - Summer 2027](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) | Applied Research / Modeling | Salt Lake City, UT | Not disclosed | 2026-11-19 21:24 UTC | Analytical responsibilities in description · Review |
+| 2026-11-18 23:36 UTC | Lucid Software | [Product Management Internship - Summer 2027](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | Applied Research / Modeling | Raleigh, NC | Not disclosed | 2026-11-19 21:24 UTC | Analytical responsibilities in description · Review |
 | 2026-11-18 22:45 UTC | Samsung Semiconductor | [Intern, LLM Inference Acceleration Architecture (Distributed Memory-Centric Accelerators)](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208641003) | Applied Research / Modeling | San Jose, California, United States | $28–$68/hr | 2026-11-18 23:10 UTC | Analytical responsibilities in description · Review |
 | 2026-11-18 19:43 UTC | Inspire Medical Systems Inc. | [Intern, Financial Planning and Analysis (Summer 2027)](https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/5485322008?gh_jid=5485322008) | Applied Research / Modeling | Minneapolis, MN | Not disclosed | 2026-11-19 12:50 UTC | Analytical responsibilities in description · Review |
 | 2026-11-18 16:56 UTC | Shift Technology | [Data Science internship (english speaker) ](https://job-boards.greenhouse.io/shifttechnology/jobs/7984415003) | Data Science / ML | Brazil - Sao Paulo | Not disclosed | 2026-11-18 21:48 UTC | Role title |
@@ -109,7 +111,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-10-20 | highmarkhealth | [Summer 2027 Evaluation Analytics Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Evaluation-Analytics-Graduate-Intern_J288013) | Analytics / BI | 51 Locations | Not disclosed | 2026-11-01 09:07 UTC | Role title |
 | 2026-10-20 | rockwellautomation | [Business Intelligence Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Business-Intelligence-Intern_R26-6613) | Analytics / BI | Katowice, Poland | Not disclosed | 2026-11-02 07:35 UTC | Role title |
 
-## Posted more than 30 days ago (103)
+## Posted more than 30 days ago (104)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -147,6 +149,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-10-01 | generalmotors | [Summer 2027 Intern - Computational Design Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Computational-Design-Intern_JR-202621454) | Applied Research / Modeling | Warren, Michigan, United States of America | Not disclosed | 2026-11-01 16:45 UTC | Analytical responsibilities in description · Review |
 | 2026-09-27 21:09 UTC | queracomputinginc | [Internship - Scientific Software and Compilation](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008) | Applied Research / Modeling | Boston, MA, USA | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-09-25 15:07 UTC | Ginkgo Bioworks Inc. | [Automation Scientist Graduate Intern, RAC Operations](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5249264007) | Applied Research / Modeling | Boston, Massachusetts | Not disclosed | 2026-11-01 16:45 UTC | Analytical responsibilities in description · Review |
+| 2026-09-24 21:24 UTC | Stripe | [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442) | Analytics / BI | Singapore | Not disclosed | 2026-11-01 02:04 UTC | Role title |
 | 2026-09-23 19:30 UTC | Figma | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | Data Engineering | San Francisco, CA • New York, NY | Not disclosed | 2026-11-01 02:04 UTC | Role title |
 | 2026-09-22 19:33 UTC | Stripe | [Integration Reliability Engineer Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186367) | Applied Research / Modeling | Singapore | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-09-22 18:40 UTC | Beam Therapeutics | [Technical Operations Co-op ](https://job-boards.greenhouse.io/beamtherapeutics/jobs/8831677002) | Applied Research / Modeling | Durham, NC | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
