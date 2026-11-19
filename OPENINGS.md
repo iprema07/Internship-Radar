@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**298 currently tracked openings** · Last scan: 2026-11-19 21:24 UTC
+**297 currently tracked openings** · Last scan: 2026-11-19 21:45 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 190** · **Date unavailable: 108**
+**With employer dates: 190** · **Date unavailable: 107**
 
 ## Posted today (UTC) (3)
 
@@ -220,7 +220,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2022-11-09 00:09 UTC | lgairesearch | [AI Scientist/Engineer Intern (LG AI Research Center, Ann Arbor) ](https://www.lgresearch.ai/careers?gh_jid=4130830005) | Applied Research / Modeling | Ann Arbor, Michigan, United States | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2022-09-08 17:24 UTC | Forma.ai - India Campus | [Customer Operations Analyst Intern](https://job-boards.greenhouse.io/formaaiinc3/jobs/4090129005) | Analytics / BI | Pune | Not disclosed | 2026-11-01 16:45 UTC | Role title |
 
-## Employer posting date unavailable — newest detected first (108)
+## Employer posting date unavailable — newest detected first (107)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -230,7 +230,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | **Bristol Myers Squibb** | [Data Science Intern (MS/PhD)-Summer 2027](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608664?s=gh-internships-2027) | Data Science / ML | Remote - United States - US | Not disclosed | 2026-11-18 21:48 UTC | Role title · Review |
 | Not provided | **Bristol Myers Squibb** | [Data Science Intern (Undergrad)-Summer 2027](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608665?s=gh-internships-2027) | Data Science / ML | Remote - United States - US | Not disclosed | 2026-11-18 21:48 UTC | Role title · Review |
 | Not provided | **Daimler Truck** | [Financial Planning & Data Analytics Intern](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20756?s=gh-internships-2027) | Analytics / BI | Detroit, MI US | Not disclosed | 2026-11-18 21:48 UTC | Role title · Review |
-| Not provided | **KLA** | [Marketing Analyst Intern](https://zapply.jobs/l/d/workday-kla-search-2642982?s=gh-internships-2027) | Analytics / BI | Milpitas, CA | Not disclosed | 2026-11-18 21:48 UTC | Role title · Review |
 | Not provided | **Flagship Pioneering** | [Pioneering Medicines: Drug Substance (Process Modeling) Co-Op](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8948840002?s=gh-internships-2027) | Applied Research / Modeling | Cambridge, MA USA | Not disclosed | 2026-11-18 21:48 UTC | Role title · Review |
 | Not provided | **State Street** | [Data Engineering & Product, Technology Intern - Full-time Internship (Jan - June 2027)](https://zapply.jobs/l/d/workday-statestreet-global-R-801276?s=gh-internships-2027) | Data Engineering | Quincy, Massachusetts | Not disclosed | 2026-11-18 21:48 UTC | Role title · Review |
 | Not provided | **CME Group** | [Quantitative Data & AI Analytics Intern - Year Round](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-35061?s=gh-internships-2027) | Data Science / ML | New York | Not disclosed | 2026-11-18 16:44 UTC | Role title · Review |
