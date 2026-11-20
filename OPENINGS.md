@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**298 currently tracked openings** · Last scan: 2026-11-20 18:48 UTC
+**296 currently tracked openings** · Last scan: 2026-11-20 19:59 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 190** · **Date unavailable: 108**
+**With employer dates: 188** · **Date unavailable: 108**
 
 ## Posted today (UTC) (3)
 
@@ -110,7 +110,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-10-21 21:36 UTC | Anduril Industries | [2027 Business Operations Intern - Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) | Applied Research / Modeling | Costa Mesa, California, United States; Seattle, Washington, United States | $24–$45/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2026-10-21 19:51 UTC | Anduril Industries | [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | Applied Research / Modeling | Ashville, Ohio, United States; Costa Mesa, California, United States | $24–$45/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 
-## Posted more than 30 days ago (105)
+## Posted more than 30 days ago (103)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -128,7 +128,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-10-15 | generalmotors | [2027 Summer Intern - Systems/Calibration Engineer, ADAS Drive](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Systems-Calibration-Engineer--ADAS-Drive_JR-202621623) | Applied Research / Modeling | Milford, Michigan, United States of America | Not disclosed | 2026-11-02 16:29 UTC | Analytical responsibilities in description · Review |
 | 2026-10-14 22:39 UTC | Sigma Computing | [Technical Writer Intern (Summer 2027)](https://job-boards.greenhouse.io/sigmacomputing/jobs/8034205003) | Applied Research / Modeling | New York, NY | $36–$42/hr | 2026-11-01 16:45 UTC | Analytical responsibilities in description · Review |
 | 2026-10-14 22:38 UTC | Sigma Computing | [Technical Writer Intern (Summer 2027)](https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003) | Applied Research / Modeling | San Francisco, CA | $36–$42/hr | 2026-11-01 16:45 UTC | Analytical responsibilities in description · Review |
-| 2026-10-14 14:37 UTC | Kyowa Kirin | [2027 Summer Intern - Translational Research](https://job-boards.greenhouse.io/kyowakirinusa90/jobs/8033318003) | Applied Research / Modeling | Princeton, NJ | $25/hr | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-10-13 15:50 UTC | lakefrontbiotherapeuticsinc | [Intern, Search & Evaluation](https://job-boards.greenhouse.io/lakefrontbiotherapeuticsinc/jobs/4437785009) | Applied Research / Modeling | South San Francisco, CA | $35–$55/hr | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
 | 2026-10-09 23:07 UTC | Databricks | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | Applied Research / Modeling | San Francisco, California; Seattle, Washington | $34–$42/hr | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-10-09 | generalmotors | [2027 Summer Intern,  Data Scaling, Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132) | Applied Research / Modeling | Sunnyvale, California, United States of America | Not disclosed | 2026-11-01 16:45 UTC | Analytical responsibilities in description · Review |
@@ -157,7 +156,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-09-22 18:40 UTC | Beam Therapeutics | [Technical Operations Co-op ](https://job-boards.greenhouse.io/beamtherapeutics/jobs/8831677002) | Applied Research / Modeling | Durham, NC | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-09-22 02:02 UTC | Coinbase | [Tax Information Reporting Intern](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) | Applied Research / Modeling | Hybrid - New York, NY | $40/hr | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-09-22 01:42 UTC | Coinbase | [Internal Audit Analytics Intern](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) | Analytics / BI | Hybrid - New York, NY | $50/hr | 2026-11-01 02:04 UTC | Role title |
-| 2026-09-21 22:52 UTC | Epic Games | [Data Science Intern](https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004) | Data Science / ML | Cary,North Carolina,United States | Not disclosed | 2026-11-02 07:35 UTC | Role title |
 | 2026-09-18 | generalmotors | [2027 Summer Intern - Digital Product: Product Management (MBA)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538) | Applied Research / Modeling | 2 Locations | Not disclosed | 2026-11-01 16:45 UTC | Analytical responsibilities in description · Review |
 | 2026-09-17 02:56 UTC | Physical Intelligence | [Mechatronics Intern](https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a) | Applied Research / Modeling | San Francisco | Not disclosed | 2026-11-01 16:45 UTC | Analytical responsibilities in description · Review |
 | 2026-09-16 19:20 UTC | Cartesian Systems | [Micro-Intern: Research Assistant (IAP - Alumni Host)](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009) | Applied Research / Modeling | Cambridge, MA | $20–$25/hr | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
