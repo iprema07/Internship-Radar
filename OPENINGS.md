@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**297 currently tracked openings** · Last scan: 2026-11-19 21:45 UTC
+**296 currently tracked openings** · Last scan: 2026-11-20 02:40 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,20 +8,16 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 190** · **Date unavailable: 107**
+**With employer dates: 189** · **Date unavailable: 107**
 
-## Posted today (UTC) (3)
+## Posted 1–7 calendar days ago (43)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
+| 2026-11-19 22:52 UTC | queracomputinginc | [Intern, Quantum Calibrations, Quantum Computing Services ](https://job-boards.greenhouse.io/queracomputinginc/jobs/5490107008) | Applied Research / Modeling | Boston, MA, USA | Not disclosed | 2026-11-20 02:40 UTC | Analytical responsibilities in description · Review |
 | 2026-11-19 03:09 UTC | makermaker.ai | [RESEARCH INTERN](https://jobs.ashbyhq.com/makermaker.ai/735488d9-37de-4e54-bc13-a4705e200583) | Applied Research / Modeling | San Francisco | Not disclosed | 2026-11-19 12:50 UTC | Analytical responsibilities in description · Review |
 | 2026-11-19 00:22 UTC | Sigma Computing | [Product Design Graduate Intern (Summer 2027)](https://job-boards.greenhouse.io/sigmacomputing/jobs/8208914003) | Applied Research / Modeling | San Francisco, CA | $50/hr | 2026-11-19 12:50 UTC | Analytical responsibilities in description · Review |
 | 2026-11-19 | regeneron | [Intern, HR Technology and Analytics](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Dublin/HR-and-People-Analytics-Tech-Intern_R52961) | Analytics / BI | Dublin | Not disclosed | 2026-11-19 13:29 UTC | Role title |
-
-## Posted 1–7 calendar days ago (41)
-
-| Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
-|---|---|---|---|---|---|---|---|
 | 2026-11-18 23:36 UTC | Lucid Software | [Product Management Internship - Summer 2027](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) | Applied Research / Modeling | Salt Lake City, UT | Not disclosed | 2026-11-19 21:24 UTC | Analytical responsibilities in description · Review |
 | 2026-11-18 23:36 UTC | Lucid Software | [Product Management Internship - Summer 2027](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | Applied Research / Modeling | Raleigh, NC | Not disclosed | 2026-11-19 21:24 UTC | Analytical responsibilities in description · Review |
 | 2026-11-18 22:45 UTC | Samsung Semiconductor | [Intern, LLM Inference Acceleration Architecture (Distributed Memory-Centric Accelerators)](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208641003) | Applied Research / Modeling | San Jose, California, United States | $28–$68/hr | 2026-11-18 23:10 UTC | Analytical responsibilities in description · Review |
@@ -61,13 +57,13 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-11-13 | generac | [EHS Intern](https://generac.wd5.myworkdayjobs.com/External/job/Whitewater-WI---USA/EHS-Intern_JR18055) | Applied Research / Modeling | Whitewater, WI - USA | Not disclosed | 2026-11-17 03:42 UTC | Analytical responsibilities in description · Review |
 | 2026-11-13 | geaerospace | [Configurations Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Configurations-Intern_R5042953-1) | Applied Research / Modeling | Queretaro | Not disclosed | 2026-11-17 22:11 UTC | Analytical responsibilities in description · Review |
 | 2026-11-13 | bloomenergy | [Structured Finance Summer Associate (MBA Intern)](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/Structured-Finance-Summer-Associate--MBA-Intern-_JR-25367-1) | Applied Research / Modeling | San Jose, California | Not disclosed | 2026-11-14 15:11 UTC | Analytical responsibilities in description · Review |
-| 2026-11-12 | generalmotors | [2027 Summer Intern – Research and Development - Nondestructive Evaluation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Nondestructive-Evaluation_JR-202621726) | Applied Research / Modeling | Warren, Michigan, United States of America | Not disclosed | 2026-11-05 01:32 UTC | Analytical responsibilities in description · Review |
-| 2026-11-12 | rockwellautomation | [Development Technician Student Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Development-Technician-Student-Intern_R26-8420) | Applied Research / Modeling | Milwaukee, Wisconsin, United States | Not disclosed | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
 
-## Posted 8–30 days ago (42)
+## Posted 8–30 days ago (38)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
+| 2026-11-12 | generalmotors | [2027 Summer Intern – Research and Development - Nondestructive Evaluation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Nondestructive-Evaluation_JR-202621726) | Applied Research / Modeling | Warren, Michigan, United States of America | Not disclosed | 2026-11-05 01:32 UTC | Analytical responsibilities in description · Review |
+| 2026-11-12 | rockwellautomation | [Development Technician Student Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Development-Technician-Student-Intern_R26-8420) | Applied Research / Modeling | Milwaukee, Wisconsin, United States | Not disclosed | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
 | 2026-11-11 22:16 UTC | Samsung Semiconductor | [Intern, AI System Architecture Research Scientist](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003) | Applied Research / Modeling | San Jose, California, United States | $28–$68/hr | 2026-11-11 22:51 UTC | Analytical responsibilities in description · Review |
 | 2026-11-11 13:14 UTC | isaraerospace | [Intern AI & Data Transformation](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5033512101) | Applied Research / Modeling | Parsdorf, Bavaria, Germany | Not disclosed | 2026-11-13 00:08 UTC | Analytical responsibilities in description · Review |
 | 2026-11-11 | bloomenergy | [RMCC Data Science Intern](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362) | Statistics / Statistical Methods | San Jose, California | $36–$50/hr | 2026-11-13 00:08 UTC | Statistical work in description · Review |
@@ -90,8 +86,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-11-02 13:39 UTC | Qube Research & Technologies | [2027 - Internship, Business Data Analytics ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926633002) | Analytics / BI | London | Not disclosed | 2026-11-02 16:29 UTC | Role title |
 | 2026-10-28 20:44 UTC | Anduril Industries | [2027 Library Science Intern](https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007) | Applied Research / Modeling | Santa Ana, California, United States | $24–$40/hr | 2026-11-04 21:14 UTC | Analytical responsibilities in description · Review |
 | 2026-10-28 06:27 UTC | HackerRank Careers | [AI Researcher Intern](https://job-boards.greenhouse.io/hackerrank/jobs/8281055) | Applied Research / Modeling | Onsite in Bangalore | Not disclosed | 2026-11-02 07:35 UTC | Analytical responsibilities in description · Review |
-| 2026-10-28 00:27 UTC | Samsung Semiconductor | [Intern, Thermal Modeling & Simulation Engineer (AI Memory / HBM)](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003) | Applied Research / Modeling | San Jose, California, United States | $28–$68/hr | 2026-11-01 16:45 UTC | Role title |
-| 2026-10-28 00:24 UTC | Samsung Semiconductor | [Intern, RTL Power Macromodeling Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003) | Applied Research / Modeling | San Jose, California, United States | $28–$68/hr | 2026-11-01 16:45 UTC | Role title |
 | 2026-10-27 19:28 UTC | Hive Financial Systems | [Analytics Internship 2027 ](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007) | Analytics / BI | Atlanta, Georgia | Not disclosed | 2026-11-02 07:35 UTC | Role title |
 | 2026-10-27 | generalmotors | [2027 Summer Intern – AI & Hardware Analytics, ADPT](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) | Analytics / BI | 2 Locations | Not disclosed | 2026-11-01 16:45 UTC | Role title |
 | 2026-10-27 | generalmotors | [2027 Summer Intern, Radar Hardware Development Engineer,  ASD](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Proving-Ground---Bldg-104A/XMLNAME-2027-Summer-Intern--Radar-Hardware-Development-Engineer---ASD_JR-202621645) | Applied Research / Modeling | Milford Proving Ground - Bldg 104A | Not disclosed | 2026-11-02 16:29 UTC | Analytical responsibilities in description · Review |
@@ -106,15 +100,15 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-10-22 01:01 UTC | OpenArt AI | [Strategy & Market Intelligence Intern (MBA)](https://jobs.ashbyhq.com/openart/b71c3048-5216-49b1-aabf-d5b605da53bd) | Analytics / BI | San Carlos, California, USA | $40–$50/hr | 2026-11-02 07:35 UTC | Role title |
 | 2026-10-21 21:36 UTC | Anduril Industries | [2027 Business Operations Intern - Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) | Applied Research / Modeling | Costa Mesa, California, United States; Seattle, Washington, United States | $24–$45/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2026-10-21 19:51 UTC | Anduril Industries | [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | Applied Research / Modeling | Ashville, Ohio, United States; Costa Mesa, California, United States | $24–$45/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
+
+## Posted more than 30 days ago (108)
+
+| Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
+|---|---|---|---|---|---|---|---|
 | 2026-10-20 22:14 UTC | Anduril Industries | [2027 Finance Data Analyst Intern](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007) | Analytics / BI | Costa Mesa, California, United States | $24–$40/hr | 2026-11-01 09:07 UTC | Role title |
 | 2026-10-20 13:12 UTC | Shift Technology | [Data Scientist Internship (6 months) ](https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003) | Data Science / ML | France - Paris | Not disclosed | 2026-11-01 09:07 UTC | Role title |
 | 2026-10-20 | highmarkhealth | [Summer 2027 Evaluation Analytics Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Evaluation-Analytics-Graduate-Intern_J288013) | Analytics / BI | 51 Locations | Not disclosed | 2026-11-01 09:07 UTC | Role title |
 | 2026-10-20 | rockwellautomation | [Business Intelligence Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Business-Intelligence-Intern_R26-6613) | Analytics / BI | Katowice, Poland | Not disclosed | 2026-11-02 07:35 UTC | Role title |
-
-## Posted more than 30 days ago (104)
-
-| Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
-|---|---|---|---|---|---|---|---|
 | 2026-10-19 19:48 UTC | Anduril Industries | [2027 Low Observables Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) | Applied Research / Modeling | Costa Mesa, California, United States | $34–$50/hr | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2026-10-19 19:34 UTC | Legend Biotech US | [Data Intern](https://job-boards.greenhouse.io/legendcareers/jobs/4745118005) | Applied Research / Modeling | Bridgewater, New Jersey, United States | Not disclosed | 2026-11-01 16:45 UTC | Analytical responsibilities in description · Review |
 | 2026-10-19 18:33 UTC | tpgcareers | [Y Analytics, Responsible Investing, Summer Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8036208003) | Analytics / BI | Remote | $22.5/hr | 2026-11-01 02:04 UTC | Role title |
