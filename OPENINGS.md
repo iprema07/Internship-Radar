@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**292 currently tracked openings** · Last scan: 2026-11-20 11:22 UTC
+**298 currently tracked openings** · Last scan: 2026-11-20 18:48 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,15 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 187** · **Date unavailable: 105**
+**With employer dates: 190** · **Date unavailable: 108**
+
+## Posted today (UTC) (3)
+
+| Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
+|---|---|---|---|---|---|---|---|
+| 2026-11-20 | rockwellautomation | [Intern, Market Intelligence (LCS)](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Market-Intelligence--LCS-_R26-5032-1) | Analytics / BI | Milwaukee, Wisconsin, United States | Not disclosed | 2026-11-20 18:48 UTC | Role title |
+| 2026-11-20 | cardinalhealth | [Business Improvement Internship (Summer 2027)](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Business-Improvement-Internship--Summer-2027-_20191534) | Applied Research / Modeling | OH-Dublin-Cardinal Place | $23/hr | 2026-11-20 18:48 UTC | Analytical responsibilities in description · Review |
+| 2026-11-20 | rockwellautomation | [Intern - ISM, Cyber Security and AI](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern---ISM--Cyber-Security-and-AI_R26-5040-2) | Applied Research / Modeling | Mayfield Heights, Ohio, United States | Not disclosed | 2026-11-20 18:48 UTC | Analytical responsibilities in description · Review |
 
 ## Posted 1–7 calendar days ago (43)
 
@@ -212,10 +220,13 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2022-11-09 00:09 UTC | lgairesearch | [AI Scientist/Engineer Intern (LG AI Research Center, Ann Arbor) ](https://www.lgresearch.ai/careers?gh_jid=4130830005) | Applied Research / Modeling | Ann Arbor, Michigan, United States | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2022-09-08 17:24 UTC | Forma.ai - India Campus | [Customer Operations Analyst Intern](https://job-boards.greenhouse.io/formaaiinc3/jobs/4090129005) | Analytics / BI | Pune | Not disclosed | 2026-11-01 16:45 UTC | Role title |
 
-## Employer posting date unavailable — newest detected first (105)
+## Employer posting date unavailable — newest detected first (108)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
+| Not provided | **GlobalFoundries** | [AI/ML Analytics Intern, Digital Manufacturing (Summer 2027)](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604570?s=gh-internships-2027) | Data Science / ML | USA - New York - Malta | Not disclosed | 2026-11-20 18:48 UTC | Role title · Review |
+| Not provided | **Lucid Motors** | [Intern, AI/ML, Vehicle Infotainment, Summer 2027](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290923007?s=gh-internships-2027) | Data Science / ML | Newark, CA | Not disclosed | 2026-11-20 18:48 UTC | Role title · Review |
+| Not provided | **GlobalFoundries** | [AI-Enabled Device Modeling Intern (Summer 2027)](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604437?s=gh-internships-2027) | Applied Research / Modeling | USA - New York - Malta | Not disclosed | 2026-11-20 18:48 UTC | Role title · Review |
 | Not provided | **Applied Materials** | [Summer 2027 Data Analyst Intern- Bachelor's (Santa Clara, CA)](https://zapply.jobs/l/d/workday-amat-external-R2626652?s=gh-internships-2027) | Analytics / BI | Santa Clara,CA | Not disclosed | 2026-11-20 10:36 UTC | Role title · Review |
 | Not provided | **TransUnion** | [Data Science & Analytics Internship - Summer 2027](https://zapply.jobs/l/d/workday-transunion-transunion-19043450?s=gh-internships-2027) | Data Science / ML | Chicago, Illinois | Not disclosed | 2026-11-20 10:36 UTC | Role title · Review |
 | Not provided | **Atlantic Health System** | [Pharmacy (Data Analytics) Intern](https://zapply.jobs/l/d/oracle-atlantic-health-34551?s=gh-internships-2027) | Analytics / BI | Morristown, NJ, United States | Not disclosed | 2026-11-20 10:36 UTC | Role title · Review |
