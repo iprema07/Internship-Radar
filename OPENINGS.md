@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**297 currently tracked openings** · Last scan: 2026-11-21 21:05 UTC
+**296 currently tracked openings** · Last scan: 2026-11-21 23:03 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,9 +8,9 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 183** · **Date unavailable: 114**
+**With employer dates: 182** · **Date unavailable: 114**
 
-## Posted 1–7 calendar days ago (32)
+## Posted 1–7 calendar days ago (31)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -43,7 +43,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-11-16 | generalmotors | [Business Planning & Analytics Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Port-Melbourne-Victoria-Australia/Business-Planning---Analytics-Intern_JR-202624180) | Analytics / BI | Port Melbourne, Victoria, Australia | Not disclosed | 2026-11-16 06:47 UTC | Role title |
 | 2026-11-16 | elevancehealth | [Underwriting Intern - Summer 2027](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Underwriting-Intern---Summer-2027_JR211401) | Applied Research / Modeling | GA-ATLANTA, 740 W PEACHTREE ST NW | Not disclosed | 2026-11-16 20:18 UTC | Analytical responsibilities in description · Review |
 | 2026-11-16 | bloomenergy | [Structured Finance Summer Associate (MBA Intern)](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/Structured-Finance-Summer-Associate--MBA-Intern-_JR-25369) | Applied Research / Modeling | San Jose, California | Not disclosed | 2026-11-16 20:18 UTC | Analytical responsibilities in description · Review |
-| 2026-11-15 | dxctechnology | [IT Intern](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/MYS---PETALING-JAYA/IT-Intern_51590952) | Applied Research / Modeling | MYS - PETALING JAYA | Not disclosed | 2026-11-15 14:22 UTC | Analytical responsibilities in description · Review |
 | 2026-11-15 | dxctechnology | [IT Intern](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/MYS---PETALING-JAYA/IT-Intern_51590880) | Applied Research / Modeling | MYS - PETALING JAYA | Not disclosed | 2026-11-15 14:22 UTC | Analytical responsibilities in description · Review |
 | 2026-11-15 | dxctechnology | [IT Intern](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/MYS---PETALING-JAYA/IT-Intern_51590876) | Applied Research / Modeling | MYS - PETALING JAYA | Not disclosed | 2026-11-15 14:22 UTC | Analytical responsibilities in description · Review |
 
@@ -187,7 +186,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-05-05 18:52 UTC | human-computer-lab | [Intern - Controls Engineer](https://jobs.ashbyhq.com/human-computer-lab/3ceb956a-f231-4238-bb2e-365515b930a7) | Applied Research / Modeling | San Francisco | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-04-29 18:02 UTC | Scale AI | [SWE Fellow - Human Frontier Collective (Canada)](https://job-boards.greenhouse.io/scaleai/jobs/4689954005) | Applied Research / Modeling | Canada | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-04-29 18:02 UTC | Scale AI | [SWE Fellow - Human Frontier Collective (UK)](https://job-boards.greenhouse.io/scaleai/jobs/4689950005) | Applied Research / Modeling | United Kingdom | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
-| 2026-04-29 18:02 UTC | Scale AI | [SWE Fellow - Human Frontier Collective (US)](https://job-boards.greenhouse.io/scaleai/jobs/4689947005) | Applied Research / Modeling | United States | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
+| 2026-04-29 18:02 UTC | Scale AI | [SWE Fellow - Human Frontier Collective (US, UK, & Canada)](https://job-boards.greenhouse.io/scaleai/jobs/4689947005) | Applied Research / Modeling | United States | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-04-15 15:24 UTC | Gen Digital Inc. | [Data Engineer, Intern - MoneyLion](https://jobs.ashbyhq.com/gen-digital/ec9dc7d0-9ed2-4421-ad61-158462f59e27) | Data Engineering | MYS - Kuala Lumpur | Not disclosed | 2026-11-01 09:07 UTC | Role title |
 | 2026-04-01 10:52 UTC | Alpha Financial Markets Consulting - Early Careers | [Intern Consultant ](https://job-boards.greenhouse.io/alphafmcrolesearlycareers/jobs/8333827002) | Applied Research / Modeling | Paris | Not disclosed | 2026-11-01 02:04 UTC | Analytical responsibilities in description · Review |
 | 2026-03-12 14:42 UTC | avelios-medical | [Working Student Machine Learning (all genders)](https://jobs.ashbyhq.com/avelios-medical/8ecc1307-040b-4d4f-85a8-126073b413f3) | Data Science / ML | Munich | Not disclosed | 2026-11-01 16:45 UTC | Role title |
@@ -214,8 +213,8 @@ Postings with unknown release dates are below the dated results, sorted by first
 |---|---|---|---|---|---|---|---|
 | Not provided | **Impulse Space** | [Supply Chain Data Analytics Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-624039?s=gh-internships-2027) | Analytics / BI | Redondo Beach, California | Not disclosed | 2026-11-21 01:22 UTC | Role title · Review |
 | Not provided | **Pivotal Software** | [Internship, Supply Chain Analyst (Summer 2027)](https://zapply.jobs/l/d/lever-pivotal-711d6c44-a1f9-4ab4-943f-b6e8d53194be?s=gh-internships-2027) | Analytics / BI | Palo Alto, CA | Not disclosed | 2026-11-21 01:22 UTC | Role title · Review |
-| Not provided | **Rockwell Automation** | [Intern, Market Intelligence (LCS)](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5032?s=gh-internships-2027) | Analytics / BI | Milwaukee, Wisconsin, United States | Not disclosed | 2026-11-21 01:22 UTC | Role title · Review |
 | Not provided | Commonwealth Fusion Systems | [Intern - Molten Salt Blanket Engineer - Summer 2027](https://jobs.lever.co/cfsenergy/83ca56d7-f142-4ecc-af72-5484519eaf08) | Applied Research / Modeling | Devens, MA | $25–$38/hr | 2026-11-21 01:22 UTC | Analytical responsibilities in description · Review |
+| Not provided | **T-Mobile** | [Summer 2027 Data Analyst Internship](https://zapply.jobs/l/d/workday-tmobile-external-REQ383588?s=gh-internships-2027) | Analytics / BI | Bellevue, Washington | Not disclosed | 2026-11-21 00:21 UTC | Role title · Review |
 | Not provided | **T-Mobile** | [Summer 2027 Data Analyst Internship](https://zapply.jobs/l/d/workday-tmobile-external-REQ383587?s=gh-internships-2027) | Analytics / BI | Bellevue, Washington | Not disclosed | 2026-11-21 00:21 UTC | Role title · Review |
 | Not provided | **Cisco** | [Data Science Analyst II (Intern) – Untied States](https://zapply.jobs/l/d/phenom-cisco-2032691?s=gh-internships-2027) | Data Science / ML | San Jose, California | Not disclosed | 2026-11-21 00:21 UTC | Role title · Review |
 | Not provided | **Cisco** | [Data Science Analyst II (Intern) – Untied States](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2032691?s=gh-internships-2027) | Data Science / ML | San Jose, California, US | Not disclosed | 2026-11-21 00:21 UTC | Role title · Review |
