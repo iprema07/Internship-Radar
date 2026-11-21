@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**300 currently tracked openings** · Last scan: 2026-11-21 15:34 UTC
+**300 currently tracked openings** · Last scan: 2026-11-21 17:21 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -217,6 +217,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 |---|---|---|---|---|---|---|---|
 | Not provided | **Impulse Space** | [Supply Chain Data Analytics Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-624039?s=gh-internships-2027) | Analytics / BI | Redondo Beach, California | Not disclosed | 2026-11-21 01:22 UTC | Role title · Review |
 | Not provided | **Pivotal Software** | [Internship, Supply Chain Analyst (Summer 2027)](https://zapply.jobs/l/d/lever-pivotal-711d6c44-a1f9-4ab4-943f-b6e8d53194be?s=gh-internships-2027) | Analytics / BI | Palo Alto, CA | Not disclosed | 2026-11-21 01:22 UTC | Role title · Review |
+| Not provided | **Rockwell Automation** | [Intern, Market Intelligence (LCS)](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5032?s=gh-internships-2027) | Analytics / BI | Milwaukee, Wisconsin, United States | Not disclosed | 2026-11-21 01:22 UTC | Role title · Review |
 | Not provided | Commonwealth Fusion Systems | [Intern - Molten Salt Blanket Engineer - Summer 2027](https://jobs.lever.co/cfsenergy/83ca56d7-f142-4ecc-af72-5484519eaf08) | Applied Research / Modeling | Devens, MA | $25–$38/hr | 2026-11-21 01:22 UTC | Analytical responsibilities in description · Review |
 | Not provided | **T-Mobile** | [Summer 2027 Data Analyst Internship](https://zapply.jobs/l/d/workday-tmobile-external-REQ383587?s=gh-internships-2027) | Analytics / BI | Bellevue, Washington | Not disclosed | 2026-11-21 00:21 UTC | Role title · Review |
 | Not provided | **Cisco** | [Data Science Analyst II (Intern) – Untied States](https://zapply.jobs/l/d/phenom-cisco-2032691?s=gh-internships-2027) | Data Science / ML | San Jose, California | Not disclosed | 2026-11-21 00:21 UTC | Role title · Review |
@@ -277,7 +278,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | **Vertex Pharmaceuticals** | [Summer Intern 2027, OSD Process Data Analytics](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31312?s=gh-internships-2027) | Analytics / BI | Boston, MA | Not disclosed | 2026-11-13 21:34 UTC | Role title · Review |
 | Not provided | Toyota Research Institute | [Research Intern, Continual Adaptation for Robotics](https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac) | Applied Research / Modeling | Cambridge, MA | $58/hr | 2026-11-13 21:34 UTC | Analytical responsibilities in description · Review |
 | Not provided | **Zoox** | [Data Scientist Intern \[Summer 2027\]](https://zapply.jobs/l/d/lever-zoox-0f42ac76-3821-4805-8b59-446477d1e1db?s=gh-internships-2027) | Data Science / ML | Foster City, CA | Not disclosed | 2026-11-13 00:34 UTC | Role title · Review |
-| Not provided | **ASML** | [Internship - Data Scientist](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00356462?s=gh-internships-2027) | Data Science / ML | Wilton, CT, USA | Not disclosed | 2026-11-13 00:34 UTC | Role title · Review |
 | Not provided | **Stanley Black & Decker** | [Intern, Data Analyst & BI, Summer 2027](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052481?s=gh-internships-2027) | Analytics / BI | Towson, MD, United States | Not disclosed | 2026-11-13 00:08 UTC | Role title · Review |
 | Not provided | **Fresenius Medical Care** | [Agentic AI Analytics Co-op](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277797?s=gh-internships-2027) | Analytics / BI | Lawrence, MA, USA | Not disclosed | 2026-11-13 00:08 UTC | Role title · Review |
 | Not provided | **NREL** | [Graduate Internship (Year-Round) - Geospatial Data Science Modeling and Analysis](https://zapply.jobs/l/d/workday-nrel-nlr-R14510?s=gh-internships-2027) | Data Science / ML | Golden, CO | Not disclosed | 2026-11-13 00:08 UTC | Role title · Review |
