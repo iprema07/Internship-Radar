@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**293 currently tracked openings** · Last scan: 2026-11-22 18:27 UTC
+**294 currently tracked openings** · Last scan: 2026-11-22 22:09 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 179** · **Date unavailable: 114**
+**With employer dates: 179** · **Date unavailable: 115**
 
 ## Posted 1–7 calendar days ago (31)
 
@@ -204,12 +204,13 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2022-11-09 00:09 UTC | lgairesearch | [AI Scientist/Engineer Intern (LG AI Research Center, Ann Arbor) ](https://www.lgresearch.ai/careers?gh_jid=4130830005) | Applied Research / Modeling | Ann Arbor, Michigan, United States | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2022-09-08 17:24 UTC | Forma.ai - India Campus | [Customer Operations Analyst Intern](https://job-boards.greenhouse.io/formaaiinc3/jobs/4090129005) | Analytics / BI | Pune | Not disclosed | 2026-11-01 16:45 UTC | Role title |
 
-## Employer posting date unavailable — newest detected first (114)
+## Employer posting date unavailable — newest detected first (115)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
 | Not provided | **Impulse Space** | [Supply Chain Data Analytics Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-624039?s=gh-internships-2027) | Analytics / BI | Redondo Beach, California | Not disclosed | 2026-11-21 01:22 UTC | Role title · Review |
 | Not provided | **Pivotal Software** | [Internship, Supply Chain Analyst (Summer 2027)](https://zapply.jobs/l/d/lever-pivotal-711d6c44-a1f9-4ab4-943f-b6e8d53194be?s=gh-internships-2027) | Analytics / BI | Palo Alto, CA | Not disclosed | 2026-11-21 01:22 UTC | Role title · Review |
+| Not provided | **Rockwell Automation** | [Intern, Market Intelligence (LCS)](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5032?s=gh-internships-2027) | Analytics / BI | Milwaukee, Wisconsin, United States | Not disclosed | 2026-11-21 01:22 UTC | Role title · Review |
 | Not provided | Commonwealth Fusion Systems | [Intern - Molten Salt Blanket Engineer - Summer 2027](https://jobs.lever.co/cfsenergy/83ca56d7-f142-4ecc-af72-5484519eaf08) | Applied Research / Modeling | Devens, MA | $25–$38/hr | 2026-11-21 01:22 UTC | Analytical responsibilities in description · Review |
 | Not provided | **T-Mobile** | [Summer 2027 Data Analyst Internship](https://zapply.jobs/l/d/workday-tmobile-external-REQ383587?s=gh-internships-2027) | Analytics / BI | Bellevue, Washington | Not disclosed | 2026-11-21 00:21 UTC | Role title · Review |
 | Not provided | **Cisco** | [Data Science Analyst II (Intern) – Untied States](https://zapply.jobs/l/d/phenom-cisco-2032691?s=gh-internships-2027) | Data Science / ML | San Jose, California | Not disclosed | 2026-11-21 00:21 UTC | Role title · Review |
