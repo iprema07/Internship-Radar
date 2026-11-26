@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**294 currently tracked openings** · Last scan: 2026-11-26 15:41 UTC
+**299 currently tracked openings** · Last scan: 2026-11-26 23:43 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 177** · **Date unavailable: 117**
+**With employer dates: 181** · **Date unavailable: 118**
 
 ## Posted today (UTC) (2)
 
@@ -17,17 +17,21 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2026-11-26 05:46 UTC | CommerceIQ | [Data Scientist - Intern](https://job-boards.greenhouse.io/commerceiq/jobs/8215092003) | Data Science / ML | Bengaluru, Karnataka, India | Not disclosed | 2026-11-26 14:59 UTC | Role title |
 | 2026-11-26 | Eli Lilly | [Customer Insights & Analytics Intern](https://lilly.wd115.myworkdayjobs.com/CMP/job/CA-Toronto-ON/Customer-Insights---Analytics-Intern_R-116221) | Analytics / BI | CA: Toronto ON | Not disclosed | 2026-11-26 15:41 UTC | Role title |
 
-## Posted 1–7 calendar days ago (20)
+## Posted 1–7 calendar days ago (24)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
 | 2026-11-25 23:38 UTC | queracomputinginc | [Internship – Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008) | Applied Research / Modeling | Boston, MA, USA | Not disclosed | 2026-11-25 23:41 UTC | Analytical responsibilities in description · Review |
+| 2026-11-25 17:14 UTC | Peec AI | [Visiting Analytics Engineer](https://jobs.ashbyhq.com/peec/69de4fe6-b416-4a78-9310-252d1adbe141) | Analytics / BI | Berlin | Not disclosed | 2026-11-26 23:43 UTC | Role title |
+| 2026-11-25 | generac | [Consumer Experience Data Analyst Intern](https://generac.wd5.myworkdayjobs.com/External/job/Pewaukee-WI---USA/Consumer-Experience-Data-Analyst-Intern_JR17206) | Analytics / BI | Pewaukee, WI - USA | Not disclosed | 2026-11-26 23:43 UTC | Role title |
 | 2026-11-24 18:37 UTC | senrasystems | [Emerging Talent - Industrial Engineering Intern Summer 2027](https://job-boards.greenhouse.io/senrasystems/jobs/5492275008) | Applied Research / Modeling | Cypress, California, United States | $30/hr | 2026-11-25 02:16 UTC | Analytical responsibilities in description · Review |
 | 2026-11-24 15:14 UTC | neura-robotics-gmbh | [Intern - System Testing ](https://jobs.ashbyhq.com/neura-robotics-gmbh/2e7c60de-bdf4-487b-8e88-61c93a746f45) | Applied Research / Modeling | Metzingen / Riederich | Not disclosed | 2026-11-25 12:37 UTC | Analytical responsibilities in description · Review |
 | 2026-11-24 | generalmotors | [2027 Summer Intern – Business Operations & Cost Optimization, Cadillac Racing Program Management](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Business-Operations---Cost-Optimization--Cadillac-Racing-Program-Management_JR-202619989) | Applied Research / Modeling | Milford, Michigan, United States of America | Not disclosed | 2026-11-24 21:22 UTC | Analytical responsibilities in description · Review |
 | 2026-11-24 | bbinsurance | [Accounting Intern](https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/San-Diego-CA-USA/Accounting-Intern_R26_0000004150-1) | Applied Research / Modeling | San Diego, CA, USA | Not disclosed | 2026-11-25 02:16 UTC | Analytical responsibilities in description · Review |
 | 2026-11-23 21:32 UTC | capitaltg | [Summer Internship - Business Development](https://boards.greenhouse.io/capitaltg/jobs/5307090007?gh_jid=5307090007) | Applied Research / Modeling | Hybrid (Silver Spring, MD) | Not disclosed | 2026-11-25 02:16 UTC | Analytical responsibilities in description · Review |
 | 2026-11-23 21:32 UTC | capitaltg | [Summer Internship - Data Engineering and Data Science](https://boards.greenhouse.io/capitaltg/jobs/5307074007?gh_jid=5307074007) | Data Science / ML | Hybrid (Silver Spring, MD) | Not disclosed | 2026-11-25 02:16 UTC | Role title |
+| 2026-11-23 18:50 UTC | lakefrontbiotherapeuticsinc | [Intern, Corporate Strategy](https://job-boards.greenhouse.io/lakefrontbiotherapeuticsinc/jobs/4519078009) | Applied Research / Modeling | Chicago, IL | $35–$55/hr | 2026-11-26 23:43 UTC | Analytical responsibilities in description · Review |
+| 2026-11-23 18:50 UTC | lakefrontbiotherapeuticsinc | [Intern, Commercial Strategy](https://job-boards.greenhouse.io/lakefrontbiotherapeuticsinc/jobs/4519069009) | Applied Research / Modeling | Chicago, IL | $35–$55/hr | 2026-11-26 23:43 UTC | Analytical responsibilities in description · Review |
 | 2026-11-23 15:46 UTC | iCapital | [Investment Strategy - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958529002) | Applied Research / Modeling | New York, New York, United States | $43.5/hr | 2026-11-25 12:37 UTC | Analytical responsibilities in description · Review |
 | 2026-11-23 13:40 UTC | Power Digital | [Analytics Reporting Intern](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5306700007) | Analytics / BI | Remote - Colombia | Not disclosed | 2026-11-25 02:16 UTC | Role title |
 | 2026-11-23 12:40 UTC | Harmattan AI | [Mechatronics Engineer Intern - Automated UAV Calibration](https://jobs.ashbyhq.com/harmattan-ai/e797faf2-88d4-48ff-8a8d-917b50ed207e) | Applied Research / Modeling | Lausanne | Not disclosed | 2026-11-25 02:16 UTC | Analytical responsibilities in description · Review |
@@ -207,10 +211,11 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2022-11-09 00:09 UTC | lgairesearch | [AI Scientist/Engineer Intern (LG AI Research Center, Ann Arbor) ](https://www.lgresearch.ai/careers?gh_jid=4130830005) | Applied Research / Modeling | Ann Arbor, Michigan, United States | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2022-09-08 17:24 UTC | Forma.ai - India Campus | [Customer Operations Analyst Intern](https://job-boards.greenhouse.io/formaaiinc3/jobs/4090129005) | Analytics / BI | Pune | Not disclosed | 2026-11-01 16:45 UTC | Role title |
 
-## Employer posting date unavailable — newest detected first (117)
+## Employer posting date unavailable — newest detected first (118)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
+| Not provided | **Intuitive** | [HEOR Intern](https://zapply.jobs/l/d/sr-Intuitive-744000163908429?s=gh-internships-2027) | Epidemiology / RWE / HEOR | Sunnyvale, CA | Not disclosed | 2026-11-26 23:43 UTC | Role title · Review |
 | Not provided | **Lockheed Martin** | [Financial Analytics Intern](https://zapply.jobs/l/d/eightfold-lockheedmartin-996477874028?s=gh-internships-2027) | Analytics / BI | Highlands Ranch, CO | Not disclosed | 2026-11-26 14:59 UTC | Role title · Review |
 | Not provided | **Lucid Motors** | [Sales Strategy, Planning & Analytics Intern](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306856007?s=gh-internships-2027) | Analytics / BI | Amsterdam, NH | Not disclosed | 2026-11-26 14:59 UTC | Role title · Review |
 | Not provided | **Lucid Motors** | [Network Analytics & Reporting Intern](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306687007?s=gh-internships-2027) | Analytics / BI | Amsterdam, NH | Not disclosed | 2026-11-26 14:59 UTC | Role title · Review |
