@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**297 currently tracked openings** · Last scan: 2026-11-27 00:04 UTC
+**298 currently tracked openings** · Last scan: 2026-11-27 08:08 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,7 +8,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 179** · **Date unavailable: 118**
+**With employer dates: 179** · **Date unavailable: 119**
 
 ## Posted 1–7 calendar days ago (21)
 
@@ -204,7 +204,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2022-11-09 00:09 UTC | lgairesearch | [AI Scientist/Engineer Intern (LG AI Research Center, Ann Arbor) ](https://www.lgresearch.ai/careers?gh_jid=4130830005) | Applied Research / Modeling | Ann Arbor, Michigan, United States | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2022-09-08 17:24 UTC | Forma.ai - India Campus | [Customer Operations Analyst Intern](https://job-boards.greenhouse.io/formaaiinc3/jobs/4090129005) | Analytics / BI | Pune | Not disclosed | 2026-11-01 16:45 UTC | Role title |
 
-## Employer posting date unavailable — newest detected first (118)
+## Employer posting date unavailable — newest detected first (119)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -222,6 +222,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | Gravis Robotics | [Data Engineer Intern](https://jobs.lever.co/gravisrobotics/8a4a157c-7569-43e6-82b1-56e84033641d) | Data Engineering | Zurich | Not disclosed | 2026-11-25 22:24 UTC | Role title |
 | Not provided | **Northrop Grumman** | [2027 Configuration Management Data Analyst Intern - Falls Church VA](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10262117?s=gh-internships-2027) | Analytics / BI | United States-Virginia-Falls Church | Not disclosed | 2026-11-25 14:52 UTC | Role title · Review |
 | Not provided | **KeyBank** | [2027 Summer Analytics and Quantitative Modeling Internship- Cleveland](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41380?s=gh-internships-2027) | Analytics / BI | Cleveland, OH | Not disclosed | 2026-11-24 21:22 UTC | Role title · Review |
+| Not provided | **Philips** | [Intern – Marketing Operations Analyst - Cambridge, MA – Summer 2027](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593642?s=gh-internships-2027) | Analytics / BI | Cambridge (US), Massachusetts,... | Not disclosed | 2026-11-24 21:22 UTC | Role title · Review |
 | Not provided | **Danaher** | [IT Data Analyst Intern](https://zapply.jobs/l/d/phenom-danaher-R1316675?s=gh-internships-2027) | Analytics / BI | Brea, California | Not disclosed | 2026-11-24 21:22 UTC | Role title · Review |
 | Not provided | **Nasdaq** | [Data Engineering Intern - 2027 Summer Internship](https://zapply.jobs/l/d/workday-nasdaq-global-external-site-R0027379?s=gh-internships-2027) | Data Engineering | Denver | Not disclosed | 2026-11-24 21:22 UTC | Role title · Review |
 | Not provided | **Micron Technology** | [Intern - SSD Architecture Modeling](https://zapply.jobs/l/d/workday-micron-external-JR113803?s=gh-internships-2027) | Applied Research / Modeling | Boise, ID - Main Site | Not disclosed | 2026-11-24 21:22 UTC | Role title · Review |
