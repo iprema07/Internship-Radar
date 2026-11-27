@@ -1,6 +1,6 @@
 # Summer 2027 Internships
 
-**297 currently tracked openings** · Last scan: 2026-11-27 18:30 UTC
+**301 currently tracked openings** · Last scan: 2026-11-27 18:51 UTC
 
 **Sorted by employer posting date, newest first.** Dates are shown only when supplied by an employer.
 The *First detected* column records when this scanner first found a listing; it is NOT the posting date.
@@ -8,12 +8,22 @@ Postings with unknown release dates are below the dated results, sorted by first
 
 [Project home](README.md) · [Interactive dashboard](index.html)
 
-**With employer dates: 177** · **Date unavailable: 120**
+**With employer dates: 182** · **Date unavailable: 119**
 
-## Posted 1–7 calendar days ago (20)
+## Posted today (UTC) (4)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
+| 2026-11-27 17:18 UTC | Alpha Financial Markets Consulting - Early Careers | [Intern Consultant - Luxembourg](https://job-boards.greenhouse.io/alphafmcrolesearlycareers/jobs/8964203002) | Applied Research / Modeling | Luxembourg | Not disclosed | 2026-11-27 18:51 UTC | Analytical responsibilities in description · Review |
+| 2026-11-27 16:30 UTC | Alpha Financial Markets Consulting - Early Careers | [Intern Consultant - Zurich](https://job-boards.greenhouse.io/alphafmcrolesearlycareers/jobs/8964115002) | Applied Research / Modeling | Geneva | Not disclosed | 2026-11-27 18:51 UTC | Analytical responsibilities in description · Review |
+| 2026-11-27 15:42 UTC | Alpha Financial Markets Consulting - Early Careers | [Intern Consultant - Paris](https://job-boards.greenhouse.io/alphafmcrolesearlycareers/jobs/8963572002) | Applied Research / Modeling | Paris | Not disclosed | 2026-11-27 18:51 UTC | Analytical responsibilities in description · Review |
+| 2026-11-27 14:27 UTC | Harmattan AI | [Flight Control Intern - Stabilizing Unstable Aircraft](https://jobs.ashbyhq.com/harmattan-ai/f775e0cd-c055-453a-af8f-8bf7a6cbb6ca) | Applied Research / Modeling | Lausanne | Not disclosed | 2026-11-27 18:51 UTC | Analytical responsibilities in description · Review |
+
+## Posted 1–7 calendar days ago (21)
+
+| Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
+|---|---|---|---|---|---|---|---|
+| 2026-11-26 17:08 UTC | Alpha Financial Markets Consulting - Early Careers | [Intern Consultant - Geneva](https://job-boards.greenhouse.io/alphafmcrolesearlycareers/jobs/8963622002) | Applied Research / Modeling | Geneva | Not disclosed | 2026-11-27 18:51 UTC | Analytical responsibilities in description · Review |
 | 2026-11-26 | Eli Lilly | [Customer Insights & Analytics Intern](https://lilly.wd115.myworkdayjobs.com/CMP/job/CA-Toronto-ON/Customer-Insights---Analytics-Intern_R-116221) | Analytics / BI | CA: Toronto ON | Not disclosed | 2026-11-26 15:41 UTC | Role title |
 | 2026-11-25 23:38 UTC | queracomputinginc | [Internship – Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008) | Applied Research / Modeling | Boston, MA, USA | Not disclosed | 2026-11-25 23:41 UTC | Analytical responsibilities in description · Review |
 | 2026-11-25 17:14 UTC | Peec AI | [Visiting Analytics Engineer](https://jobs.ashbyhq.com/peec/69de4fe6-b416-4a78-9310-252d1adbe141) | Analytics / BI | Berlin | Not disclosed | 2026-11-26 23:43 UTC | Role title |
@@ -202,7 +212,7 @@ Postings with unknown release dates are below the dated results, sorted by first
 | 2022-11-09 00:09 UTC | lgairesearch | [AI Scientist/Engineer Intern (LG AI Research Center, Ann Arbor) ](https://www.lgresearch.ai/careers?gh_jid=4130830005) | Applied Research / Modeling | Ann Arbor, Michigan, United States | Not disclosed | 2026-11-01 09:07 UTC | Analytical responsibilities in description · Review |
 | 2022-09-08 17:24 UTC | Forma.ai - India Campus | [Customer Operations Analyst Intern](https://job-boards.greenhouse.io/formaaiinc3/jobs/4090129005) | Analytics / BI | Pune | Not disclosed | 2026-11-01 16:45 UTC | Role title |
 
-## Employer posting date unavailable — newest detected first (120)
+## Employer posting date unavailable — newest detected first (119)
 
 | Posted by employer | Company | Internship | Discipline | Location | Advertised pay | First detected | Match |
 |---|---|---|---|---|---|---|---|
@@ -291,7 +301,6 @@ Postings with unknown release dates are below the dated results, sorted by first
 | Not provided | Toyota Research Institute | [Future Product Innovation Research Intern, Human-AI Computational Design](https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2) | Applied Research / Modeling | Los Altos, CA | $65/hr | 2026-11-12 03:27 UTC | Analytical responsibilities in description · Review |
 | Not provided | Toyota Research Institute | [Future Product Innovation Research Intern, Human Computer Interaction](https://jobs.lever.co/tri/e01def2d-0ee0-4f24-bf38-0b52a8047ea7) | Applied Research / Modeling | Los Altos, CA | $65/hr | 2026-11-12 03:27 UTC | Analytical responsibilities in description · Review |
 | Not provided | Toyota Research Institute | [Automated Driving Advanced Development Intern, Machine Learning Research](https://jobs.lever.co/tri/da4b4832-36e7-4703-9841-c319efd6d495) | Data Science / ML | Los Altos, CA | $65/hr | 2026-11-11 21:18 UTC | Role title |
-| Not provided | **AstraZeneca** | [Biologics Engineering, Computational and Experimental Design of Multispecific Antibodies Intern](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264042?s=gh-internships-2027) | Statistics / Statistical Methods | Gaithersburg - MD | Not disclosed | 2026-11-11 16:21 UTC | Role title · Review |
 | Not provided | **NVIDIA** | [Financial Analyst Intern, Hardware FP&A - Summer 2027](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029523?s=gh-internships-2027) | Analytics / BI | US, CA, Santa Clara | Not disclosed | 2026-11-11 01:27 UTC | Role title · Review |
 | Not provided | Toyota Research Institute | [Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027)](https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37) | Applied Research / Modeling | Los Altos, CA | $65/hr | 2026-11-10 21:28 UTC | Analytical responsibilities in description · Review |
 | Not provided | Toyota Research Institute | [Automated Driving Advanced Development Intern, Machine Learning Research](https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415) | Data Science / ML | Los Altos, CA | $65/hr | 2026-11-10 00:44 UTC | Role title |
